@@ -1,0 +1,1001 @@
+patient_id,name,gender,age,city,admission_date,discharge_date,status,diagnosis,doctor_name,doctor_gender,experience_years,department_name,appointment_date,appointment_status,bill_amount,payment_method,medicine_name,days,test_name,result
+100001,"Ishaan Patel",Female,34,Adilabad,2025-09-15,,Admitted,Fever,"Dr. Sai Naidu",Male,5,"General Medicine",2025-09-28,Scheduled,34860,Cash,Amoxicillin,11,"CT Scan",Normal
+100001,"Ishaan Patel",Female,34,Adilabad,2025-09-15,,Admitted,Fever,"Dr. Sai Naidu",Male,5,"General Medicine",2025-09-28,Scheduled,34860,Cash,Amoxicillin,11,"CT Scan",Normal
+100001,"Ishaan Patel",Female,34,Adilabad,2025-09-15,,Admitted,Fever,"Dr. Sai Naidu",Male,5,"General Medicine",2025-10-11,Scheduled,34860,Cash,Amoxicillin,11,"CT Scan",Normal
+100001,"Ishaan Patel",Female,34,Adilabad,2025-09-15,,Admitted,Fever,"Dr. Sai Naidu",Male,5,"General Medicine",2025-10-11,Scheduled,34860,Cash,Amoxicillin,11,"CT Scan",Normal
+100001,"Ishaan Patel",Female,34,Adilabad,2025-09-15,,Admitted,Fever,"Dr. Sai Naidu",Male,5,"General Medicine",2025-10-06,Scheduled,34860,Cash,Amoxicillin,11,"CT Scan",Normal
+100001,"Ishaan Patel",Female,34,Adilabad,2025-09-15,,Admitted,Fever,"Dr. Sai Naidu",Male,5,"General Medicine",2025-10-06,Scheduled,34860,Cash,Amoxicillin,11,"CT Scan",Normal
+100001,"Ishaan Patel",Female,34,Adilabad,2025-09-15,,Admitted,Fever,"Dr. Sai Naidu",Male,5,"General Medicine",2025-09-26,Cancelled,34860,Cash,Amoxicillin,11,"CT Scan",Normal
+100001,"Ishaan Patel",Female,34,Adilabad,2025-09-15,,Admitted,Fever,"Dr. Sai Naidu",Male,5,"General Medicine",2025-09-26,Cancelled,34860,Cash,Amoxicillin,11,"CT Scan",Normal
+100002,"Nisha Nair",Male,72,Hyderabad,2025-06-03,,Admitted,Asthma,"Dr. Kavya Ali",Female,22,Emergency,2025-06-04,Completed,179369,Insurance,Paracetamol,15,"Urine Test",Abnormal
+100002,"Nisha Nair",Male,72,Hyderabad,2025-06-03,,Admitted,Asthma,"Dr. Kavya Ali",Female,22,Emergency,2025-06-04,Completed,179369,Insurance,Amoxicillin,7,"Urine Test",Abnormal
+100002,"Nisha Nair",Male,72,Hyderabad,2025-06-03,,Admitted,Asthma,"Dr. Kavya Ali",Female,22,Emergency,2025-07-01,Scheduled,179369,Insurance,Paracetamol,15,"Urine Test",Abnormal
+100002,"Nisha Nair",Male,72,Hyderabad,2025-06-03,,Admitted,Asthma,"Dr. Kavya Ali",Female,22,Emergency,2025-07-01,Scheduled,179369,Insurance,Amoxicillin,7,"Urine Test",Abnormal
+100003,"Ishaan Nair",Male,89,Medak,2025-03-06,2025-03-16,Discharged,Allergy,"Dr. Vikram Reddy",Female,25,Pediatrics,2025-04-04,Scheduled,133710,Insurance,Amoxicillin,9,"CT Scan",Abnormal
+100003,"Ishaan Nair",Male,89,Medak,2025-03-06,2025-03-16,Discharged,Allergy,"Dr. Vikram Reddy",Female,25,Pediatrics,2025-04-04,Scheduled,133710,Insurance,Amoxicillin,10,"CT Scan",Abnormal
+100003,"Ishaan Nair",Male,89,Medak,2025-03-06,2025-03-16,Discharged,Allergy,"Dr. Vikram Reddy",Female,25,Pediatrics,2025-04-03,Cancelled,133710,Insurance,Amoxicillin,9,"CT Scan",Abnormal
+100003,"Ishaan Nair",Male,89,Medak,2025-03-06,2025-03-16,Discharged,Allergy,"Dr. Vikram Reddy",Female,25,Pediatrics,2025-04-03,Cancelled,133710,Insurance,Amoxicillin,10,"CT Scan",Abnormal
+100003,"Ishaan Nair",Male,89,Medak,2025-03-06,2025-03-16,Discharged,Allergy,"Dr. Vikram Reddy",Female,25,Pediatrics,2025-03-28,Scheduled,133710,Insurance,Amoxicillin,9,"CT Scan",Abnormal
+100003,"Ishaan Nair",Male,89,Medak,2025-03-06,2025-03-16,Discharged,Allergy,"Dr. Vikram Reddy",Female,25,Pediatrics,2025-03-28,Scheduled,133710,Insurance,Amoxicillin,10,"CT Scan",Abnormal
+100003,"Ishaan Nair",Male,89,Medak,2025-03-06,2025-03-16,Discharged,Allergy,"Dr. Vikram Reddy",Female,25,Pediatrics,2025-04-05,Completed,133710,Insurance,Amoxicillin,9,"CT Scan",Abnormal
+100003,"Ishaan Nair",Male,89,Medak,2025-03-06,2025-03-16,Discharged,Allergy,"Dr. Vikram Reddy",Female,25,Pediatrics,2025-04-05,Completed,133710,Insurance,Amoxicillin,10,"CT Scan",Abnormal
+100004,"Divya Ali",Male,20,Sangareddy,2025-09-04,2025-09-08,Discharged,Fracture,"Dr. Priya Joshi",Female,19,ENT,2025-09-16,Cancelled,66850,Card,Amoxicillin,5,MRI,Abnormal
+100004,"Divya Ali",Male,20,Sangareddy,2025-09-04,2025-09-08,Discharged,Fracture,"Dr. Priya Joshi",Female,19,ENT,2025-09-16,Cancelled,66850,Card,Amoxicillin,5,"Urine Test",Abnormal
+100004,"Divya Ali",Male,20,Sangareddy,2025-09-04,2025-09-08,Discharged,Fracture,"Dr. Priya Joshi",Female,19,ENT,2025-09-16,Cancelled,66850,Card,Amoxicillin,13,MRI,Abnormal
+100004,"Divya Ali",Male,20,Sangareddy,2025-09-04,2025-09-08,Discharged,Fracture,"Dr. Priya Joshi",Female,19,ENT,2025-09-16,Cancelled,66850,Card,Amoxicillin,13,"Urine Test",Abnormal
+100004,"Divya Ali",Male,20,Sangareddy,2025-09-04,2025-09-08,Discharged,Fracture,"Dr. Priya Joshi",Female,19,ENT,2025-10-04,Completed,66850,Card,Amoxicillin,5,MRI,Abnormal
+100004,"Divya Ali",Male,20,Sangareddy,2025-09-04,2025-09-08,Discharged,Fracture,"Dr. Priya Joshi",Female,19,ENT,2025-10-04,Completed,66850,Card,Amoxicillin,5,"Urine Test",Abnormal
+100004,"Divya Ali",Male,20,Sangareddy,2025-09-04,2025-09-08,Discharged,Fracture,"Dr. Priya Joshi",Female,19,ENT,2025-10-04,Completed,66850,Card,Amoxicillin,13,MRI,Abnormal
+100004,"Divya Ali",Male,20,Sangareddy,2025-09-04,2025-09-08,Discharged,Fracture,"Dr. Priya Joshi",Female,19,ENT,2025-10-04,Completed,66850,Card,Amoxicillin,13,"Urine Test",Abnormal
+100004,"Divya Ali",Male,20,Sangareddy,2025-09-04,2025-09-08,Discharged,Fracture,"Dr. Priya Joshi",Female,19,ENT,2025-09-11,Scheduled,66850,Card,Amoxicillin,5,MRI,Abnormal
+100004,"Divya Ali",Male,20,Sangareddy,2025-09-04,2025-09-08,Discharged,Fracture,"Dr. Priya Joshi",Female,19,ENT,2025-09-11,Scheduled,66850,Card,Amoxicillin,5,"Urine Test",Abnormal
+100004,"Divya Ali",Male,20,Sangareddy,2025-09-04,2025-09-08,Discharged,Fracture,"Dr. Priya Joshi",Female,19,ENT,2025-09-11,Scheduled,66850,Card,Amoxicillin,13,MRI,Abnormal
+100004,"Divya Ali",Male,20,Sangareddy,2025-09-04,2025-09-08,Discharged,Fracture,"Dr. Priya Joshi",Female,19,ENT,2025-09-11,Scheduled,66850,Card,Amoxicillin,13,"Urine Test",Abnormal
+100005,"Neha Sharma",Female,71,Nalgonda,2025-11-23,,Admitted,Allergy,"Dr. Rohan Verma",Female,15,"General Medicine",2025-12-23,Completed,5240,Insurance,Amoxicillin,4,MRI,Abnormal
+100005,"Neha Sharma",Female,71,Nalgonda,2025-11-23,,Admitted,Allergy,"Dr. Rohan Verma",Female,15,"General Medicine",2025-12-23,Completed,5240,Insurance,Paracetamol,15,MRI,Abnormal
+100005,"Neha Sharma",Female,71,Nalgonda,2025-11-23,,Admitted,Allergy,"Dr. Rohan Verma",Female,15,"General Medicine",2025-12-02,Scheduled,5240,Insurance,Amoxicillin,4,MRI,Abnormal
+100005,"Neha Sharma",Female,71,Nalgonda,2025-11-23,,Admitted,Allergy,"Dr. Rohan Verma",Female,15,"General Medicine",2025-12-02,Scheduled,5240,Insurance,Paracetamol,15,MRI,Abnormal
+100005,"Neha Sharma",Female,71,Nalgonda,2025-11-23,,Admitted,Allergy,"Dr. Rohan Verma",Female,15,"General Medicine",2025-12-09,Scheduled,5240,Insurance,Amoxicillin,4,MRI,Abnormal
+100005,"Neha Sharma",Female,71,Nalgonda,2025-11-23,,Admitted,Allergy,"Dr. Rohan Verma",Female,15,"General Medicine",2025-12-09,Scheduled,5240,Insurance,Paracetamol,15,MRI,Abnormal
+100006,"Arjun Yadav",Male,69,Adilabad,2025-10-04,2025-10-11,Recovered,"Heart Disease","Dr. Ananya Reddy",Male,13,Cardiology,2025-10-29,Scheduled,130159,UPI,Paracetamol,7,ECG,Normal
+100006,"Arjun Yadav",Male,69,Adilabad,2025-10-04,2025-10-11,Recovered,"Heart Disease","Dr. Ananya Reddy",Male,13,Cardiology,2025-10-29,Scheduled,130159,UPI,Amoxicillin,9,ECG,Normal
+100006,"Arjun Yadav",Male,69,Adilabad,2025-10-04,2025-10-11,Recovered,"Heart Disease","Dr. Ananya Reddy",Male,13,Cardiology,2025-10-12,Completed,130159,UPI,Paracetamol,7,ECG,Normal
+100006,"Arjun Yadav",Male,69,Adilabad,2025-10-04,2025-10-11,Recovered,"Heart Disease","Dr. Ananya Reddy",Male,13,Cardiology,2025-10-12,Completed,130159,UPI,Amoxicillin,9,ECG,Normal
+100007,"Sneha Joshi",Male,44,Adilabad,2025-08-16,,Admitted,Fever,"Dr. Nisha Singh",Male,3,Dermatology,2025-08-23,Completed,70717,Card,Paracetamol,5,MRI,Abnormal
+100007,"Sneha Joshi",Male,44,Adilabad,2025-08-16,,Admitted,Fever,"Dr. Nisha Singh",Male,3,Dermatology,2025-08-23,Completed,70717,Card,Amoxicillin,7,MRI,Abnormal
+100007,"Sneha Joshi",Male,44,Adilabad,2025-08-16,,Admitted,Fever,"Dr. Nisha Singh",Male,3,Dermatology,2025-09-01,Scheduled,70717,Card,Paracetamol,5,MRI,Abnormal
+100007,"Sneha Joshi",Male,44,Adilabad,2025-08-16,,Admitted,Fever,"Dr. Nisha Singh",Male,3,Dermatology,2025-09-01,Scheduled,70717,Card,Amoxicillin,7,MRI,Abnormal
+100008,"Ishaan Kumar",Male,35,Sangareddy,2025-07-30,,Admitted,Diabetes,"Dr. Neha Ali",Male,19,Pediatrics,2025-08-15,Scheduled,66153,Cash,Ibuprofen,6,ECG,Abnormal
+100008,"Ishaan Kumar",Male,35,Sangareddy,2025-07-30,,Admitted,Diabetes,"Dr. Neha Ali",Male,19,Pediatrics,2025-08-15,Scheduled,66153,Cash,Ibuprofen,6,"Blood Test",Abnormal
+100008,"Ishaan Kumar",Male,35,Sangareddy,2025-07-30,,Admitted,Diabetes,"Dr. Neha Ali",Male,19,Pediatrics,2025-08-15,Scheduled,66153,Cash,Amoxicillin,11,ECG,Abnormal
+100008,"Ishaan Kumar",Male,35,Sangareddy,2025-07-30,,Admitted,Diabetes,"Dr. Neha Ali",Male,19,Pediatrics,2025-08-15,Scheduled,66153,Cash,Amoxicillin,11,"Blood Test",Abnormal
+100008,"Ishaan Kumar",Male,35,Sangareddy,2025-07-30,,Admitted,Diabetes,"Dr. Neha Ali",Male,19,Pediatrics,2025-07-30,Scheduled,66153,Cash,Ibuprofen,6,ECG,Abnormal
+100008,"Ishaan Kumar",Male,35,Sangareddy,2025-07-30,,Admitted,Diabetes,"Dr. Neha Ali",Male,19,Pediatrics,2025-07-30,Scheduled,66153,Cash,Ibuprofen,6,"Blood Test",Abnormal
+100008,"Ishaan Kumar",Male,35,Sangareddy,2025-07-30,,Admitted,Diabetes,"Dr. Neha Ali",Male,19,Pediatrics,2025-07-30,Scheduled,66153,Cash,Amoxicillin,11,ECG,Abnormal
+100008,"Ishaan Kumar",Male,35,Sangareddy,2025-07-30,,Admitted,Diabetes,"Dr. Neha Ali",Male,19,Pediatrics,2025-07-30,Scheduled,66153,Cash,Amoxicillin,11,"Blood Test",Abnormal
+100009,"Kiran Patel",Female,26,Karimnagar,2026-02-07,2026-02-12,Recovered,Fever,"Dr. Neha Ali",Male,19,Pediatrics,2026-02-27,Scheduled,91608,Cash,Amoxicillin,3,ECG,Abnormal
+100009,"Kiran Patel",Female,26,Karimnagar,2026-02-07,2026-02-12,Recovered,Fever,"Dr. Neha Ali",Male,19,Pediatrics,2026-02-27,Scheduled,91608,Cash,Metformin,9,ECG,Abnormal
+100009,"Kiran Patel",Female,26,Karimnagar,2026-02-07,2026-02-12,Recovered,Fever,"Dr. Neha Ali",Male,19,Pediatrics,2026-02-07,Completed,91608,Cash,Amoxicillin,3,ECG,Abnormal
+100009,"Kiran Patel",Female,26,Karimnagar,2026-02-07,2026-02-12,Recovered,Fever,"Dr. Neha Ali",Male,19,Pediatrics,2026-02-07,Completed,91608,Cash,Metformin,9,ECG,Abnormal
+100010,"Ananya Joshi",Male,21,Medak,2025-10-16,2025-10-21,Discharged,Allergy,"Dr. Arjun Gupta",Female,7,Pediatrics,2025-10-23,Completed,1449,UPI,Metformin,5,MRI,Abnormal
+100010,"Ananya Joshi",Male,21,Medak,2025-10-16,2025-10-21,Discharged,Allergy,"Dr. Arjun Gupta",Female,7,Pediatrics,2025-10-23,Completed,1449,UPI,Metformin,6,MRI,Abnormal
+100010,"Ananya Joshi",Male,21,Medak,2025-10-16,2025-10-21,Discharged,Allergy,"Dr. Arjun Gupta",Female,7,Pediatrics,2025-11-02,Cancelled,1449,UPI,Metformin,5,MRI,Abnormal
+100010,"Ananya Joshi",Male,21,Medak,2025-10-16,2025-10-21,Discharged,Allergy,"Dr. Arjun Gupta",Female,7,Pediatrics,2025-11-02,Cancelled,1449,UPI,Metformin,6,MRI,Abnormal
+100010,"Ananya Joshi",Male,21,Medak,2025-10-16,2025-10-21,Discharged,Allergy,"Dr. Arjun Gupta",Female,7,Pediatrics,2025-11-15,Cancelled,1449,UPI,Metformin,5,MRI,Abnormal
+100010,"Ananya Joshi",Male,21,Medak,2025-10-16,2025-10-21,Discharged,Allergy,"Dr. Arjun Gupta",Female,7,Pediatrics,2025-11-15,Cancelled,1449,UPI,Metformin,6,MRI,Abnormal
+100011,"Meera Gupta",Male,12,Medak,2025-10-13,2025-10-17,Discharged,Hypertension,"Dr. Divya Gupta",Male,5,Neurology,2025-10-20,Completed,38213,Insurance,Amoxicillin,13,X-Ray,Abnormal
+100011,"Meera Gupta",Male,12,Medak,2025-10-13,2025-10-17,Discharged,Hypertension,"Dr. Divya Gupta",Male,5,Neurology,2025-10-20,Completed,38213,Insurance,Amoxicillin,13,MRI,Abnormal
+100011,"Meera Gupta",Male,12,Medak,2025-10-13,2025-10-17,Discharged,Hypertension,"Dr. Divya Gupta",Male,5,Neurology,2025-10-20,Completed,38213,Insurance,Cetirizine,11,X-Ray,Abnormal
+100011,"Meera Gupta",Male,12,Medak,2025-10-13,2025-10-17,Discharged,Hypertension,"Dr. Divya Gupta",Male,5,Neurology,2025-10-20,Completed,38213,Insurance,Cetirizine,11,MRI,Abnormal
+100011,"Meera Gupta",Male,12,Medak,2025-10-13,2025-10-17,Discharged,Hypertension,"Dr. Divya Gupta",Male,5,Neurology,2025-10-22,Scheduled,38213,Insurance,Amoxicillin,13,X-Ray,Abnormal
+100011,"Meera Gupta",Male,12,Medak,2025-10-13,2025-10-17,Discharged,Hypertension,"Dr. Divya Gupta",Male,5,Neurology,2025-10-22,Scheduled,38213,Insurance,Amoxicillin,13,MRI,Abnormal
+100011,"Meera Gupta",Male,12,Medak,2025-10-13,2025-10-17,Discharged,Hypertension,"Dr. Divya Gupta",Male,5,Neurology,2025-10-22,Scheduled,38213,Insurance,Cetirizine,11,X-Ray,Abnormal
+100011,"Meera Gupta",Male,12,Medak,2025-10-13,2025-10-17,Discharged,Hypertension,"Dr. Divya Gupta",Male,5,Neurology,2025-10-22,Scheduled,38213,Insurance,Cetirizine,11,MRI,Abnormal
+100011,"Meera Gupta",Male,12,Medak,2025-10-13,2025-10-17,Discharged,Hypertension,"Dr. Divya Gupta",Male,5,Neurology,2025-10-13,Cancelled,38213,Insurance,Amoxicillin,13,X-Ray,Abnormal
+100011,"Meera Gupta",Male,12,Medak,2025-10-13,2025-10-17,Discharged,Hypertension,"Dr. Divya Gupta",Male,5,Neurology,2025-10-13,Cancelled,38213,Insurance,Amoxicillin,13,MRI,Abnormal
+100011,"Meera Gupta",Male,12,Medak,2025-10-13,2025-10-17,Discharged,Hypertension,"Dr. Divya Gupta",Male,5,Neurology,2025-10-13,Cancelled,38213,Insurance,Cetirizine,11,X-Ray,Abnormal
+100011,"Meera Gupta",Male,12,Medak,2025-10-13,2025-10-17,Discharged,Hypertension,"Dr. Divya Gupta",Male,5,Neurology,2025-10-13,Cancelled,38213,Insurance,Cetirizine,11,MRI,Abnormal
+100011,"Meera Gupta",Male,12,Medak,2025-10-13,2025-10-17,Discharged,Hypertension,"Dr. Divya Gupta",Male,5,Neurology,2025-10-14,Cancelled,38213,Insurance,Amoxicillin,13,X-Ray,Abnormal
+100011,"Meera Gupta",Male,12,Medak,2025-10-13,2025-10-17,Discharged,Hypertension,"Dr. Divya Gupta",Male,5,Neurology,2025-10-14,Cancelled,38213,Insurance,Amoxicillin,13,MRI,Abnormal
+100011,"Meera Gupta",Male,12,Medak,2025-10-13,2025-10-17,Discharged,Hypertension,"Dr. Divya Gupta",Male,5,Neurology,2025-10-14,Cancelled,38213,Insurance,Cetirizine,11,X-Ray,Abnormal
+100011,"Meera Gupta",Male,12,Medak,2025-10-13,2025-10-17,Discharged,Hypertension,"Dr. Divya Gupta",Male,5,Neurology,2025-10-14,Cancelled,38213,Insurance,Cetirizine,11,MRI,Abnormal
+100012,"Ishaan Kumar",Female,90,Adilabad,2025-05-29,,Admitted,Fracture,"Dr. Neha Verma",Male,2,Pulmonology,2025-05-31,Completed,137799,Cash,Insulin,8,"CT Scan",Abnormal
+100012,"Ishaan Kumar",Female,90,Adilabad,2025-05-29,,Admitted,Fracture,"Dr. Neha Verma",Male,2,Pulmonology,2025-05-31,Completed,137799,Cash,Paracetamol,5,"CT Scan",Abnormal
+100012,"Ishaan Kumar",Female,90,Adilabad,2025-05-29,,Admitted,Fracture,"Dr. Neha Verma",Male,2,Pulmonology,2025-06-18,Completed,137799,Cash,Insulin,8,"CT Scan",Abnormal
+100012,"Ishaan Kumar",Female,90,Adilabad,2025-05-29,,Admitted,Fracture,"Dr. Neha Verma",Male,2,Pulmonology,2025-06-18,Completed,137799,Cash,Paracetamol,5,"CT Scan",Abnormal
+100012,"Ishaan Kumar",Female,90,Adilabad,2025-05-29,,Admitted,Fracture,"Dr. Neha Verma",Male,2,Pulmonology,2025-06-19,Scheduled,137799,Cash,Insulin,8,"CT Scan",Abnormal
+100012,"Ishaan Kumar",Female,90,Adilabad,2025-05-29,,Admitted,Fracture,"Dr. Neha Verma",Male,2,Pulmonology,2025-06-19,Scheduled,137799,Cash,Paracetamol,5,"CT Scan",Abnormal
+100012,"Ishaan Kumar",Female,90,Adilabad,2025-05-29,,Admitted,Fracture,"Dr. Neha Verma",Male,2,Pulmonology,2025-06-16,Scheduled,137799,Cash,Insulin,8,"CT Scan",Abnormal
+100012,"Ishaan Kumar",Female,90,Adilabad,2025-05-29,,Admitted,Fracture,"Dr. Neha Verma",Male,2,Pulmonology,2025-06-16,Scheduled,137799,Cash,Paracetamol,5,"CT Scan",Abnormal
+100013,"Nisha Naidu",Male,59,Warangal,2025-01-20,2025-01-24,Discharged,"Kidney Stone","Dr. Vikram Reddy",Female,25,Pediatrics,2025-02-14,Completed,132350,Cash,Insulin,15,X-Ray,Abnormal
+100013,"Nisha Naidu",Male,59,Warangal,2025-01-20,2025-01-24,Discharged,"Kidney Stone","Dr. Vikram Reddy",Female,25,Pediatrics,2025-02-14,Completed,132350,Cash,Metformin,6,X-Ray,Abnormal
+100013,"Nisha Naidu",Male,59,Warangal,2025-01-20,2025-01-24,Discharged,"Kidney Stone","Dr. Vikram Reddy",Female,25,Pediatrics,2025-02-04,Cancelled,132350,Cash,Insulin,15,X-Ray,Abnormal
+100013,"Nisha Naidu",Male,59,Warangal,2025-01-20,2025-01-24,Discharged,"Kidney Stone","Dr. Vikram Reddy",Female,25,Pediatrics,2025-02-04,Cancelled,132350,Cash,Metformin,6,X-Ray,Abnormal
+100013,"Nisha Naidu",Male,59,Warangal,2025-01-20,2025-01-24,Discharged,"Kidney Stone","Dr. Vikram Reddy",Female,25,Pediatrics,2025-02-12,Scheduled,132350,Cash,Insulin,15,X-Ray,Abnormal
+100013,"Nisha Naidu",Male,59,Warangal,2025-01-20,2025-01-24,Discharged,"Kidney Stone","Dr. Vikram Reddy",Female,25,Pediatrics,2025-02-12,Scheduled,132350,Cash,Metformin,6,X-Ray,Abnormal
+100013,"Nisha Naidu",Male,59,Warangal,2025-01-20,2025-01-24,Discharged,"Kidney Stone","Dr. Vikram Reddy",Female,25,Pediatrics,2025-02-05,Completed,132350,Cash,Insulin,15,X-Ray,Abnormal
+100013,"Nisha Naidu",Male,59,Warangal,2025-01-20,2025-01-24,Discharged,"Kidney Stone","Dr. Vikram Reddy",Female,25,Pediatrics,2025-02-05,Completed,132350,Cash,Metformin,6,X-Ray,Abnormal
+100014,"Divya Ali",Male,79,Nizamabad,2026-01-27,,Admitted,Hypertension,"Dr. Nisha Joshi",Female,4,Oncology,2026-02-05,Scheduled,157709,Card,Paracetamol,10,"CT Scan",Abnormal
+100014,"Divya Ali",Male,79,Nizamabad,2026-01-27,,Admitted,Hypertension,"Dr. Nisha Joshi",Female,4,Oncology,2026-02-05,Scheduled,157709,Card,Cetirizine,5,"CT Scan",Abnormal
+100014,"Divya Ali",Male,79,Nizamabad,2026-01-27,,Admitted,Hypertension,"Dr. Nisha Joshi",Female,4,Oncology,2026-02-19,Scheduled,157709,Card,Paracetamol,10,"CT Scan",Abnormal
+100014,"Divya Ali",Male,79,Nizamabad,2026-01-27,,Admitted,Hypertension,"Dr. Nisha Joshi",Female,4,Oncology,2026-02-19,Scheduled,157709,Card,Cetirizine,5,"CT Scan",Abnormal
+100014,"Divya Ali",Male,79,Nizamabad,2026-01-27,,Admitted,Hypertension,"Dr. Nisha Joshi",Female,4,Oncology,2026-02-04,Scheduled,157709,Card,Paracetamol,10,"CT Scan",Abnormal
+100014,"Divya Ali",Male,79,Nizamabad,2026-01-27,,Admitted,Hypertension,"Dr. Nisha Joshi",Female,4,Oncology,2026-02-04,Scheduled,157709,Card,Cetirizine,5,"CT Scan",Abnormal
+100015,"Ishaan Naidu",Female,60,Nalgonda,2025-08-11,2025-08-16,Discharged,Hypertension,"Dr. Sneha Patel",Female,8,Urology,2025-08-25,Completed,144437,Card,Metformin,9,X-Ray,Normal
+100015,"Ishaan Naidu",Female,60,Nalgonda,2025-08-11,2025-08-16,Discharged,Hypertension,"Dr. Sneha Patel",Female,8,Urology,2025-08-25,Completed,144437,Card,Cetirizine,10,X-Ray,Normal
+100015,"Ishaan Naidu",Female,60,Nalgonda,2025-08-11,2025-08-16,Discharged,Hypertension,"Dr. Sneha Patel",Female,8,Urology,2025-08-11,Cancelled,144437,Card,Metformin,9,X-Ray,Normal
+100015,"Ishaan Naidu",Female,60,Nalgonda,2025-08-11,2025-08-16,Discharged,Hypertension,"Dr. Sneha Patel",Female,8,Urology,2025-08-11,Cancelled,144437,Card,Cetirizine,10,X-Ray,Normal
+100015,"Ishaan Naidu",Female,60,Nalgonda,2025-08-11,2025-08-16,Discharged,Hypertension,"Dr. Sneha Patel",Female,8,Urology,2025-08-13,Cancelled,144437,Card,Metformin,9,X-Ray,Normal
+100015,"Ishaan Naidu",Female,60,Nalgonda,2025-08-11,2025-08-16,Discharged,Hypertension,"Dr. Sneha Patel",Female,8,Urology,2025-08-13,Cancelled,144437,Card,Cetirizine,10,X-Ray,Normal
+100016,"Neha Verma",Female,15,Sangareddy,2025-05-26,2025-05-31,Recovered,Migraine,"Dr. Kavya Ali",Female,22,Emergency,2025-06-16,Cancelled,131018,Insurance,Insulin,5,MRI,Normal
+100016,"Neha Verma",Female,15,Sangareddy,2025-05-26,2025-05-31,Recovered,Migraine,"Dr. Kavya Ali",Female,22,Emergency,2025-06-16,Cancelled,131018,Insurance,Insulin,5,MRI,Abnormal
+100016,"Neha Verma",Female,15,Sangareddy,2025-05-26,2025-05-31,Recovered,Migraine,"Dr. Kavya Ali",Female,22,Emergency,2025-06-16,Cancelled,131018,Insurance,Ibuprofen,7,MRI,Normal
+100016,"Neha Verma",Female,15,Sangareddy,2025-05-26,2025-05-31,Recovered,Migraine,"Dr. Kavya Ali",Female,22,Emergency,2025-06-16,Cancelled,131018,Insurance,Ibuprofen,7,MRI,Abnormal
+100016,"Neha Verma",Female,15,Sangareddy,2025-05-26,2025-05-31,Recovered,Migraine,"Dr. Kavya Ali",Female,22,Emergency,2025-05-26,Cancelled,131018,Insurance,Insulin,5,MRI,Normal
+100016,"Neha Verma",Female,15,Sangareddy,2025-05-26,2025-05-31,Recovered,Migraine,"Dr. Kavya Ali",Female,22,Emergency,2025-05-26,Cancelled,131018,Insurance,Insulin,5,MRI,Abnormal
+100016,"Neha Verma",Female,15,Sangareddy,2025-05-26,2025-05-31,Recovered,Migraine,"Dr. Kavya Ali",Female,22,Emergency,2025-05-26,Cancelled,131018,Insurance,Ibuprofen,7,MRI,Normal
+100016,"Neha Verma",Female,15,Sangareddy,2025-05-26,2025-05-31,Recovered,Migraine,"Dr. Kavya Ali",Female,22,Emergency,2025-05-26,Cancelled,131018,Insurance,Ibuprofen,7,MRI,Abnormal
+100016,"Neha Verma",Female,15,Sangareddy,2025-05-26,2025-05-31,Recovered,Migraine,"Dr. Kavya Ali",Female,22,Emergency,2025-05-26,Completed,131018,Insurance,Insulin,5,MRI,Normal
+100016,"Neha Verma",Female,15,Sangareddy,2025-05-26,2025-05-31,Recovered,Migraine,"Dr. Kavya Ali",Female,22,Emergency,2025-05-26,Completed,131018,Insurance,Insulin,5,MRI,Abnormal
+100016,"Neha Verma",Female,15,Sangareddy,2025-05-26,2025-05-31,Recovered,Migraine,"Dr. Kavya Ali",Female,22,Emergency,2025-05-26,Completed,131018,Insurance,Ibuprofen,7,MRI,Normal
+100016,"Neha Verma",Female,15,Sangareddy,2025-05-26,2025-05-31,Recovered,Migraine,"Dr. Kavya Ali",Female,22,Emergency,2025-05-26,Completed,131018,Insurance,Ibuprofen,7,MRI,Abnormal
+100017,"Sneha Iyer",Male,2,Medak,2025-11-29,2025-12-06,Recovered,Cancer,"Dr. Priya Joshi",Female,19,ENT,2025-12-28,Cancelled,98075,Cash,Metformin,4,ECG,Abnormal
+100017,"Sneha Iyer",Male,2,Medak,2025-11-29,2025-12-06,Recovered,Cancer,"Dr. Priya Joshi",Female,19,ENT,2025-12-28,Cancelled,98075,Cash,Metformin,3,ECG,Abnormal
+100017,"Sneha Iyer",Male,2,Medak,2025-11-29,2025-12-06,Recovered,Cancer,"Dr. Priya Joshi",Female,19,ENT,2025-12-01,Cancelled,98075,Cash,Metformin,4,ECG,Abnormal
+100017,"Sneha Iyer",Male,2,Medak,2025-11-29,2025-12-06,Recovered,Cancer,"Dr. Priya Joshi",Female,19,ENT,2025-12-01,Cancelled,98075,Cash,Metformin,3,ECG,Abnormal
+100017,"Sneha Iyer",Male,2,Medak,2025-11-29,2025-12-06,Recovered,Cancer,"Dr. Priya Joshi",Female,19,ENT,2025-12-11,Scheduled,98075,Cash,Metformin,4,ECG,Abnormal
+100017,"Sneha Iyer",Male,2,Medak,2025-11-29,2025-12-06,Recovered,Cancer,"Dr. Priya Joshi",Female,19,ENT,2025-12-11,Scheduled,98075,Cash,Metformin,3,ECG,Abnormal
+100018,"Ishaan Das",Male,48,Khammam,2025-09-13,2025-09-20,Recovered,Diabetes,"Dr. Rohan Patel",Female,21,Urology,2025-09-26,Cancelled,165885,Insurance,Amoxicillin,13,"Urine Test",Normal
+100018,"Ishaan Das",Male,48,Khammam,2025-09-13,2025-09-20,Recovered,Diabetes,"Dr. Rohan Patel",Female,21,Urology,2025-09-26,Cancelled,165885,Insurance,Amoxicillin,13,"CT Scan",Normal
+100018,"Ishaan Das",Male,48,Khammam,2025-09-13,2025-09-20,Recovered,Diabetes,"Dr. Rohan Patel",Female,21,Urology,2025-09-26,Cancelled,165885,Insurance,Cetirizine,15,"Urine Test",Normal
+100018,"Ishaan Das",Male,48,Khammam,2025-09-13,2025-09-20,Recovered,Diabetes,"Dr. Rohan Patel",Female,21,Urology,2025-09-26,Cancelled,165885,Insurance,Cetirizine,15,"CT Scan",Normal
+100018,"Ishaan Das",Male,48,Khammam,2025-09-13,2025-09-20,Recovered,Diabetes,"Dr. Rohan Patel",Female,21,Urology,2025-09-14,Scheduled,165885,Insurance,Amoxicillin,13,"Urine Test",Normal
+100018,"Ishaan Das",Male,48,Khammam,2025-09-13,2025-09-20,Recovered,Diabetes,"Dr. Rohan Patel",Female,21,Urology,2025-09-14,Scheduled,165885,Insurance,Amoxicillin,13,"CT Scan",Normal
+100018,"Ishaan Das",Male,48,Khammam,2025-09-13,2025-09-20,Recovered,Diabetes,"Dr. Rohan Patel",Female,21,Urology,2025-09-14,Scheduled,165885,Insurance,Cetirizine,15,"Urine Test",Normal
+100018,"Ishaan Das",Male,48,Khammam,2025-09-13,2025-09-20,Recovered,Diabetes,"Dr. Rohan Patel",Female,21,Urology,2025-09-14,Scheduled,165885,Insurance,Cetirizine,15,"CT Scan",Normal
+100018,"Ishaan Das",Male,48,Khammam,2025-09-13,2025-09-20,Recovered,Diabetes,"Dr. Rohan Patel",Female,21,Urology,2025-10-06,Completed,165885,Insurance,Amoxicillin,13,"Urine Test",Normal
+100018,"Ishaan Das",Male,48,Khammam,2025-09-13,2025-09-20,Recovered,Diabetes,"Dr. Rohan Patel",Female,21,Urology,2025-10-06,Completed,165885,Insurance,Amoxicillin,13,"CT Scan",Normal
+100018,"Ishaan Das",Male,48,Khammam,2025-09-13,2025-09-20,Recovered,Diabetes,"Dr. Rohan Patel",Female,21,Urology,2025-10-06,Completed,165885,Insurance,Cetirizine,15,"Urine Test",Normal
+100018,"Ishaan Das",Male,48,Khammam,2025-09-13,2025-09-20,Recovered,Diabetes,"Dr. Rohan Patel",Female,21,Urology,2025-10-06,Completed,165885,Insurance,Cetirizine,15,"CT Scan",Normal
+100018,"Ishaan Das",Male,48,Khammam,2025-09-13,2025-09-20,Recovered,Diabetes,"Dr. Rohan Patel",Female,21,Urology,2025-09-30,Completed,165885,Insurance,Amoxicillin,13,"Urine Test",Normal
+100018,"Ishaan Das",Male,48,Khammam,2025-09-13,2025-09-20,Recovered,Diabetes,"Dr. Rohan Patel",Female,21,Urology,2025-09-30,Completed,165885,Insurance,Amoxicillin,13,"CT Scan",Normal
+100018,"Ishaan Das",Male,48,Khammam,2025-09-13,2025-09-20,Recovered,Diabetes,"Dr. Rohan Patel",Female,21,Urology,2025-09-30,Completed,165885,Insurance,Cetirizine,15,"Urine Test",Normal
+100018,"Ishaan Das",Male,48,Khammam,2025-09-13,2025-09-20,Recovered,Diabetes,"Dr. Rohan Patel",Female,21,Urology,2025-09-30,Completed,165885,Insurance,Cetirizine,15,"CT Scan",Normal
+100019,"Arjun Singh",Female,52,Nizamabad,2026-03-01,2026-03-06,Discharged,Cancer,"Dr. Divya Patel",Male,24,Orthopedics,2026-03-06,Completed,127163,Insurance,Ibuprofen,11,"CT Scan",Abnormal
+100019,"Arjun Singh",Female,52,Nizamabad,2026-03-01,2026-03-06,Discharged,Cancer,"Dr. Divya Patel",Male,24,Orthopedics,2026-03-06,Completed,127163,Insurance,Amoxicillin,11,"CT Scan",Abnormal
+100019,"Arjun Singh",Female,52,Nizamabad,2026-03-01,2026-03-06,Discharged,Cancer,"Dr. Divya Patel",Male,24,Orthopedics,2026-03-06,Scheduled,127163,Insurance,Ibuprofen,11,"CT Scan",Abnormal
+100019,"Arjun Singh",Female,52,Nizamabad,2026-03-01,2026-03-06,Discharged,Cancer,"Dr. Divya Patel",Male,24,Orthopedics,2026-03-06,Scheduled,127163,Insurance,Amoxicillin,11,"CT Scan",Abnormal
+100020,"Rahul Verma",Female,72,Warangal,2025-05-23,2025-05-27,Discharged,Asthma,"Dr. Kiran Nair",Female,6,Oncology,2025-06-15,Cancelled,63185,UPI,Insulin,11,"CT Scan",Abnormal
+100020,"Rahul Verma",Female,72,Warangal,2025-05-23,2025-05-27,Discharged,Asthma,"Dr. Kiran Nair",Female,6,Oncology,2025-06-15,Cancelled,63185,UPI,Ibuprofen,9,"CT Scan",Abnormal
+100020,"Rahul Verma",Female,72,Warangal,2025-05-23,2025-05-27,Discharged,Asthma,"Dr. Kiran Nair",Female,6,Oncology,2025-05-29,Completed,63185,UPI,Insulin,11,"CT Scan",Abnormal
+100020,"Rahul Verma",Female,72,Warangal,2025-05-23,2025-05-27,Discharged,Asthma,"Dr. Kiran Nair",Female,6,Oncology,2025-05-29,Completed,63185,UPI,Ibuprofen,9,"CT Scan",Abnormal
+100020,"Rahul Verma",Female,72,Warangal,2025-05-23,2025-05-27,Discharged,Asthma,"Dr. Kiran Nair",Female,6,Oncology,2025-06-17,Scheduled,63185,UPI,Insulin,11,"CT Scan",Abnormal
+100020,"Rahul Verma",Female,72,Warangal,2025-05-23,2025-05-27,Discharged,Asthma,"Dr. Kiran Nair",Female,6,Oncology,2025-06-17,Scheduled,63185,UPI,Ibuprofen,9,"CT Scan",Abnormal
+100021,"Neha Verma",Male,12,Medak,2025-03-05,2025-03-15,Discharged,Migraine,"Dr. Nisha Bose",Male,10,ENT,2025-03-09,Completed,101310,Insurance,Ibuprofen,12,"CT Scan",Abnormal
+100021,"Neha Verma",Male,12,Medak,2025-03-05,2025-03-15,Discharged,Migraine,"Dr. Nisha Bose",Male,10,ENT,2025-03-09,Completed,101310,Insurance,Ibuprofen,12,"Blood Test",Normal
+100021,"Neha Verma",Male,12,Medak,2025-03-05,2025-03-15,Discharged,Migraine,"Dr. Nisha Bose",Male,10,ENT,2025-03-09,Completed,101310,Insurance,Ibuprofen,14,"CT Scan",Abnormal
+100021,"Neha Verma",Male,12,Medak,2025-03-05,2025-03-15,Discharged,Migraine,"Dr. Nisha Bose",Male,10,ENT,2025-03-09,Completed,101310,Insurance,Ibuprofen,14,"Blood Test",Normal
+100021,"Neha Verma",Male,12,Medak,2025-03-05,2025-03-15,Discharged,Migraine,"Dr. Nisha Bose",Male,10,ENT,2025-04-01,Completed,101310,Insurance,Ibuprofen,12,"CT Scan",Abnormal
+100021,"Neha Verma",Male,12,Medak,2025-03-05,2025-03-15,Discharged,Migraine,"Dr. Nisha Bose",Male,10,ENT,2025-04-01,Completed,101310,Insurance,Ibuprofen,12,"Blood Test",Normal
+100021,"Neha Verma",Male,12,Medak,2025-03-05,2025-03-15,Discharged,Migraine,"Dr. Nisha Bose",Male,10,ENT,2025-04-01,Completed,101310,Insurance,Ibuprofen,14,"CT Scan",Abnormal
+100021,"Neha Verma",Male,12,Medak,2025-03-05,2025-03-15,Discharged,Migraine,"Dr. Nisha Bose",Male,10,ENT,2025-04-01,Completed,101310,Insurance,Ibuprofen,14,"Blood Test",Normal
+100021,"Neha Verma",Male,12,Medak,2025-03-05,2025-03-15,Discharged,Migraine,"Dr. Nisha Bose",Male,10,ENT,2025-04-04,Cancelled,101310,Insurance,Ibuprofen,12,"CT Scan",Abnormal
+100021,"Neha Verma",Male,12,Medak,2025-03-05,2025-03-15,Discharged,Migraine,"Dr. Nisha Bose",Male,10,ENT,2025-04-04,Cancelled,101310,Insurance,Ibuprofen,12,"Blood Test",Normal
+100021,"Neha Verma",Male,12,Medak,2025-03-05,2025-03-15,Discharged,Migraine,"Dr. Nisha Bose",Male,10,ENT,2025-04-04,Cancelled,101310,Insurance,Ibuprofen,14,"CT Scan",Abnormal
+100021,"Neha Verma",Male,12,Medak,2025-03-05,2025-03-15,Discharged,Migraine,"Dr. Nisha Bose",Male,10,ENT,2025-04-04,Cancelled,101310,Insurance,Ibuprofen,14,"Blood Test",Normal
+100021,"Neha Verma",Male,12,Medak,2025-03-05,2025-03-15,Discharged,Migraine,"Dr. Nisha Bose",Male,10,ENT,2025-03-19,Cancelled,101310,Insurance,Ibuprofen,12,"CT Scan",Abnormal
+100021,"Neha Verma",Male,12,Medak,2025-03-05,2025-03-15,Discharged,Migraine,"Dr. Nisha Bose",Male,10,ENT,2025-03-19,Cancelled,101310,Insurance,Ibuprofen,12,"Blood Test",Normal
+100021,"Neha Verma",Male,12,Medak,2025-03-05,2025-03-15,Discharged,Migraine,"Dr. Nisha Bose",Male,10,ENT,2025-03-19,Cancelled,101310,Insurance,Ibuprofen,14,"CT Scan",Abnormal
+100021,"Neha Verma",Male,12,Medak,2025-03-05,2025-03-15,Discharged,Migraine,"Dr. Nisha Bose",Male,10,ENT,2025-03-19,Cancelled,101310,Insurance,Ibuprofen,14,"Blood Test",Normal
+100022,"Vikram Gupta",Male,90,Nalgonda,2025-04-22,,Admitted,Hypertension,"Dr. Aarav Nair",Male,19,Oncology,2025-04-29,Scheduled,145072,Cash,Insulin,7,ECG,Abnormal
+100022,"Vikram Gupta",Male,90,Nalgonda,2025-04-22,,Admitted,Hypertension,"Dr. Aarav Nair",Male,19,Oncology,2025-04-29,Scheduled,145072,Cash,Paracetamol,13,ECG,Abnormal
+100022,"Vikram Gupta",Male,90,Nalgonda,2025-04-22,,Admitted,Hypertension,"Dr. Aarav Nair",Male,19,Oncology,2025-05-17,Completed,145072,Cash,Insulin,7,ECG,Abnormal
+100022,"Vikram Gupta",Male,90,Nalgonda,2025-04-22,,Admitted,Hypertension,"Dr. Aarav Nair",Male,19,Oncology,2025-05-17,Completed,145072,Cash,Paracetamol,13,ECG,Abnormal
+100023,"Sneha Reddy",Female,68,Mahbubnagar,2026-03-24,2026-03-26,Discharged,Migraine,"Dr. Arjun Gupta",Female,7,Pediatrics,2026-03-24,Completed,102233,UPI,Ibuprofen,7,"CT Scan",Normal
+100023,"Sneha Reddy",Female,68,Mahbubnagar,2026-03-24,2026-03-26,Discharged,Migraine,"Dr. Arjun Gupta",Female,7,Pediatrics,2026-03-24,Completed,102233,UPI,Ibuprofen,7,ECG,Normal
+100023,"Sneha Reddy",Female,68,Mahbubnagar,2026-03-24,2026-03-26,Discharged,Migraine,"Dr. Arjun Gupta",Female,7,Pediatrics,2026-03-24,Completed,102233,UPI,Cetirizine,7,"CT Scan",Normal
+100023,"Sneha Reddy",Female,68,Mahbubnagar,2026-03-24,2026-03-26,Discharged,Migraine,"Dr. Arjun Gupta",Female,7,Pediatrics,2026-03-24,Completed,102233,UPI,Cetirizine,7,ECG,Normal
+100023,"Sneha Reddy",Female,68,Mahbubnagar,2026-03-24,2026-03-26,Discharged,Migraine,"Dr. Arjun Gupta",Female,7,Pediatrics,2026-04-18,Scheduled,102233,UPI,Ibuprofen,7,"CT Scan",Normal
+100023,"Sneha Reddy",Female,68,Mahbubnagar,2026-03-24,2026-03-26,Discharged,Migraine,"Dr. Arjun Gupta",Female,7,Pediatrics,2026-04-18,Scheduled,102233,UPI,Ibuprofen,7,ECG,Normal
+100023,"Sneha Reddy",Female,68,Mahbubnagar,2026-03-24,2026-03-26,Discharged,Migraine,"Dr. Arjun Gupta",Female,7,Pediatrics,2026-04-18,Scheduled,102233,UPI,Cetirizine,7,"CT Scan",Normal
+100023,"Sneha Reddy",Female,68,Mahbubnagar,2026-03-24,2026-03-26,Discharged,Migraine,"Dr. Arjun Gupta",Female,7,Pediatrics,2026-04-18,Scheduled,102233,UPI,Cetirizine,7,ECG,Normal
+100024,"Ananya Sharma",Male,64,Khammam,2025-01-30,2025-02-04,Recovered,Hypertension,"Dr. Arjun Joshi",Male,18,Pediatrics,2025-02-09,Scheduled,67938,Card,Insulin,9,"Blood Test",Abnormal
+100024,"Ananya Sharma",Male,64,Khammam,2025-01-30,2025-02-04,Recovered,Hypertension,"Dr. Arjun Joshi",Male,18,Pediatrics,2025-02-09,Scheduled,67938,Card,Ibuprofen,8,"Blood Test",Abnormal
+100024,"Ananya Sharma",Male,64,Khammam,2025-01-30,2025-02-04,Recovered,Hypertension,"Dr. Arjun Joshi",Male,18,Pediatrics,2025-01-31,Scheduled,67938,Card,Insulin,9,"Blood Test",Abnormal
+100024,"Ananya Sharma",Male,64,Khammam,2025-01-30,2025-02-04,Recovered,Hypertension,"Dr. Arjun Joshi",Male,18,Pediatrics,2025-01-31,Scheduled,67938,Card,Ibuprofen,8,"Blood Test",Abnormal
+100024,"Ananya Sharma",Male,64,Khammam,2025-01-30,2025-02-04,Recovered,Hypertension,"Dr. Arjun Joshi",Male,18,Pediatrics,2025-02-06,Cancelled,67938,Card,Insulin,9,"Blood Test",Abnormal
+100024,"Ananya Sharma",Male,64,Khammam,2025-01-30,2025-02-04,Recovered,Hypertension,"Dr. Arjun Joshi",Male,18,Pediatrics,2025-02-06,Cancelled,67938,Card,Ibuprofen,8,"Blood Test",Abnormal
+100024,"Ananya Sharma",Male,64,Khammam,2025-01-30,2025-02-04,Recovered,Hypertension,"Dr. Arjun Joshi",Male,18,Pediatrics,2025-02-12,Cancelled,67938,Card,Insulin,9,"Blood Test",Abnormal
+100024,"Ananya Sharma",Male,64,Khammam,2025-01-30,2025-02-04,Recovered,Hypertension,"Dr. Arjun Joshi",Male,18,Pediatrics,2025-02-12,Cancelled,67938,Card,Ibuprofen,8,"Blood Test",Abnormal
+100025,"Nisha Patel",Female,25,Nizamabad,2026-06-01,,Admitted,Allergy,"Dr. Vikram Yadav",Male,28,Pulmonology,2026-06-06,Completed,58549,UPI,Insulin,3,"CT Scan",Normal
+100025,"Nisha Patel",Female,25,Nizamabad,2026-06-01,,Admitted,Allergy,"Dr. Vikram Yadav",Male,28,Pulmonology,2026-06-06,Completed,58549,UPI,Ibuprofen,9,"CT Scan",Normal
+100025,"Nisha Patel",Female,25,Nizamabad,2026-06-01,,Admitted,Allergy,"Dr. Vikram Yadav",Male,28,Pulmonology,2026-06-16,Scheduled,58549,UPI,Insulin,3,"CT Scan",Normal
+100025,"Nisha Patel",Female,25,Nizamabad,2026-06-01,,Admitted,Allergy,"Dr. Vikram Yadav",Male,28,Pulmonology,2026-06-16,Scheduled,58549,UPI,Ibuprofen,9,"CT Scan",Normal
+100025,"Nisha Patel",Female,25,Nizamabad,2026-06-01,,Admitted,Allergy,"Dr. Vikram Yadav",Male,28,Pulmonology,2026-06-04,Scheduled,58549,UPI,Insulin,3,"CT Scan",Normal
+100025,"Nisha Patel",Female,25,Nizamabad,2026-06-01,,Admitted,Allergy,"Dr. Vikram Yadav",Male,28,Pulmonology,2026-06-04,Scheduled,58549,UPI,Ibuprofen,9,"CT Scan",Normal
+100026,"Priya Yadav",Female,41,Warangal,2025-05-26,2025-05-27,Discharged,Hypertension,"Dr. Sai Naidu",Male,5,"General Medicine",2025-06-24,Scheduled,43919,UPI,Paracetamol,7,"CT Scan",Normal
+100026,"Priya Yadav",Female,41,Warangal,2025-05-26,2025-05-27,Discharged,Hypertension,"Dr. Sai Naidu",Male,5,"General Medicine",2025-06-24,Scheduled,43919,UPI,Paracetamol,7,MRI,Abnormal
+100026,"Priya Yadav",Female,41,Warangal,2025-05-26,2025-05-27,Discharged,Hypertension,"Dr. Sai Naidu",Male,5,"General Medicine",2025-06-24,Scheduled,43919,UPI,Insulin,10,"CT Scan",Normal
+100026,"Priya Yadav",Female,41,Warangal,2025-05-26,2025-05-27,Discharged,Hypertension,"Dr. Sai Naidu",Male,5,"General Medicine",2025-06-24,Scheduled,43919,UPI,Insulin,10,MRI,Abnormal
+100026,"Priya Yadav",Female,41,Warangal,2025-05-26,2025-05-27,Discharged,Hypertension,"Dr. Sai Naidu",Male,5,"General Medicine",2025-05-31,Scheduled,43919,UPI,Paracetamol,7,"CT Scan",Normal
+100026,"Priya Yadav",Female,41,Warangal,2025-05-26,2025-05-27,Discharged,Hypertension,"Dr. Sai Naidu",Male,5,"General Medicine",2025-05-31,Scheduled,43919,UPI,Paracetamol,7,MRI,Abnormal
+100026,"Priya Yadav",Female,41,Warangal,2025-05-26,2025-05-27,Discharged,Hypertension,"Dr. Sai Naidu",Male,5,"General Medicine",2025-05-31,Scheduled,43919,UPI,Insulin,10,"CT Scan",Normal
+100026,"Priya Yadav",Female,41,Warangal,2025-05-26,2025-05-27,Discharged,Hypertension,"Dr. Sai Naidu",Male,5,"General Medicine",2025-05-31,Scheduled,43919,UPI,Insulin,10,MRI,Abnormal
+100027,"Neha Yadav",Male,72,Nizamabad,2025-03-22,,Admitted,Fever,"Dr. Varun Sharma",Female,3,Neurology,2025-03-28,Cancelled,93988,UPI,Amoxicillin,8,"Blood Test",Abnormal
+100027,"Neha Yadav",Male,72,Nizamabad,2025-03-22,,Admitted,Fever,"Dr. Varun Sharma",Female,3,Neurology,2025-03-28,Cancelled,93988,UPI,Amoxicillin,8,ECG,Abnormal
+100027,"Neha Yadav",Male,72,Nizamabad,2025-03-22,,Admitted,Fever,"Dr. Varun Sharma",Female,3,Neurology,2025-03-28,Cancelled,93988,UPI,Cetirizine,10,"Blood Test",Abnormal
+100027,"Neha Yadav",Male,72,Nizamabad,2025-03-22,,Admitted,Fever,"Dr. Varun Sharma",Female,3,Neurology,2025-03-28,Cancelled,93988,UPI,Cetirizine,10,ECG,Abnormal
+100027,"Neha Yadav",Male,72,Nizamabad,2025-03-22,,Admitted,Fever,"Dr. Varun Sharma",Female,3,Neurology,2025-04-13,Cancelled,93988,UPI,Amoxicillin,8,"Blood Test",Abnormal
+100027,"Neha Yadav",Male,72,Nizamabad,2025-03-22,,Admitted,Fever,"Dr. Varun Sharma",Female,3,Neurology,2025-04-13,Cancelled,93988,UPI,Amoxicillin,8,ECG,Abnormal
+100027,"Neha Yadav",Male,72,Nizamabad,2025-03-22,,Admitted,Fever,"Dr. Varun Sharma",Female,3,Neurology,2025-04-13,Cancelled,93988,UPI,Cetirizine,10,"Blood Test",Abnormal
+100027,"Neha Yadav",Male,72,Nizamabad,2025-03-22,,Admitted,Fever,"Dr. Varun Sharma",Female,3,Neurology,2025-04-13,Cancelled,93988,UPI,Cetirizine,10,ECG,Abnormal
+100027,"Neha Yadav",Male,72,Nizamabad,2025-03-22,,Admitted,Fever,"Dr. Varun Sharma",Female,3,Neurology,2025-03-24,Completed,93988,UPI,Amoxicillin,8,"Blood Test",Abnormal
+100027,"Neha Yadav",Male,72,Nizamabad,2025-03-22,,Admitted,Fever,"Dr. Varun Sharma",Female,3,Neurology,2025-03-24,Completed,93988,UPI,Amoxicillin,8,ECG,Abnormal
+100027,"Neha Yadav",Male,72,Nizamabad,2025-03-22,,Admitted,Fever,"Dr. Varun Sharma",Female,3,Neurology,2025-03-24,Completed,93988,UPI,Cetirizine,10,"Blood Test",Abnormal
+100027,"Neha Yadav",Male,72,Nizamabad,2025-03-22,,Admitted,Fever,"Dr. Varun Sharma",Female,3,Neurology,2025-03-24,Completed,93988,UPI,Cetirizine,10,ECG,Abnormal
+100028,"Ananya Joshi",Male,8,Medak,2026-02-19,,Admitted,Migraine,"Dr. Sai Reddy",Male,10,"General Medicine",2026-02-20,Cancelled,16976,UPI,Insulin,8,ECG,Normal
+100028,"Ananya Joshi",Male,8,Medak,2026-02-19,,Admitted,Migraine,"Dr. Sai Reddy",Male,10,"General Medicine",2026-02-20,Cancelled,16976,UPI,Insulin,8,MRI,Normal
+100028,"Ananya Joshi",Male,8,Medak,2026-02-19,,Admitted,Migraine,"Dr. Sai Reddy",Male,10,"General Medicine",2026-02-20,Cancelled,16976,UPI,Insulin,14,ECG,Normal
+100028,"Ananya Joshi",Male,8,Medak,2026-02-19,,Admitted,Migraine,"Dr. Sai Reddy",Male,10,"General Medicine",2026-02-20,Cancelled,16976,UPI,Insulin,14,MRI,Normal
+100028,"Ananya Joshi",Male,8,Medak,2026-02-19,,Admitted,Migraine,"Dr. Sai Reddy",Male,10,"General Medicine",2026-03-21,Scheduled,16976,UPI,Insulin,8,ECG,Normal
+100028,"Ananya Joshi",Male,8,Medak,2026-02-19,,Admitted,Migraine,"Dr. Sai Reddy",Male,10,"General Medicine",2026-03-21,Scheduled,16976,UPI,Insulin,8,MRI,Normal
+100028,"Ananya Joshi",Male,8,Medak,2026-02-19,,Admitted,Migraine,"Dr. Sai Reddy",Male,10,"General Medicine",2026-03-21,Scheduled,16976,UPI,Insulin,14,ECG,Normal
+100028,"Ananya Joshi",Male,8,Medak,2026-02-19,,Admitted,Migraine,"Dr. Sai Reddy",Male,10,"General Medicine",2026-03-21,Scheduled,16976,UPI,Insulin,14,MRI,Normal
+100028,"Ananya Joshi",Male,8,Medak,2026-02-19,,Admitted,Migraine,"Dr. Sai Reddy",Male,10,"General Medicine",2026-02-27,Cancelled,16976,UPI,Insulin,8,ECG,Normal
+100028,"Ananya Joshi",Male,8,Medak,2026-02-19,,Admitted,Migraine,"Dr. Sai Reddy",Male,10,"General Medicine",2026-02-27,Cancelled,16976,UPI,Insulin,8,MRI,Normal
+100028,"Ananya Joshi",Male,8,Medak,2026-02-19,,Admitted,Migraine,"Dr. Sai Reddy",Male,10,"General Medicine",2026-02-27,Cancelled,16976,UPI,Insulin,14,ECG,Normal
+100028,"Ananya Joshi",Male,8,Medak,2026-02-19,,Admitted,Migraine,"Dr. Sai Reddy",Male,10,"General Medicine",2026-02-27,Cancelled,16976,UPI,Insulin,14,MRI,Normal
+100029,"Aditya Ali",Female,56,Nalgonda,2025-04-20,2025-04-28,Discharged,Fracture,"Dr. Ananya Reddy",Male,13,Cardiology,2025-04-29,Scheduled,130665,Card,Amoxicillin,8,"Urine Test",Normal
+100029,"Aditya Ali",Female,56,Nalgonda,2025-04-20,2025-04-28,Discharged,Fracture,"Dr. Ananya Reddy",Male,13,Cardiology,2025-04-29,Scheduled,130665,Card,Amoxicillin,8,"CT Scan",Abnormal
+100029,"Aditya Ali",Female,56,Nalgonda,2025-04-20,2025-04-28,Discharged,Fracture,"Dr. Ananya Reddy",Male,13,Cardiology,2025-04-29,Scheduled,130665,Card,Amoxicillin,12,"Urine Test",Normal
+100029,"Aditya Ali",Female,56,Nalgonda,2025-04-20,2025-04-28,Discharged,Fracture,"Dr. Ananya Reddy",Male,13,Cardiology,2025-04-29,Scheduled,130665,Card,Amoxicillin,12,"CT Scan",Abnormal
+100029,"Aditya Ali",Female,56,Nalgonda,2025-04-20,2025-04-28,Discharged,Fracture,"Dr. Ananya Reddy",Male,13,Cardiology,2025-05-15,Scheduled,130665,Card,Amoxicillin,8,"Urine Test",Normal
+100029,"Aditya Ali",Female,56,Nalgonda,2025-04-20,2025-04-28,Discharged,Fracture,"Dr. Ananya Reddy",Male,13,Cardiology,2025-05-15,Scheduled,130665,Card,Amoxicillin,8,"CT Scan",Abnormal
+100029,"Aditya Ali",Female,56,Nalgonda,2025-04-20,2025-04-28,Discharged,Fracture,"Dr. Ananya Reddy",Male,13,Cardiology,2025-05-15,Scheduled,130665,Card,Amoxicillin,12,"Urine Test",Normal
+100029,"Aditya Ali",Female,56,Nalgonda,2025-04-20,2025-04-28,Discharged,Fracture,"Dr. Ananya Reddy",Male,13,Cardiology,2025-05-15,Scheduled,130665,Card,Amoxicillin,12,"CT Scan",Abnormal
+100030,"Pooja Reddy",Male,62,Adilabad,2026-02-06,2026-02-10,Recovered,Sinusitis,"Dr. Arjun Joshi",Male,18,Pediatrics,2026-02-25,Completed,85895,Card,Ibuprofen,10,X-Ray,Abnormal
+100030,"Pooja Reddy",Male,62,Adilabad,2026-02-06,2026-02-10,Recovered,Sinusitis,"Dr. Arjun Joshi",Male,18,Pediatrics,2026-02-25,Completed,85895,Card,Ibuprofen,10,X-Ray,Normal
+100030,"Pooja Reddy",Male,62,Adilabad,2026-02-06,2026-02-10,Recovered,Sinusitis,"Dr. Arjun Joshi",Male,18,Pediatrics,2026-02-25,Completed,85895,Card,Amoxicillin,4,X-Ray,Abnormal
+100030,"Pooja Reddy",Male,62,Adilabad,2026-02-06,2026-02-10,Recovered,Sinusitis,"Dr. Arjun Joshi",Male,18,Pediatrics,2026-02-25,Completed,85895,Card,Amoxicillin,4,X-Ray,Normal
+100030,"Pooja Reddy",Male,62,Adilabad,2026-02-06,2026-02-10,Recovered,Sinusitis,"Dr. Arjun Joshi",Male,18,Pediatrics,2026-02-08,Cancelled,85895,Card,Ibuprofen,10,X-Ray,Abnormal
+100030,"Pooja Reddy",Male,62,Adilabad,2026-02-06,2026-02-10,Recovered,Sinusitis,"Dr. Arjun Joshi",Male,18,Pediatrics,2026-02-08,Cancelled,85895,Card,Ibuprofen,10,X-Ray,Normal
+100030,"Pooja Reddy",Male,62,Adilabad,2026-02-06,2026-02-10,Recovered,Sinusitis,"Dr. Arjun Joshi",Male,18,Pediatrics,2026-02-08,Cancelled,85895,Card,Amoxicillin,4,X-Ray,Abnormal
+100030,"Pooja Reddy",Male,62,Adilabad,2026-02-06,2026-02-10,Recovered,Sinusitis,"Dr. Arjun Joshi",Male,18,Pediatrics,2026-02-08,Cancelled,85895,Card,Amoxicillin,4,X-Ray,Normal
+100030,"Pooja Reddy",Male,62,Adilabad,2026-02-06,2026-02-10,Recovered,Sinusitis,"Dr. Arjun Joshi",Male,18,Pediatrics,2026-03-06,Completed,85895,Card,Ibuprofen,10,X-Ray,Abnormal
+100030,"Pooja Reddy",Male,62,Adilabad,2026-02-06,2026-02-10,Recovered,Sinusitis,"Dr. Arjun Joshi",Male,18,Pediatrics,2026-03-06,Completed,85895,Card,Ibuprofen,10,X-Ray,Normal
+100030,"Pooja Reddy",Male,62,Adilabad,2026-02-06,2026-02-10,Recovered,Sinusitis,"Dr. Arjun Joshi",Male,18,Pediatrics,2026-03-06,Completed,85895,Card,Amoxicillin,4,X-Ray,Abnormal
+100030,"Pooja Reddy",Male,62,Adilabad,2026-02-06,2026-02-10,Recovered,Sinusitis,"Dr. Arjun Joshi",Male,18,Pediatrics,2026-03-06,Completed,85895,Card,Amoxicillin,4,X-Ray,Normal
+100031,"Divya Naidu",Female,73,Medak,2025-08-29,2025-08-31,Recovered,Asthma,"Dr. Arjun Das",Female,17,Oncology,2025-09-03,Completed,67099,UPI,Metformin,12,MRI,Normal
+100031,"Divya Naidu",Female,73,Medak,2025-08-29,2025-08-31,Recovered,Asthma,"Dr. Arjun Das",Female,17,Oncology,2025-09-03,Completed,67099,UPI,Amoxicillin,5,MRI,Normal
+100031,"Divya Naidu",Female,73,Medak,2025-08-29,2025-08-31,Recovered,Asthma,"Dr. Arjun Das",Female,17,Oncology,2025-09-12,Completed,67099,UPI,Metformin,12,MRI,Normal
+100031,"Divya Naidu",Female,73,Medak,2025-08-29,2025-08-31,Recovered,Asthma,"Dr. Arjun Das",Female,17,Oncology,2025-09-12,Completed,67099,UPI,Amoxicillin,5,MRI,Normal
+100032,"Sneha Kumar",Female,5,Warangal,2025-09-09,2025-09-13,Discharged,Diabetes,"Dr. Ishaan Nair",Male,16,Gynecology,2025-09-16,Completed,124956,Card,Cetirizine,12,"Blood Test",Abnormal
+100032,"Sneha Kumar",Female,5,Warangal,2025-09-09,2025-09-13,Discharged,Diabetes,"Dr. Ishaan Nair",Male,16,Gynecology,2025-09-16,Completed,124956,Card,Paracetamol,6,"Blood Test",Abnormal
+100032,"Sneha Kumar",Female,5,Warangal,2025-09-09,2025-09-13,Discharged,Diabetes,"Dr. Ishaan Nair",Male,16,Gynecology,2025-09-10,Cancelled,124956,Card,Cetirizine,12,"Blood Test",Abnormal
+100032,"Sneha Kumar",Female,5,Warangal,2025-09-09,2025-09-13,Discharged,Diabetes,"Dr. Ishaan Nair",Male,16,Gynecology,2025-09-10,Cancelled,124956,Card,Paracetamol,6,"Blood Test",Abnormal
+100032,"Sneha Kumar",Female,5,Warangal,2025-09-09,2025-09-13,Discharged,Diabetes,"Dr. Ishaan Nair",Male,16,Gynecology,2025-10-08,Cancelled,124956,Card,Cetirizine,12,"Blood Test",Abnormal
+100032,"Sneha Kumar",Female,5,Warangal,2025-09-09,2025-09-13,Discharged,Diabetes,"Dr. Ishaan Nair",Male,16,Gynecology,2025-10-08,Cancelled,124956,Card,Paracetamol,6,"Blood Test",Abnormal
+100033,"Aarav Reddy",Female,28,Hyderabad,2025-07-02,2025-07-07,Discharged,Asthma,"Dr. Neha Ali",Male,19,Pediatrics,2025-07-03,Scheduled,89633,Card,Amoxicillin,3,X-Ray,Abnormal
+100033,"Aarav Reddy",Female,28,Hyderabad,2025-07-02,2025-07-07,Discharged,Asthma,"Dr. Neha Ali",Male,19,Pediatrics,2025-07-03,Scheduled,89633,Card,Amoxicillin,3,"CT Scan",Abnormal
+100033,"Aarav Reddy",Female,28,Hyderabad,2025-07-02,2025-07-07,Discharged,Asthma,"Dr. Neha Ali",Male,19,Pediatrics,2025-07-03,Scheduled,89633,Card,Insulin,13,X-Ray,Abnormal
+100033,"Aarav Reddy",Female,28,Hyderabad,2025-07-02,2025-07-07,Discharged,Asthma,"Dr. Neha Ali",Male,19,Pediatrics,2025-07-03,Scheduled,89633,Card,Insulin,13,"CT Scan",Abnormal
+100033,"Aarav Reddy",Female,28,Hyderabad,2025-07-02,2025-07-07,Discharged,Asthma,"Dr. Neha Ali",Male,19,Pediatrics,2025-07-08,Cancelled,89633,Card,Amoxicillin,3,X-Ray,Abnormal
+100033,"Aarav Reddy",Female,28,Hyderabad,2025-07-02,2025-07-07,Discharged,Asthma,"Dr. Neha Ali",Male,19,Pediatrics,2025-07-08,Cancelled,89633,Card,Amoxicillin,3,"CT Scan",Abnormal
+100033,"Aarav Reddy",Female,28,Hyderabad,2025-07-02,2025-07-07,Discharged,Asthma,"Dr. Neha Ali",Male,19,Pediatrics,2025-07-08,Cancelled,89633,Card,Insulin,13,X-Ray,Abnormal
+100033,"Aarav Reddy",Female,28,Hyderabad,2025-07-02,2025-07-07,Discharged,Asthma,"Dr. Neha Ali",Male,19,Pediatrics,2025-07-08,Cancelled,89633,Card,Insulin,13,"CT Scan",Abnormal
+100034,"Nisha Reddy",Female,13,Khammam,2025-02-02,2025-02-11,Recovered,Pneumonia,"Dr. Meera Sharma",Male,11,Neurology,2025-02-10,Cancelled,144715,Card,Metformin,9,MRI,Abnormal
+100034,"Nisha Reddy",Female,13,Khammam,2025-02-02,2025-02-11,Recovered,Pneumonia,"Dr. Meera Sharma",Male,11,Neurology,2025-02-10,Cancelled,144715,Card,Metformin,13,MRI,Abnormal
+100034,"Nisha Reddy",Female,13,Khammam,2025-02-02,2025-02-11,Recovered,Pneumonia,"Dr. Meera Sharma",Male,11,Neurology,2025-02-14,Scheduled,144715,Card,Metformin,9,MRI,Abnormal
+100034,"Nisha Reddy",Female,13,Khammam,2025-02-02,2025-02-11,Recovered,Pneumonia,"Dr. Meera Sharma",Male,11,Neurology,2025-02-14,Scheduled,144715,Card,Metformin,13,MRI,Abnormal
+100034,"Nisha Reddy",Female,13,Khammam,2025-02-02,2025-02-11,Recovered,Pneumonia,"Dr. Meera Sharma",Male,11,Neurology,2025-02-22,Completed,144715,Card,Metformin,9,MRI,Abnormal
+100034,"Nisha Reddy",Female,13,Khammam,2025-02-02,2025-02-11,Recovered,Pneumonia,"Dr. Meera Sharma",Male,11,Neurology,2025-02-22,Completed,144715,Card,Metformin,13,MRI,Abnormal
+100034,"Nisha Reddy",Female,13,Khammam,2025-02-02,2025-02-11,Recovered,Pneumonia,"Dr. Meera Sharma",Male,11,Neurology,2025-02-19,Completed,144715,Card,Metformin,9,MRI,Abnormal
+100034,"Nisha Reddy",Female,13,Khammam,2025-02-02,2025-02-11,Recovered,Pneumonia,"Dr. Meera Sharma",Male,11,Neurology,2025-02-19,Completed,144715,Card,Metformin,13,MRI,Abnormal
+100035,"Kiran Yadav",Female,27,Hyderabad,2025-01-19,2025-01-25,Recovered,Fever,"Dr. Kavya Yadav",Female,14,Gynecology,2025-01-31,Scheduled,41543,Insurance,Amoxicillin,5,"Blood Test",Normal
+100035,"Kiran Yadav",Female,27,Hyderabad,2025-01-19,2025-01-25,Recovered,Fever,"Dr. Kavya Yadav",Female,14,Gynecology,2025-01-31,Scheduled,41543,Insurance,Metformin,10,"Blood Test",Normal
+100035,"Kiran Yadav",Female,27,Hyderabad,2025-01-19,2025-01-25,Recovered,Fever,"Dr. Kavya Yadav",Female,14,Gynecology,2025-02-14,Completed,41543,Insurance,Amoxicillin,5,"Blood Test",Normal
+100035,"Kiran Yadav",Female,27,Hyderabad,2025-01-19,2025-01-25,Recovered,Fever,"Dr. Kavya Yadav",Female,14,Gynecology,2025-02-14,Completed,41543,Insurance,Metformin,10,"Blood Test",Normal
+100036,"Aisha Iyer",Female,65,Karimnagar,2026-02-11,,Admitted,Fracture,"Dr. Rohan Reddy",Female,16,Urology,2026-03-12,Completed,91711,UPI,Ibuprofen,15,MRI,Normal
+100036,"Aisha Iyer",Female,65,Karimnagar,2026-02-11,,Admitted,Fracture,"Dr. Rohan Reddy",Female,16,Urology,2026-03-12,Completed,91711,UPI,Paracetamol,9,MRI,Normal
+100036,"Aisha Iyer",Female,65,Karimnagar,2026-02-11,,Admitted,Fracture,"Dr. Rohan Reddy",Female,16,Urology,2026-02-27,Completed,91711,UPI,Ibuprofen,15,MRI,Normal
+100036,"Aisha Iyer",Female,65,Karimnagar,2026-02-11,,Admitted,Fracture,"Dr. Rohan Reddy",Female,16,Urology,2026-02-27,Completed,91711,UPI,Paracetamol,9,MRI,Normal
+100037,"Aditya Reddy",Male,82,Nizamabad,2025-11-19,,Admitted,"Heart Disease","Dr. Rahul Yadav",Female,4,Cardiology,2025-12-01,Scheduled,106533,Card,Metformin,4,X-Ray,Normal
+100037,"Aditya Reddy",Male,82,Nizamabad,2025-11-19,,Admitted,"Heart Disease","Dr. Rahul Yadav",Female,4,Cardiology,2025-12-01,Scheduled,106533,Card,Amoxicillin,9,X-Ray,Normal
+100037,"Aditya Reddy",Male,82,Nizamabad,2025-11-19,,Admitted,"Heart Disease","Dr. Rahul Yadav",Female,4,Cardiology,2025-11-25,Completed,106533,Card,Metformin,4,X-Ray,Normal
+100037,"Aditya Reddy",Male,82,Nizamabad,2025-11-19,,Admitted,"Heart Disease","Dr. Rahul Yadav",Female,4,Cardiology,2025-11-25,Completed,106533,Card,Amoxicillin,9,X-Ray,Normal
+100037,"Aditya Reddy",Male,82,Nizamabad,2025-11-19,,Admitted,"Heart Disease","Dr. Rahul Yadav",Female,4,Cardiology,2025-11-24,Scheduled,106533,Card,Metformin,4,X-Ray,Normal
+100037,"Aditya Reddy",Male,82,Nizamabad,2025-11-19,,Admitted,"Heart Disease","Dr. Rahul Yadav",Female,4,Cardiology,2025-11-24,Scheduled,106533,Card,Amoxicillin,9,X-Ray,Normal
+100038,"Sneha Yadav",Female,71,Medak,2025-02-09,2025-02-15,Discharged,Pneumonia,"Dr. Meera Reddy",Female,3,Cardiology,2025-02-25,Cancelled,110619,UPI,Paracetamol,12,"CT Scan",Abnormal
+100038,"Sneha Yadav",Female,71,Medak,2025-02-09,2025-02-15,Discharged,Pneumonia,"Dr. Meera Reddy",Female,3,Cardiology,2025-02-25,Cancelled,110619,UPI,Paracetamol,12,"CT Scan",Normal
+100038,"Sneha Yadav",Female,71,Medak,2025-02-09,2025-02-15,Discharged,Pneumonia,"Dr. Meera Reddy",Female,3,Cardiology,2025-02-25,Cancelled,110619,UPI,Amoxicillin,3,"CT Scan",Abnormal
+100038,"Sneha Yadav",Female,71,Medak,2025-02-09,2025-02-15,Discharged,Pneumonia,"Dr. Meera Reddy",Female,3,Cardiology,2025-02-25,Cancelled,110619,UPI,Amoxicillin,3,"CT Scan",Normal
+100038,"Sneha Yadav",Female,71,Medak,2025-02-09,2025-02-15,Discharged,Pneumonia,"Dr. Meera Reddy",Female,3,Cardiology,2025-02-20,Cancelled,110619,UPI,Paracetamol,12,"CT Scan",Abnormal
+100038,"Sneha Yadav",Female,71,Medak,2025-02-09,2025-02-15,Discharged,Pneumonia,"Dr. Meera Reddy",Female,3,Cardiology,2025-02-20,Cancelled,110619,UPI,Paracetamol,12,"CT Scan",Normal
+100038,"Sneha Yadav",Female,71,Medak,2025-02-09,2025-02-15,Discharged,Pneumonia,"Dr. Meera Reddy",Female,3,Cardiology,2025-02-20,Cancelled,110619,UPI,Amoxicillin,3,"CT Scan",Abnormal
+100038,"Sneha Yadav",Female,71,Medak,2025-02-09,2025-02-15,Discharged,Pneumonia,"Dr. Meera Reddy",Female,3,Cardiology,2025-02-20,Cancelled,110619,UPI,Amoxicillin,3,"CT Scan",Normal
+100038,"Sneha Yadav",Female,71,Medak,2025-02-09,2025-02-15,Discharged,Pneumonia,"Dr. Meera Reddy",Female,3,Cardiology,2025-02-21,Scheduled,110619,UPI,Paracetamol,12,"CT Scan",Abnormal
+100038,"Sneha Yadav",Female,71,Medak,2025-02-09,2025-02-15,Discharged,Pneumonia,"Dr. Meera Reddy",Female,3,Cardiology,2025-02-21,Scheduled,110619,UPI,Paracetamol,12,"CT Scan",Normal
+100038,"Sneha Yadav",Female,71,Medak,2025-02-09,2025-02-15,Discharged,Pneumonia,"Dr. Meera Reddy",Female,3,Cardiology,2025-02-21,Scheduled,110619,UPI,Amoxicillin,3,"CT Scan",Abnormal
+100038,"Sneha Yadav",Female,71,Medak,2025-02-09,2025-02-15,Discharged,Pneumonia,"Dr. Meera Reddy",Female,3,Cardiology,2025-02-21,Scheduled,110619,UPI,Amoxicillin,3,"CT Scan",Normal
+100038,"Sneha Yadav",Female,71,Medak,2025-02-09,2025-02-15,Discharged,Pneumonia,"Dr. Meera Reddy",Female,3,Cardiology,2025-02-16,Cancelled,110619,UPI,Paracetamol,12,"CT Scan",Abnormal
+100038,"Sneha Yadav",Female,71,Medak,2025-02-09,2025-02-15,Discharged,Pneumonia,"Dr. Meera Reddy",Female,3,Cardiology,2025-02-16,Cancelled,110619,UPI,Paracetamol,12,"CT Scan",Normal
+100038,"Sneha Yadav",Female,71,Medak,2025-02-09,2025-02-15,Discharged,Pneumonia,"Dr. Meera Reddy",Female,3,Cardiology,2025-02-16,Cancelled,110619,UPI,Amoxicillin,3,"CT Scan",Abnormal
+100038,"Sneha Yadav",Female,71,Medak,2025-02-09,2025-02-15,Discharged,Pneumonia,"Dr. Meera Reddy",Female,3,Cardiology,2025-02-16,Cancelled,110619,UPI,Amoxicillin,3,"CT Scan",Normal
+100039,"Vikram Das",Female,47,Warangal,2026-02-14,,Admitted,Allergy,"Dr. Divya Patel",Male,24,Orthopedics,2026-02-16,Scheduled,132710,Cash,Insulin,11,"Blood Test",Abnormal
+100039,"Vikram Das",Female,47,Warangal,2026-02-14,,Admitted,Allergy,"Dr. Divya Patel",Male,24,Orthopedics,2026-02-16,Scheduled,132710,Cash,Metformin,15,"Blood Test",Abnormal
+100039,"Vikram Das",Female,47,Warangal,2026-02-14,,Admitted,Allergy,"Dr. Divya Patel",Male,24,Orthopedics,2026-03-06,Completed,132710,Cash,Insulin,11,"Blood Test",Abnormal
+100039,"Vikram Das",Female,47,Warangal,2026-02-14,,Admitted,Allergy,"Dr. Divya Patel",Male,24,Orthopedics,2026-03-06,Completed,132710,Cash,Metformin,15,"Blood Test",Abnormal
+100040,"Rahul Nair",Male,25,Karimnagar,2025-05-20,,Admitted,Allergy,"Dr. Rohan Reddy",Female,16,Urology,2025-06-08,Cancelled,75966,Card,Cetirizine,7,"Urine Test",Abnormal
+100040,"Rahul Nair",Male,25,Karimnagar,2025-05-20,,Admitted,Allergy,"Dr. Rohan Reddy",Female,16,Urology,2025-06-08,Cancelled,75966,Card,Cetirizine,7,X-Ray,Abnormal
+100040,"Rahul Nair",Male,25,Karimnagar,2025-05-20,,Admitted,Allergy,"Dr. Rohan Reddy",Female,16,Urology,2025-06-08,Cancelled,75966,Card,Amoxicillin,8,"Urine Test",Abnormal
+100040,"Rahul Nair",Male,25,Karimnagar,2025-05-20,,Admitted,Allergy,"Dr. Rohan Reddy",Female,16,Urology,2025-06-08,Cancelled,75966,Card,Amoxicillin,8,X-Ray,Abnormal
+100040,"Rahul Nair",Male,25,Karimnagar,2025-05-20,,Admitted,Allergy,"Dr. Rohan Reddy",Female,16,Urology,2025-05-22,Cancelled,75966,Card,Cetirizine,7,"Urine Test",Abnormal
+100040,"Rahul Nair",Male,25,Karimnagar,2025-05-20,,Admitted,Allergy,"Dr. Rohan Reddy",Female,16,Urology,2025-05-22,Cancelled,75966,Card,Cetirizine,7,X-Ray,Abnormal
+100040,"Rahul Nair",Male,25,Karimnagar,2025-05-20,,Admitted,Allergy,"Dr. Rohan Reddy",Female,16,Urology,2025-05-22,Cancelled,75966,Card,Amoxicillin,8,"Urine Test",Abnormal
+100040,"Rahul Nair",Male,25,Karimnagar,2025-05-20,,Admitted,Allergy,"Dr. Rohan Reddy",Female,16,Urology,2025-05-22,Cancelled,75966,Card,Amoxicillin,8,X-Ray,Abnormal
+100040,"Rahul Nair",Male,25,Karimnagar,2025-05-20,,Admitted,Allergy,"Dr. Rohan Reddy",Female,16,Urology,2025-06-18,Completed,75966,Card,Cetirizine,7,"Urine Test",Abnormal
+100040,"Rahul Nair",Male,25,Karimnagar,2025-05-20,,Admitted,Allergy,"Dr. Rohan Reddy",Female,16,Urology,2025-06-18,Completed,75966,Card,Cetirizine,7,X-Ray,Abnormal
+100040,"Rahul Nair",Male,25,Karimnagar,2025-05-20,,Admitted,Allergy,"Dr. Rohan Reddy",Female,16,Urology,2025-06-18,Completed,75966,Card,Amoxicillin,8,"Urine Test",Abnormal
+100040,"Rahul Nair",Male,25,Karimnagar,2025-05-20,,Admitted,Allergy,"Dr. Rohan Reddy",Female,16,Urology,2025-06-18,Completed,75966,Card,Amoxicillin,8,X-Ray,Abnormal
+100040,"Rahul Nair",Male,25,Karimnagar,2025-05-20,,Admitted,Allergy,"Dr. Rohan Reddy",Female,16,Urology,2025-06-14,Scheduled,75966,Card,Cetirizine,7,"Urine Test",Abnormal
+100040,"Rahul Nair",Male,25,Karimnagar,2025-05-20,,Admitted,Allergy,"Dr. Rohan Reddy",Female,16,Urology,2025-06-14,Scheduled,75966,Card,Cetirizine,7,X-Ray,Abnormal
+100040,"Rahul Nair",Male,25,Karimnagar,2025-05-20,,Admitted,Allergy,"Dr. Rohan Reddy",Female,16,Urology,2025-06-14,Scheduled,75966,Card,Amoxicillin,8,"Urine Test",Abnormal
+100040,"Rahul Nair",Male,25,Karimnagar,2025-05-20,,Admitted,Allergy,"Dr. Rohan Reddy",Female,16,Urology,2025-06-14,Scheduled,75966,Card,Amoxicillin,8,X-Ray,Abnormal
+100041,"Rohan Das",Male,26,Karimnagar,2025-09-27,2025-10-01,Discharged,Fever,"Dr. Kavya Nair",Female,12,"General Medicine",2025-09-28,Scheduled,42765,UPI,Cetirizine,11,MRI,Abnormal
+100041,"Rohan Das",Male,26,Karimnagar,2025-09-27,2025-10-01,Discharged,Fever,"Dr. Kavya Nair",Female,12,"General Medicine",2025-09-28,Scheduled,42765,UPI,Metformin,10,MRI,Abnormal
+100041,"Rohan Das",Male,26,Karimnagar,2025-09-27,2025-10-01,Discharged,Fever,"Dr. Kavya Nair",Female,12,"General Medicine",2025-09-30,Scheduled,42765,UPI,Cetirizine,11,MRI,Abnormal
+100041,"Rohan Das",Male,26,Karimnagar,2025-09-27,2025-10-01,Discharged,Fever,"Dr. Kavya Nair",Female,12,"General Medicine",2025-09-30,Scheduled,42765,UPI,Metformin,10,MRI,Abnormal
+100041,"Rohan Das",Male,26,Karimnagar,2025-09-27,2025-10-01,Discharged,Fever,"Dr. Kavya Nair",Female,12,"General Medicine",2025-10-02,Cancelled,42765,UPI,Cetirizine,11,MRI,Abnormal
+100041,"Rohan Das",Male,26,Karimnagar,2025-09-27,2025-10-01,Discharged,Fever,"Dr. Kavya Nair",Female,12,"General Medicine",2025-10-02,Cancelled,42765,UPI,Metformin,10,MRI,Abnormal
+100041,"Rohan Das",Male,26,Karimnagar,2025-09-27,2025-10-01,Discharged,Fever,"Dr. Kavya Nair",Female,12,"General Medicine",2025-10-07,Cancelled,42765,UPI,Cetirizine,11,MRI,Abnormal
+100041,"Rohan Das",Male,26,Karimnagar,2025-09-27,2025-10-01,Discharged,Fever,"Dr. Kavya Nair",Female,12,"General Medicine",2025-10-07,Cancelled,42765,UPI,Metformin,10,MRI,Abnormal
+100042,"Neha Nair",Male,47,Sangareddy,2026-01-16,,Admitted,Hypertension,"Dr. Vikram Yadav",Male,28,Pulmonology,2026-02-15,Completed,116441,Card,Metformin,7,ECG,Normal
+100042,"Neha Nair",Male,47,Sangareddy,2026-01-16,,Admitted,Hypertension,"Dr. Vikram Yadav",Male,28,Pulmonology,2026-02-15,Completed,116441,Card,Metformin,7,ECG,Normal
+100042,"Neha Nair",Male,47,Sangareddy,2026-01-16,,Admitted,Hypertension,"Dr. Vikram Yadav",Male,28,Pulmonology,2026-02-15,Completed,116441,Card,Metformin,11,ECG,Normal
+100042,"Neha Nair",Male,47,Sangareddy,2026-01-16,,Admitted,Hypertension,"Dr. Vikram Yadav",Male,28,Pulmonology,2026-02-15,Completed,116441,Card,Metformin,11,ECG,Normal
+100042,"Neha Nair",Male,47,Sangareddy,2026-01-16,,Admitted,Hypertension,"Dr. Vikram Yadav",Male,28,Pulmonology,2026-02-04,Scheduled,116441,Card,Metformin,7,ECG,Normal
+100042,"Neha Nair",Male,47,Sangareddy,2026-01-16,,Admitted,Hypertension,"Dr. Vikram Yadav",Male,28,Pulmonology,2026-02-04,Scheduled,116441,Card,Metformin,7,ECG,Normal
+100042,"Neha Nair",Male,47,Sangareddy,2026-01-16,,Admitted,Hypertension,"Dr. Vikram Yadav",Male,28,Pulmonology,2026-02-04,Scheduled,116441,Card,Metformin,11,ECG,Normal
+100042,"Neha Nair",Male,47,Sangareddy,2026-01-16,,Admitted,Hypertension,"Dr. Vikram Yadav",Male,28,Pulmonology,2026-02-04,Scheduled,116441,Card,Metformin,11,ECG,Normal
+100043,"Pooja Gupta",Female,7,Karimnagar,2025-10-25,2025-11-01,Discharged,Allergy,"Dr. Ishaan Yadav",Male,26,"General Medicine",2025-11-12,Cancelled,60074,Cash,Cetirizine,8,"CT Scan",Abnormal
+100043,"Pooja Gupta",Female,7,Karimnagar,2025-10-25,2025-11-01,Discharged,Allergy,"Dr. Ishaan Yadav",Male,26,"General Medicine",2025-11-12,Cancelled,60074,Cash,Metformin,4,"CT Scan",Abnormal
+100043,"Pooja Gupta",Female,7,Karimnagar,2025-10-25,2025-11-01,Discharged,Allergy,"Dr. Ishaan Yadav",Male,26,"General Medicine",2025-10-26,Completed,60074,Cash,Cetirizine,8,"CT Scan",Abnormal
+100043,"Pooja Gupta",Female,7,Karimnagar,2025-10-25,2025-11-01,Discharged,Allergy,"Dr. Ishaan Yadav",Male,26,"General Medicine",2025-10-26,Completed,60074,Cash,Metformin,4,"CT Scan",Abnormal
+100044,"Priya Verma",Male,32,Karimnagar,2025-07-29,2025-08-06,Discharged,Allergy,"Dr. Meera Nair",Male,27,Emergency,2025-08-28,Completed,25614,Cash,Cetirizine,8,X-Ray,Normal
+100044,"Priya Verma",Male,32,Karimnagar,2025-07-29,2025-08-06,Discharged,Allergy,"Dr. Meera Nair",Male,27,Emergency,2025-08-28,Completed,25614,Cash,Cetirizine,8,"Urine Test",Abnormal
+100044,"Priya Verma",Male,32,Karimnagar,2025-07-29,2025-08-06,Discharged,Allergy,"Dr. Meera Nair",Male,27,Emergency,2025-08-28,Completed,25614,Cash,Paracetamol,13,X-Ray,Normal
+100044,"Priya Verma",Male,32,Karimnagar,2025-07-29,2025-08-06,Discharged,Allergy,"Dr. Meera Nair",Male,27,Emergency,2025-08-28,Completed,25614,Cash,Paracetamol,13,"Urine Test",Abnormal
+100044,"Priya Verma",Male,32,Karimnagar,2025-07-29,2025-08-06,Discharged,Allergy,"Dr. Meera Nair",Male,27,Emergency,2025-08-10,Cancelled,25614,Cash,Cetirizine,8,X-Ray,Normal
+100044,"Priya Verma",Male,32,Karimnagar,2025-07-29,2025-08-06,Discharged,Allergy,"Dr. Meera Nair",Male,27,Emergency,2025-08-10,Cancelled,25614,Cash,Cetirizine,8,"Urine Test",Abnormal
+100044,"Priya Verma",Male,32,Karimnagar,2025-07-29,2025-08-06,Discharged,Allergy,"Dr. Meera Nair",Male,27,Emergency,2025-08-10,Cancelled,25614,Cash,Paracetamol,13,X-Ray,Normal
+100044,"Priya Verma",Male,32,Karimnagar,2025-07-29,2025-08-06,Discharged,Allergy,"Dr. Meera Nair",Male,27,Emergency,2025-08-10,Cancelled,25614,Cash,Paracetamol,13,"Urine Test",Abnormal
+100044,"Priya Verma",Male,32,Karimnagar,2025-07-29,2025-08-06,Discharged,Allergy,"Dr. Meera Nair",Male,27,Emergency,2025-08-23,Cancelled,25614,Cash,Cetirizine,8,X-Ray,Normal
+100044,"Priya Verma",Male,32,Karimnagar,2025-07-29,2025-08-06,Discharged,Allergy,"Dr. Meera Nair",Male,27,Emergency,2025-08-23,Cancelled,25614,Cash,Cetirizine,8,"Urine Test",Abnormal
+100044,"Priya Verma",Male,32,Karimnagar,2025-07-29,2025-08-06,Discharged,Allergy,"Dr. Meera Nair",Male,27,Emergency,2025-08-23,Cancelled,25614,Cash,Paracetamol,13,X-Ray,Normal
+100044,"Priya Verma",Male,32,Karimnagar,2025-07-29,2025-08-06,Discharged,Allergy,"Dr. Meera Nair",Male,27,Emergency,2025-08-23,Cancelled,25614,Cash,Paracetamol,13,"Urine Test",Abnormal
+100044,"Priya Verma",Male,32,Karimnagar,2025-07-29,2025-08-06,Discharged,Allergy,"Dr. Meera Nair",Male,27,Emergency,2025-08-02,Scheduled,25614,Cash,Cetirizine,8,X-Ray,Normal
+100044,"Priya Verma",Male,32,Karimnagar,2025-07-29,2025-08-06,Discharged,Allergy,"Dr. Meera Nair",Male,27,Emergency,2025-08-02,Scheduled,25614,Cash,Cetirizine,8,"Urine Test",Abnormal
+100044,"Priya Verma",Male,32,Karimnagar,2025-07-29,2025-08-06,Discharged,Allergy,"Dr. Meera Nair",Male,27,Emergency,2025-08-02,Scheduled,25614,Cash,Paracetamol,13,X-Ray,Normal
+100044,"Priya Verma",Male,32,Karimnagar,2025-07-29,2025-08-06,Discharged,Allergy,"Dr. Meera Nair",Male,27,Emergency,2025-08-02,Scheduled,25614,Cash,Paracetamol,13,"Urine Test",Abnormal
+100045,"Priya Patel",Male,8,Warangal,2025-03-05,2025-03-12,Discharged,Diabetes,"Dr. Rohan Verma",Female,22,Cardiology,2025-03-21,Scheduled,161099,Card,Insulin,13,"Urine Test",Abnormal
+100045,"Priya Patel",Male,8,Warangal,2025-03-05,2025-03-12,Discharged,Diabetes,"Dr. Rohan Verma",Female,22,Cardiology,2025-03-21,Scheduled,161099,Card,Insulin,13,"Urine Test",Normal
+100045,"Priya Patel",Male,8,Warangal,2025-03-05,2025-03-12,Discharged,Diabetes,"Dr. Rohan Verma",Female,22,Cardiology,2025-03-21,Scheduled,161099,Card,Insulin,11,"Urine Test",Abnormal
+100045,"Priya Patel",Male,8,Warangal,2025-03-05,2025-03-12,Discharged,Diabetes,"Dr. Rohan Verma",Female,22,Cardiology,2025-03-21,Scheduled,161099,Card,Insulin,11,"Urine Test",Normal
+100045,"Priya Patel",Male,8,Warangal,2025-03-05,2025-03-12,Discharged,Diabetes,"Dr. Rohan Verma",Female,22,Cardiology,2025-03-18,Completed,161099,Card,Insulin,13,"Urine Test",Abnormal
+100045,"Priya Patel",Male,8,Warangal,2025-03-05,2025-03-12,Discharged,Diabetes,"Dr. Rohan Verma",Female,22,Cardiology,2025-03-18,Completed,161099,Card,Insulin,13,"Urine Test",Normal
+100045,"Priya Patel",Male,8,Warangal,2025-03-05,2025-03-12,Discharged,Diabetes,"Dr. Rohan Verma",Female,22,Cardiology,2025-03-18,Completed,161099,Card,Insulin,11,"Urine Test",Abnormal
+100045,"Priya Patel",Male,8,Warangal,2025-03-05,2025-03-12,Discharged,Diabetes,"Dr. Rohan Verma",Female,22,Cardiology,2025-03-18,Completed,161099,Card,Insulin,11,"Urine Test",Normal
+100046,"Kavya Sharma",Female,56,Nalgonda,2025-02-19,2025-02-27,Recovered,Hypertension,"Dr. Pooja Verma",Male,20,Neurology,2025-02-27,Completed,172343,Insurance,Paracetamol,8,MRI,Abnormal
+100046,"Kavya Sharma",Female,56,Nalgonda,2025-02-19,2025-02-27,Recovered,Hypertension,"Dr. Pooja Verma",Male,20,Neurology,2025-02-27,Completed,172343,Insurance,Paracetamol,8,ECG,Normal
+100046,"Kavya Sharma",Female,56,Nalgonda,2025-02-19,2025-02-27,Recovered,Hypertension,"Dr. Pooja Verma",Male,20,Neurology,2025-02-27,Completed,172343,Insurance,Insulin,3,MRI,Abnormal
+100046,"Kavya Sharma",Female,56,Nalgonda,2025-02-19,2025-02-27,Recovered,Hypertension,"Dr. Pooja Verma",Male,20,Neurology,2025-02-27,Completed,172343,Insurance,Insulin,3,ECG,Normal
+100046,"Kavya Sharma",Female,56,Nalgonda,2025-02-19,2025-02-27,Recovered,Hypertension,"Dr. Pooja Verma",Male,20,Neurology,2025-02-26,Completed,172343,Insurance,Paracetamol,8,MRI,Abnormal
+100046,"Kavya Sharma",Female,56,Nalgonda,2025-02-19,2025-02-27,Recovered,Hypertension,"Dr. Pooja Verma",Male,20,Neurology,2025-02-26,Completed,172343,Insurance,Paracetamol,8,ECG,Normal
+100046,"Kavya Sharma",Female,56,Nalgonda,2025-02-19,2025-02-27,Recovered,Hypertension,"Dr. Pooja Verma",Male,20,Neurology,2025-02-26,Completed,172343,Insurance,Insulin,3,MRI,Abnormal
+100046,"Kavya Sharma",Female,56,Nalgonda,2025-02-19,2025-02-27,Recovered,Hypertension,"Dr. Pooja Verma",Male,20,Neurology,2025-02-26,Completed,172343,Insurance,Insulin,3,ECG,Normal
+100047,"Kiran Reddy",Male,22,Medak,2026-06-20,2026-06-25,Recovered,Migraine,"Dr. Rohan Reddy",Female,16,Urology,2026-06-27,Cancelled,53656,Card,Insulin,11,"Blood Test",Abnormal
+100047,"Kiran Reddy",Male,22,Medak,2026-06-20,2026-06-25,Recovered,Migraine,"Dr. Rohan Reddy",Female,16,Urology,2026-06-27,Cancelled,53656,Card,Insulin,11,"CT Scan",Normal
+100047,"Kiran Reddy",Male,22,Medak,2026-06-20,2026-06-25,Recovered,Migraine,"Dr. Rohan Reddy",Female,16,Urology,2026-06-27,Cancelled,53656,Card,Insulin,14,"Blood Test",Abnormal
+100047,"Kiran Reddy",Male,22,Medak,2026-06-20,2026-06-25,Recovered,Migraine,"Dr. Rohan Reddy",Female,16,Urology,2026-06-27,Cancelled,53656,Card,Insulin,14,"CT Scan",Normal
+100047,"Kiran Reddy",Male,22,Medak,2026-06-20,2026-06-25,Recovered,Migraine,"Dr. Rohan Reddy",Female,16,Urology,2026-06-30,Scheduled,53656,Card,Insulin,11,"Blood Test",Abnormal
+100047,"Kiran Reddy",Male,22,Medak,2026-06-20,2026-06-25,Recovered,Migraine,"Dr. Rohan Reddy",Female,16,Urology,2026-06-30,Scheduled,53656,Card,Insulin,11,"CT Scan",Normal
+100047,"Kiran Reddy",Male,22,Medak,2026-06-20,2026-06-25,Recovered,Migraine,"Dr. Rohan Reddy",Female,16,Urology,2026-06-30,Scheduled,53656,Card,Insulin,14,"Blood Test",Abnormal
+100047,"Kiran Reddy",Male,22,Medak,2026-06-20,2026-06-25,Recovered,Migraine,"Dr. Rohan Reddy",Female,16,Urology,2026-06-30,Scheduled,53656,Card,Insulin,14,"CT Scan",Normal
+100047,"Kiran Reddy",Male,22,Medak,2026-06-20,2026-06-25,Recovered,Migraine,"Dr. Rohan Reddy",Female,16,Urology,2026-06-26,Cancelled,53656,Card,Insulin,11,"Blood Test",Abnormal
+100047,"Kiran Reddy",Male,22,Medak,2026-06-20,2026-06-25,Recovered,Migraine,"Dr. Rohan Reddy",Female,16,Urology,2026-06-26,Cancelled,53656,Card,Insulin,11,"CT Scan",Normal
+100047,"Kiran Reddy",Male,22,Medak,2026-06-20,2026-06-25,Recovered,Migraine,"Dr. Rohan Reddy",Female,16,Urology,2026-06-26,Cancelled,53656,Card,Insulin,14,"Blood Test",Abnormal
+100047,"Kiran Reddy",Male,22,Medak,2026-06-20,2026-06-25,Recovered,Migraine,"Dr. Rohan Reddy",Female,16,Urology,2026-06-26,Cancelled,53656,Card,Insulin,14,"CT Scan",Normal
+100047,"Kiran Reddy",Male,22,Medak,2026-06-20,2026-06-25,Recovered,Migraine,"Dr. Rohan Reddy",Female,16,Urology,2026-07-19,Cancelled,53656,Card,Insulin,11,"Blood Test",Abnormal
+100047,"Kiran Reddy",Male,22,Medak,2026-06-20,2026-06-25,Recovered,Migraine,"Dr. Rohan Reddy",Female,16,Urology,2026-07-19,Cancelled,53656,Card,Insulin,11,"CT Scan",Normal
+100047,"Kiran Reddy",Male,22,Medak,2026-06-20,2026-06-25,Recovered,Migraine,"Dr. Rohan Reddy",Female,16,Urology,2026-07-19,Cancelled,53656,Card,Insulin,14,"Blood Test",Abnormal
+100047,"Kiran Reddy",Male,22,Medak,2026-06-20,2026-06-25,Recovered,Migraine,"Dr. Rohan Reddy",Female,16,Urology,2026-07-19,Cancelled,53656,Card,Insulin,14,"CT Scan",Normal
+100048,"Aisha Nair",Male,73,Karimnagar,2025-11-12,2025-11-19,Recovered,Fracture,"Dr. Priya Verma",Male,2,Pulmonology,2025-12-11,Completed,9128,Cash,Insulin,3,"Blood Test",Normal
+100048,"Aisha Nair",Male,73,Karimnagar,2025-11-12,2025-11-19,Recovered,Fracture,"Dr. Priya Verma",Male,2,Pulmonology,2025-12-11,Completed,9128,Cash,Metformin,5,"Blood Test",Normal
+100048,"Aisha Nair",Male,73,Karimnagar,2025-11-12,2025-11-19,Recovered,Fracture,"Dr. Priya Verma",Male,2,Pulmonology,2025-11-15,Scheduled,9128,Cash,Insulin,3,"Blood Test",Normal
+100048,"Aisha Nair",Male,73,Karimnagar,2025-11-12,2025-11-19,Recovered,Fracture,"Dr. Priya Verma",Male,2,Pulmonology,2025-11-15,Scheduled,9128,Cash,Metformin,5,"Blood Test",Normal
+100049,"Rahul Bose",Female,26,Adilabad,2025-02-13,2025-02-14,Discharged,Pneumonia,"Dr. Aarav Ali",Male,18,Pulmonology,2025-02-19,Completed,17787,Insurance,Insulin,4,X-Ray,Normal
+100049,"Rahul Bose",Female,26,Adilabad,2025-02-13,2025-02-14,Discharged,Pneumonia,"Dr. Aarav Ali",Male,18,Pulmonology,2025-02-19,Completed,17787,Insurance,Insulin,4,"CT Scan",Normal
+100049,"Rahul Bose",Female,26,Adilabad,2025-02-13,2025-02-14,Discharged,Pneumonia,"Dr. Aarav Ali",Male,18,Pulmonology,2025-02-19,Completed,17787,Insurance,Paracetamol,3,X-Ray,Normal
+100049,"Rahul Bose",Female,26,Adilabad,2025-02-13,2025-02-14,Discharged,Pneumonia,"Dr. Aarav Ali",Male,18,Pulmonology,2025-02-19,Completed,17787,Insurance,Paracetamol,3,"CT Scan",Normal
+100049,"Rahul Bose",Female,26,Adilabad,2025-02-13,2025-02-14,Discharged,Pneumonia,"Dr. Aarav Ali",Male,18,Pulmonology,2025-02-20,Completed,17787,Insurance,Insulin,4,X-Ray,Normal
+100049,"Rahul Bose",Female,26,Adilabad,2025-02-13,2025-02-14,Discharged,Pneumonia,"Dr. Aarav Ali",Male,18,Pulmonology,2025-02-20,Completed,17787,Insurance,Insulin,4,"CT Scan",Normal
+100049,"Rahul Bose",Female,26,Adilabad,2025-02-13,2025-02-14,Discharged,Pneumonia,"Dr. Aarav Ali",Male,18,Pulmonology,2025-02-20,Completed,17787,Insurance,Paracetamol,3,X-Ray,Normal
+100049,"Rahul Bose",Female,26,Adilabad,2025-02-13,2025-02-14,Discharged,Pneumonia,"Dr. Aarav Ali",Male,18,Pulmonology,2025-02-20,Completed,17787,Insurance,Paracetamol,3,"CT Scan",Normal
+100050,"Arjun Sharma",Female,33,Medak,2025-10-29,2025-11-05,Discharged,Diabetes,"Dr. Rohan Patel",Female,21,Urology,2025-10-29,Cancelled,96975,UPI,Cetirizine,15,MRI,Abnormal
+100050,"Arjun Sharma",Female,33,Medak,2025-10-29,2025-11-05,Discharged,Diabetes,"Dr. Rohan Patel",Female,21,Urology,2025-10-29,Cancelled,96975,UPI,Paracetamol,9,MRI,Abnormal
+100050,"Arjun Sharma",Female,33,Medak,2025-10-29,2025-11-05,Discharged,Diabetes,"Dr. Rohan Patel",Female,21,Urology,2025-11-17,Scheduled,96975,UPI,Cetirizine,15,MRI,Abnormal
+100050,"Arjun Sharma",Female,33,Medak,2025-10-29,2025-11-05,Discharged,Diabetes,"Dr. Rohan Patel",Female,21,Urology,2025-11-17,Scheduled,96975,UPI,Paracetamol,9,MRI,Abnormal
+100050,"Arjun Sharma",Female,33,Medak,2025-10-29,2025-11-05,Discharged,Diabetes,"Dr. Rohan Patel",Female,21,Urology,2025-11-25,Cancelled,96975,UPI,Cetirizine,15,MRI,Abnormal
+100050,"Arjun Sharma",Female,33,Medak,2025-10-29,2025-11-05,Discharged,Diabetes,"Dr. Rohan Patel",Female,21,Urology,2025-11-25,Cancelled,96975,UPI,Paracetamol,9,MRI,Abnormal
+100050,"Arjun Sharma",Female,33,Medak,2025-10-29,2025-11-05,Discharged,Diabetes,"Dr. Rohan Patel",Female,21,Urology,2025-11-14,Cancelled,96975,UPI,Cetirizine,15,MRI,Abnormal
+100050,"Arjun Sharma",Female,33,Medak,2025-10-29,2025-11-05,Discharged,Diabetes,"Dr. Rohan Patel",Female,21,Urology,2025-11-14,Cancelled,96975,UPI,Paracetamol,9,MRI,Abnormal
+100051,"Varun Bose",Female,22,Khammam,2025-08-10,2025-08-12,Recovered,Diabetes,"Dr. Aditya Singh",Male,25,Pulmonology,2025-08-25,Completed,137746,Card,Amoxicillin,10,"Urine Test",Normal
+100051,"Varun Bose",Female,22,Khammam,2025-08-10,2025-08-12,Recovered,Diabetes,"Dr. Aditya Singh",Male,25,Pulmonology,2025-08-25,Completed,137746,Card,Amoxicillin,10,"Urine Test",Abnormal
+100051,"Varun Bose",Female,22,Khammam,2025-08-10,2025-08-12,Recovered,Diabetes,"Dr. Aditya Singh",Male,25,Pulmonology,2025-08-25,Completed,137746,Card,Ibuprofen,14,"Urine Test",Normal
+100051,"Varun Bose",Female,22,Khammam,2025-08-10,2025-08-12,Recovered,Diabetes,"Dr. Aditya Singh",Male,25,Pulmonology,2025-08-25,Completed,137746,Card,Ibuprofen,14,"Urine Test",Abnormal
+100051,"Varun Bose",Female,22,Khammam,2025-08-10,2025-08-12,Recovered,Diabetes,"Dr. Aditya Singh",Male,25,Pulmonology,2025-08-10,Cancelled,137746,Card,Amoxicillin,10,"Urine Test",Normal
+100051,"Varun Bose",Female,22,Khammam,2025-08-10,2025-08-12,Recovered,Diabetes,"Dr. Aditya Singh",Male,25,Pulmonology,2025-08-10,Cancelled,137746,Card,Amoxicillin,10,"Urine Test",Abnormal
+100051,"Varun Bose",Female,22,Khammam,2025-08-10,2025-08-12,Recovered,Diabetes,"Dr. Aditya Singh",Male,25,Pulmonology,2025-08-10,Cancelled,137746,Card,Ibuprofen,14,"Urine Test",Normal
+100051,"Varun Bose",Female,22,Khammam,2025-08-10,2025-08-12,Recovered,Diabetes,"Dr. Aditya Singh",Male,25,Pulmonology,2025-08-10,Cancelled,137746,Card,Ibuprofen,14,"Urine Test",Abnormal
+100051,"Varun Bose",Female,22,Khammam,2025-08-10,2025-08-12,Recovered,Diabetes,"Dr. Aditya Singh",Male,25,Pulmonology,2025-09-03,Completed,137746,Card,Amoxicillin,10,"Urine Test",Normal
+100051,"Varun Bose",Female,22,Khammam,2025-08-10,2025-08-12,Recovered,Diabetes,"Dr. Aditya Singh",Male,25,Pulmonology,2025-09-03,Completed,137746,Card,Amoxicillin,10,"Urine Test",Abnormal
+100051,"Varun Bose",Female,22,Khammam,2025-08-10,2025-08-12,Recovered,Diabetes,"Dr. Aditya Singh",Male,25,Pulmonology,2025-09-03,Completed,137746,Card,Ibuprofen,14,"Urine Test",Normal
+100051,"Varun Bose",Female,22,Khammam,2025-08-10,2025-08-12,Recovered,Diabetes,"Dr. Aditya Singh",Male,25,Pulmonology,2025-09-03,Completed,137746,Card,Ibuprofen,14,"Urine Test",Abnormal
+100052,"Nisha Verma",Male,82,Warangal,2025-08-08,2025-08-12,Recovered,Allergy,"Dr. Aditya Iyer",Female,4,Dermatology,2025-09-05,Scheduled,147629,Cash,Insulin,3,MRI,Abnormal
+100052,"Nisha Verma",Male,82,Warangal,2025-08-08,2025-08-12,Recovered,Allergy,"Dr. Aditya Iyer",Female,4,Dermatology,2025-09-05,Scheduled,147629,Cash,Insulin,3,X-Ray,Abnormal
+100052,"Nisha Verma",Male,82,Warangal,2025-08-08,2025-08-12,Recovered,Allergy,"Dr. Aditya Iyer",Female,4,Dermatology,2025-09-05,Scheduled,147629,Cash,Paracetamol,9,MRI,Abnormal
+100052,"Nisha Verma",Male,82,Warangal,2025-08-08,2025-08-12,Recovered,Allergy,"Dr. Aditya Iyer",Female,4,Dermatology,2025-09-05,Scheduled,147629,Cash,Paracetamol,9,X-Ray,Abnormal
+100052,"Nisha Verma",Male,82,Warangal,2025-08-08,2025-08-12,Recovered,Allergy,"Dr. Aditya Iyer",Female,4,Dermatology,2025-09-06,Cancelled,147629,Cash,Insulin,3,MRI,Abnormal
+100052,"Nisha Verma",Male,82,Warangal,2025-08-08,2025-08-12,Recovered,Allergy,"Dr. Aditya Iyer",Female,4,Dermatology,2025-09-06,Cancelled,147629,Cash,Insulin,3,X-Ray,Abnormal
+100052,"Nisha Verma",Male,82,Warangal,2025-08-08,2025-08-12,Recovered,Allergy,"Dr. Aditya Iyer",Female,4,Dermatology,2025-09-06,Cancelled,147629,Cash,Paracetamol,9,MRI,Abnormal
+100052,"Nisha Verma",Male,82,Warangal,2025-08-08,2025-08-12,Recovered,Allergy,"Dr. Aditya Iyer",Female,4,Dermatology,2025-09-06,Cancelled,147629,Cash,Paracetamol,9,X-Ray,Abnormal
+100052,"Nisha Verma",Male,82,Warangal,2025-08-08,2025-08-12,Recovered,Allergy,"Dr. Aditya Iyer",Female,4,Dermatology,2025-08-11,Cancelled,147629,Cash,Insulin,3,MRI,Abnormal
+100052,"Nisha Verma",Male,82,Warangal,2025-08-08,2025-08-12,Recovered,Allergy,"Dr. Aditya Iyer",Female,4,Dermatology,2025-08-11,Cancelled,147629,Cash,Insulin,3,X-Ray,Abnormal
+100052,"Nisha Verma",Male,82,Warangal,2025-08-08,2025-08-12,Recovered,Allergy,"Dr. Aditya Iyer",Female,4,Dermatology,2025-08-11,Cancelled,147629,Cash,Paracetamol,9,MRI,Abnormal
+100052,"Nisha Verma",Male,82,Warangal,2025-08-08,2025-08-12,Recovered,Allergy,"Dr. Aditya Iyer",Female,4,Dermatology,2025-08-11,Cancelled,147629,Cash,Paracetamol,9,X-Ray,Abnormal
+100052,"Nisha Verma",Male,82,Warangal,2025-08-08,2025-08-12,Recovered,Allergy,"Dr. Aditya Iyer",Female,4,Dermatology,2025-08-18,Cancelled,147629,Cash,Insulin,3,MRI,Abnormal
+100052,"Nisha Verma",Male,82,Warangal,2025-08-08,2025-08-12,Recovered,Allergy,"Dr. Aditya Iyer",Female,4,Dermatology,2025-08-18,Cancelled,147629,Cash,Insulin,3,X-Ray,Abnormal
+100052,"Nisha Verma",Male,82,Warangal,2025-08-08,2025-08-12,Recovered,Allergy,"Dr. Aditya Iyer",Female,4,Dermatology,2025-08-18,Cancelled,147629,Cash,Paracetamol,9,MRI,Abnormal
+100052,"Nisha Verma",Male,82,Warangal,2025-08-08,2025-08-12,Recovered,Allergy,"Dr. Aditya Iyer",Female,4,Dermatology,2025-08-18,Cancelled,147629,Cash,Paracetamol,9,X-Ray,Abnormal
+100053,"Sai Verma",Male,45,Mahbubnagar,2025-06-25,2025-06-29,Discharged,Asthma,"Dr. Ishaan Naidu",Male,24,Pediatrics,2025-06-30,Cancelled,137268,Card,Metformin,12,X-Ray,Abnormal
+100053,"Sai Verma",Male,45,Mahbubnagar,2025-06-25,2025-06-29,Discharged,Asthma,"Dr. Ishaan Naidu",Male,24,Pediatrics,2025-06-30,Cancelled,137268,Card,Ibuprofen,14,X-Ray,Abnormal
+100053,"Sai Verma",Male,45,Mahbubnagar,2025-06-25,2025-06-29,Discharged,Asthma,"Dr. Ishaan Naidu",Male,24,Pediatrics,2025-07-18,Cancelled,137268,Card,Metformin,12,X-Ray,Abnormal
+100053,"Sai Verma",Male,45,Mahbubnagar,2025-06-25,2025-06-29,Discharged,Asthma,"Dr. Ishaan Naidu",Male,24,Pediatrics,2025-07-18,Cancelled,137268,Card,Ibuprofen,14,X-Ray,Abnormal
+100053,"Sai Verma",Male,45,Mahbubnagar,2025-06-25,2025-06-29,Discharged,Asthma,"Dr. Ishaan Naidu",Male,24,Pediatrics,2025-07-16,Scheduled,137268,Card,Metformin,12,X-Ray,Abnormal
+100053,"Sai Verma",Male,45,Mahbubnagar,2025-06-25,2025-06-29,Discharged,Asthma,"Dr. Ishaan Naidu",Male,24,Pediatrics,2025-07-16,Scheduled,137268,Card,Ibuprofen,14,X-Ray,Abnormal
+100054,"Divya Ali",Male,20,Nizamabad,2025-09-01,2025-09-06,Discharged,"Kidney Stone","Dr. Sneha Reddy",Female,16,Oncology,2025-10-01,Completed,86106,UPI,Paracetamol,5,X-Ray,Abnormal
+100054,"Divya Ali",Male,20,Nizamabad,2025-09-01,2025-09-06,Discharged,"Kidney Stone","Dr. Sneha Reddy",Female,16,Oncology,2025-10-01,Completed,86106,UPI,Metformin,14,X-Ray,Abnormal
+100054,"Divya Ali",Male,20,Nizamabad,2025-09-01,2025-09-06,Discharged,"Kidney Stone","Dr. Sneha Reddy",Female,16,Oncology,2025-09-08,Cancelled,86106,UPI,Paracetamol,5,X-Ray,Abnormal
+100054,"Divya Ali",Male,20,Nizamabad,2025-09-01,2025-09-06,Discharged,"Kidney Stone","Dr. Sneha Reddy",Female,16,Oncology,2025-09-08,Cancelled,86106,UPI,Metformin,14,X-Ray,Abnormal
+100055,"Arjun Patel",Male,82,Warangal,2025-11-06,2025-11-13,Recovered,Cancer,"Dr. Kavya Yadav",Female,16,Orthopedics,2025-11-28,Completed,54618,Insurance,Metformin,10,X-Ray,Abnormal
+100055,"Arjun Patel",Male,82,Warangal,2025-11-06,2025-11-13,Recovered,Cancer,"Dr. Kavya Yadav",Female,16,Orthopedics,2025-11-28,Completed,54618,Insurance,Cetirizine,13,X-Ray,Abnormal
+100055,"Arjun Patel",Male,82,Warangal,2025-11-06,2025-11-13,Recovered,Cancer,"Dr. Kavya Yadav",Female,16,Orthopedics,2025-11-18,Cancelled,54618,Insurance,Metformin,10,X-Ray,Abnormal
+100055,"Arjun Patel",Male,82,Warangal,2025-11-06,2025-11-13,Recovered,Cancer,"Dr. Kavya Yadav",Female,16,Orthopedics,2025-11-18,Cancelled,54618,Insurance,Cetirizine,13,X-Ray,Abnormal
+100055,"Arjun Patel",Male,82,Warangal,2025-11-06,2025-11-13,Recovered,Cancer,"Dr. Kavya Yadav",Female,16,Orthopedics,2025-11-07,Completed,54618,Insurance,Metformin,10,X-Ray,Abnormal
+100055,"Arjun Patel",Male,82,Warangal,2025-11-06,2025-11-13,Recovered,Cancer,"Dr. Kavya Yadav",Female,16,Orthopedics,2025-11-07,Completed,54618,Insurance,Cetirizine,13,X-Ray,Abnormal
+100056,"Meera Iyer",Female,90,Mahbubnagar,2026-02-19,,Admitted,"Heart Disease","Dr. Arjun Patel",Female,16,Emergency,2026-03-11,Scheduled,170159,Insurance,Amoxicillin,13,ECG,Normal
+100056,"Meera Iyer",Female,90,Mahbubnagar,2026-02-19,,Admitted,"Heart Disease","Dr. Arjun Patel",Female,16,Emergency,2026-03-11,Scheduled,170159,Insurance,Insulin,12,ECG,Normal
+100056,"Meera Iyer",Female,90,Mahbubnagar,2026-02-19,,Admitted,"Heart Disease","Dr. Arjun Patel",Female,16,Emergency,2026-03-12,Scheduled,170159,Insurance,Amoxicillin,13,ECG,Normal
+100056,"Meera Iyer",Female,90,Mahbubnagar,2026-02-19,,Admitted,"Heart Disease","Dr. Arjun Patel",Female,16,Emergency,2026-03-12,Scheduled,170159,Insurance,Insulin,12,ECG,Normal
+100057,"Sneha Iyer",Female,32,Khammam,2025-11-17,,Admitted,"Kidney Stone","Dr. Kiran Nair",Female,6,Oncology,2025-11-17,Scheduled,165549,Card,Insulin,13,ECG,Abnormal
+100057,"Sneha Iyer",Female,32,Khammam,2025-11-17,,Admitted,"Kidney Stone","Dr. Kiran Nair",Female,6,Oncology,2025-11-17,Scheduled,165549,Card,Ibuprofen,11,ECG,Abnormal
+100057,"Sneha Iyer",Female,32,Khammam,2025-11-17,,Admitted,"Kidney Stone","Dr. Kiran Nair",Female,6,Oncology,2025-12-02,Cancelled,165549,Card,Insulin,13,ECG,Abnormal
+100057,"Sneha Iyer",Female,32,Khammam,2025-11-17,,Admitted,"Kidney Stone","Dr. Kiran Nair",Female,6,Oncology,2025-12-02,Cancelled,165549,Card,Ibuprofen,11,ECG,Abnormal
+100057,"Sneha Iyer",Female,32,Khammam,2025-11-17,,Admitted,"Kidney Stone","Dr. Kiran Nair",Female,6,Oncology,2025-12-14,Cancelled,165549,Card,Insulin,13,ECG,Abnormal
+100057,"Sneha Iyer",Female,32,Khammam,2025-11-17,,Admitted,"Kidney Stone","Dr. Kiran Nair",Female,6,Oncology,2025-12-14,Cancelled,165549,Card,Ibuprofen,11,ECG,Abnormal
+100058,"Ananya Naidu",Male,21,Nizamabad,2026-05-17,2026-05-19,Recovered,Sinusitis,"Dr. Rahul Yadav",Female,4,Cardiology,2026-05-17,Scheduled,91780,Cash,Metformin,9,"CT Scan",Normal
+100058,"Ananya Naidu",Male,21,Nizamabad,2026-05-17,2026-05-19,Recovered,Sinusitis,"Dr. Rahul Yadav",Female,4,Cardiology,2026-05-17,Scheduled,91780,Cash,Metformin,9,X-Ray,Normal
+100058,"Ananya Naidu",Male,21,Nizamabad,2026-05-17,2026-05-19,Recovered,Sinusitis,"Dr. Rahul Yadav",Female,4,Cardiology,2026-05-17,Scheduled,91780,Cash,Metformin,11,"CT Scan",Normal
+100058,"Ananya Naidu",Male,21,Nizamabad,2026-05-17,2026-05-19,Recovered,Sinusitis,"Dr. Rahul Yadav",Female,4,Cardiology,2026-05-17,Scheduled,91780,Cash,Metformin,11,X-Ray,Normal
+100058,"Ananya Naidu",Male,21,Nizamabad,2026-05-17,2026-05-19,Recovered,Sinusitis,"Dr. Rahul Yadav",Female,4,Cardiology,2026-06-01,Scheduled,91780,Cash,Metformin,9,"CT Scan",Normal
+100058,"Ananya Naidu",Male,21,Nizamabad,2026-05-17,2026-05-19,Recovered,Sinusitis,"Dr. Rahul Yadav",Female,4,Cardiology,2026-06-01,Scheduled,91780,Cash,Metformin,9,X-Ray,Normal
+100058,"Ananya Naidu",Male,21,Nizamabad,2026-05-17,2026-05-19,Recovered,Sinusitis,"Dr. Rahul Yadav",Female,4,Cardiology,2026-06-01,Scheduled,91780,Cash,Metformin,11,"CT Scan",Normal
+100058,"Ananya Naidu",Male,21,Nizamabad,2026-05-17,2026-05-19,Recovered,Sinusitis,"Dr. Rahul Yadav",Female,4,Cardiology,2026-06-01,Scheduled,91780,Cash,Metformin,11,X-Ray,Normal
+100058,"Ananya Naidu",Male,21,Nizamabad,2026-05-17,2026-05-19,Recovered,Sinusitis,"Dr. Rahul Yadav",Female,4,Cardiology,2026-05-23,Scheduled,91780,Cash,Metformin,9,"CT Scan",Normal
+100058,"Ananya Naidu",Male,21,Nizamabad,2026-05-17,2026-05-19,Recovered,Sinusitis,"Dr. Rahul Yadav",Female,4,Cardiology,2026-05-23,Scheduled,91780,Cash,Metformin,9,X-Ray,Normal
+100058,"Ananya Naidu",Male,21,Nizamabad,2026-05-17,2026-05-19,Recovered,Sinusitis,"Dr. Rahul Yadav",Female,4,Cardiology,2026-05-23,Scheduled,91780,Cash,Metformin,11,"CT Scan",Normal
+100058,"Ananya Naidu",Male,21,Nizamabad,2026-05-17,2026-05-19,Recovered,Sinusitis,"Dr. Rahul Yadav",Female,4,Cardiology,2026-05-23,Scheduled,91780,Cash,Metformin,11,X-Ray,Normal
+100058,"Ananya Naidu",Male,21,Nizamabad,2026-05-17,2026-05-19,Recovered,Sinusitis,"Dr. Rahul Yadav",Female,4,Cardiology,2026-05-31,Scheduled,91780,Cash,Metformin,9,"CT Scan",Normal
+100058,"Ananya Naidu",Male,21,Nizamabad,2026-05-17,2026-05-19,Recovered,Sinusitis,"Dr. Rahul Yadav",Female,4,Cardiology,2026-05-31,Scheduled,91780,Cash,Metformin,9,X-Ray,Normal
+100058,"Ananya Naidu",Male,21,Nizamabad,2026-05-17,2026-05-19,Recovered,Sinusitis,"Dr. Rahul Yadav",Female,4,Cardiology,2026-05-31,Scheduled,91780,Cash,Metformin,11,"CT Scan",Normal
+100058,"Ananya Naidu",Male,21,Nizamabad,2026-05-17,2026-05-19,Recovered,Sinusitis,"Dr. Rahul Yadav",Female,4,Cardiology,2026-05-31,Scheduled,91780,Cash,Metformin,11,X-Ray,Normal
+100059,"Arjun Yadav",Female,8,Hyderabad,2025-12-31,2026-01-05,Discharged,Hypertension,"Dr. Neha Verma",Male,2,Pulmonology,2026-01-07,Cancelled,110228,Insurance,Cetirizine,6,X-Ray,Normal
+100059,"Arjun Yadav",Female,8,Hyderabad,2025-12-31,2026-01-05,Discharged,Hypertension,"Dr. Neha Verma",Male,2,Pulmonology,2026-01-07,Cancelled,110228,Insurance,Cetirizine,6,"CT Scan",Normal
+100059,"Arjun Yadav",Female,8,Hyderabad,2025-12-31,2026-01-05,Discharged,Hypertension,"Dr. Neha Verma",Male,2,Pulmonology,2026-01-07,Cancelled,110228,Insurance,Insulin,9,X-Ray,Normal
+100059,"Arjun Yadav",Female,8,Hyderabad,2025-12-31,2026-01-05,Discharged,Hypertension,"Dr. Neha Verma",Male,2,Pulmonology,2026-01-07,Cancelled,110228,Insurance,Insulin,9,"CT Scan",Normal
+100059,"Arjun Yadav",Female,8,Hyderabad,2025-12-31,2026-01-05,Discharged,Hypertension,"Dr. Neha Verma",Male,2,Pulmonology,2026-01-08,Completed,110228,Insurance,Cetirizine,6,X-Ray,Normal
+100059,"Arjun Yadav",Female,8,Hyderabad,2025-12-31,2026-01-05,Discharged,Hypertension,"Dr. Neha Verma",Male,2,Pulmonology,2026-01-08,Completed,110228,Insurance,Cetirizine,6,"CT Scan",Normal
+100059,"Arjun Yadav",Female,8,Hyderabad,2025-12-31,2026-01-05,Discharged,Hypertension,"Dr. Neha Verma",Male,2,Pulmonology,2026-01-08,Completed,110228,Insurance,Insulin,9,X-Ray,Normal
+100059,"Arjun Yadav",Female,8,Hyderabad,2025-12-31,2026-01-05,Discharged,Hypertension,"Dr. Neha Verma",Male,2,Pulmonology,2026-01-08,Completed,110228,Insurance,Insulin,9,"CT Scan",Normal
+100059,"Arjun Yadav",Female,8,Hyderabad,2025-12-31,2026-01-05,Discharged,Hypertension,"Dr. Neha Verma",Male,2,Pulmonology,2026-01-11,Scheduled,110228,Insurance,Cetirizine,6,X-Ray,Normal
+100059,"Arjun Yadav",Female,8,Hyderabad,2025-12-31,2026-01-05,Discharged,Hypertension,"Dr. Neha Verma",Male,2,Pulmonology,2026-01-11,Scheduled,110228,Insurance,Cetirizine,6,"CT Scan",Normal
+100059,"Arjun Yadav",Female,8,Hyderabad,2025-12-31,2026-01-05,Discharged,Hypertension,"Dr. Neha Verma",Male,2,Pulmonology,2026-01-11,Scheduled,110228,Insurance,Insulin,9,X-Ray,Normal
+100059,"Arjun Yadav",Female,8,Hyderabad,2025-12-31,2026-01-05,Discharged,Hypertension,"Dr. Neha Verma",Male,2,Pulmonology,2026-01-11,Scheduled,110228,Insurance,Insulin,9,"CT Scan",Normal
+100059,"Arjun Yadav",Female,8,Hyderabad,2025-12-31,2026-01-05,Discharged,Hypertension,"Dr. Neha Verma",Male,2,Pulmonology,2026-01-22,Scheduled,110228,Insurance,Cetirizine,6,X-Ray,Normal
+100059,"Arjun Yadav",Female,8,Hyderabad,2025-12-31,2026-01-05,Discharged,Hypertension,"Dr. Neha Verma",Male,2,Pulmonology,2026-01-22,Scheduled,110228,Insurance,Cetirizine,6,"CT Scan",Normal
+100059,"Arjun Yadav",Female,8,Hyderabad,2025-12-31,2026-01-05,Discharged,Hypertension,"Dr. Neha Verma",Male,2,Pulmonology,2026-01-22,Scheduled,110228,Insurance,Insulin,9,X-Ray,Normal
+100059,"Arjun Yadav",Female,8,Hyderabad,2025-12-31,2026-01-05,Discharged,Hypertension,"Dr. Neha Verma",Male,2,Pulmonology,2026-01-22,Scheduled,110228,Insurance,Insulin,9,"CT Scan",Normal
+100060,"Meera Bose",Male,46,Khammam,2025-07-17,2025-07-26,Discharged,Allergy,"Dr. Sneha Gupta",Male,20,Neurology,2025-07-29,Scheduled,77660,Card,Insulin,5,MRI,Normal
+100060,"Meera Bose",Male,46,Khammam,2025-07-17,2025-07-26,Discharged,Allergy,"Dr. Sneha Gupta",Male,20,Neurology,2025-07-29,Scheduled,77660,Card,Insulin,5,"Blood Test",Abnormal
+100060,"Meera Bose",Male,46,Khammam,2025-07-17,2025-07-26,Discharged,Allergy,"Dr. Sneha Gupta",Male,20,Neurology,2025-07-29,Scheduled,77660,Card,Metformin,9,MRI,Normal
+100060,"Meera Bose",Male,46,Khammam,2025-07-17,2025-07-26,Discharged,Allergy,"Dr. Sneha Gupta",Male,20,Neurology,2025-07-29,Scheduled,77660,Card,Metformin,9,"Blood Test",Abnormal
+100060,"Meera Bose",Male,46,Khammam,2025-07-17,2025-07-26,Discharged,Allergy,"Dr. Sneha Gupta",Male,20,Neurology,2025-07-25,Scheduled,77660,Card,Insulin,5,MRI,Normal
+100060,"Meera Bose",Male,46,Khammam,2025-07-17,2025-07-26,Discharged,Allergy,"Dr. Sneha Gupta",Male,20,Neurology,2025-07-25,Scheduled,77660,Card,Insulin,5,"Blood Test",Abnormal
+100060,"Meera Bose",Male,46,Khammam,2025-07-17,2025-07-26,Discharged,Allergy,"Dr. Sneha Gupta",Male,20,Neurology,2025-07-25,Scheduled,77660,Card,Metformin,9,MRI,Normal
+100060,"Meera Bose",Male,46,Khammam,2025-07-17,2025-07-26,Discharged,Allergy,"Dr. Sneha Gupta",Male,20,Neurology,2025-07-25,Scheduled,77660,Card,Metformin,9,"Blood Test",Abnormal
+100060,"Meera Bose",Male,46,Khammam,2025-07-17,2025-07-26,Discharged,Allergy,"Dr. Sneha Gupta",Male,20,Neurology,2025-07-28,Completed,77660,Card,Insulin,5,MRI,Normal
+100060,"Meera Bose",Male,46,Khammam,2025-07-17,2025-07-26,Discharged,Allergy,"Dr. Sneha Gupta",Male,20,Neurology,2025-07-28,Completed,77660,Card,Insulin,5,"Blood Test",Abnormal
+100060,"Meera Bose",Male,46,Khammam,2025-07-17,2025-07-26,Discharged,Allergy,"Dr. Sneha Gupta",Male,20,Neurology,2025-07-28,Completed,77660,Card,Metformin,9,MRI,Normal
+100060,"Meera Bose",Male,46,Khammam,2025-07-17,2025-07-26,Discharged,Allergy,"Dr. Sneha Gupta",Male,20,Neurology,2025-07-28,Completed,77660,Card,Metformin,9,"Blood Test",Abnormal
+100061,"Aisha Kumar",Male,85,Sangareddy,2025-11-25,2025-12-02,Discharged,Fracture,"Dr. Aisha Bose",Male,17,Urology,2025-12-23,Cancelled,79973,Insurance,Metformin,13,ECG,Normal
+100061,"Aisha Kumar",Male,85,Sangareddy,2025-11-25,2025-12-02,Discharged,Fracture,"Dr. Aisha Bose",Male,17,Urology,2025-12-23,Cancelled,79973,Insurance,Amoxicillin,11,ECG,Normal
+100061,"Aisha Kumar",Male,85,Sangareddy,2025-11-25,2025-12-02,Discharged,Fracture,"Dr. Aisha Bose",Male,17,Urology,2025-11-27,Scheduled,79973,Insurance,Metformin,13,ECG,Normal
+100061,"Aisha Kumar",Male,85,Sangareddy,2025-11-25,2025-12-02,Discharged,Fracture,"Dr. Aisha Bose",Male,17,Urology,2025-11-27,Scheduled,79973,Insurance,Amoxicillin,11,ECG,Normal
+100062,"Sneha Nair",Male,30,Karimnagar,2025-10-28,,Admitted,Allergy,"Dr. Sai Naidu",Male,5,"General Medicine",2025-11-22,Scheduled,91318,Card,Insulin,12,ECG,Abnormal
+100062,"Sneha Nair",Male,30,Karimnagar,2025-10-28,,Admitted,Allergy,"Dr. Sai Naidu",Male,5,"General Medicine",2025-11-22,Scheduled,91318,Card,Amoxicillin,12,ECG,Abnormal
+100062,"Sneha Nair",Male,30,Karimnagar,2025-10-28,,Admitted,Allergy,"Dr. Sai Naidu",Male,5,"General Medicine",2025-11-25,Cancelled,91318,Card,Insulin,12,ECG,Abnormal
+100062,"Sneha Nair",Male,30,Karimnagar,2025-10-28,,Admitted,Allergy,"Dr. Sai Naidu",Male,5,"General Medicine",2025-11-25,Cancelled,91318,Card,Amoxicillin,12,ECG,Abnormal
+100063,"Sneha Gupta",Male,34,Khammam,2025-08-07,2025-08-15,Discharged,Migraine,"Dr. Ananya Kumar",Male,26,"General Medicine",2025-09-04,Completed,37026,Insurance,Amoxicillin,10,"Urine Test",Normal
+100063,"Sneha Gupta",Male,34,Khammam,2025-08-07,2025-08-15,Discharged,Migraine,"Dr. Ananya Kumar",Male,26,"General Medicine",2025-09-04,Completed,37026,Insurance,Insulin,10,"Urine Test",Normal
+100063,"Sneha Gupta",Male,34,Khammam,2025-08-07,2025-08-15,Discharged,Migraine,"Dr. Ananya Kumar",Male,26,"General Medicine",2025-08-22,Cancelled,37026,Insurance,Amoxicillin,10,"Urine Test",Normal
+100063,"Sneha Gupta",Male,34,Khammam,2025-08-07,2025-08-15,Discharged,Migraine,"Dr. Ananya Kumar",Male,26,"General Medicine",2025-08-22,Cancelled,37026,Insurance,Insulin,10,"Urine Test",Normal
+100063,"Sneha Gupta",Male,34,Khammam,2025-08-07,2025-08-15,Discharged,Migraine,"Dr. Ananya Kumar",Male,26,"General Medicine",2025-08-24,Completed,37026,Insurance,Amoxicillin,10,"Urine Test",Normal
+100063,"Sneha Gupta",Male,34,Khammam,2025-08-07,2025-08-15,Discharged,Migraine,"Dr. Ananya Kumar",Male,26,"General Medicine",2025-08-24,Completed,37026,Insurance,Insulin,10,"Urine Test",Normal
+100064,"Divya Bose",Female,48,Khammam,2026-04-25,2026-05-03,Discharged,Fever,"Dr. Varun Iyer",Female,13,Orthopedics,2026-05-15,Scheduled,177695,Cash,Cetirizine,3,"CT Scan",Normal
+100064,"Divya Bose",Female,48,Khammam,2026-04-25,2026-05-03,Discharged,Fever,"Dr. Varun Iyer",Female,13,Orthopedics,2026-05-15,Scheduled,177695,Cash,Cetirizine,3,"Blood Test",Abnormal
+100064,"Divya Bose",Female,48,Khammam,2026-04-25,2026-05-03,Discharged,Fever,"Dr. Varun Iyer",Female,13,Orthopedics,2026-05-15,Scheduled,177695,Cash,Paracetamol,3,"CT Scan",Normal
+100064,"Divya Bose",Female,48,Khammam,2026-04-25,2026-05-03,Discharged,Fever,"Dr. Varun Iyer",Female,13,Orthopedics,2026-05-15,Scheduled,177695,Cash,Paracetamol,3,"Blood Test",Abnormal
+100064,"Divya Bose",Female,48,Khammam,2026-04-25,2026-05-03,Discharged,Fever,"Dr. Varun Iyer",Female,13,Orthopedics,2026-05-15,Cancelled,177695,Cash,Cetirizine,3,"CT Scan",Normal
+100064,"Divya Bose",Female,48,Khammam,2026-04-25,2026-05-03,Discharged,Fever,"Dr. Varun Iyer",Female,13,Orthopedics,2026-05-15,Cancelled,177695,Cash,Cetirizine,3,"Blood Test",Abnormal
+100064,"Divya Bose",Female,48,Khammam,2026-04-25,2026-05-03,Discharged,Fever,"Dr. Varun Iyer",Female,13,Orthopedics,2026-05-15,Cancelled,177695,Cash,Paracetamol,3,"CT Scan",Normal
+100064,"Divya Bose",Female,48,Khammam,2026-04-25,2026-05-03,Discharged,Fever,"Dr. Varun Iyer",Female,13,Orthopedics,2026-05-15,Cancelled,177695,Cash,Paracetamol,3,"Blood Test",Abnormal
+100065,"Sneha Bose",Female,44,Nalgonda,2026-03-02,2026-03-08,Discharged,Sinusitis,"Dr. Ananya Reddy",Male,13,Cardiology,2026-03-19,Completed,145760,Card,Metformin,10,"Urine Test",Abnormal
+100065,"Sneha Bose",Female,44,Nalgonda,2026-03-02,2026-03-08,Discharged,Sinusitis,"Dr. Ananya Reddy",Male,13,Cardiology,2026-03-19,Completed,145760,Card,Metformin,10,MRI,Abnormal
+100065,"Sneha Bose",Female,44,Nalgonda,2026-03-02,2026-03-08,Discharged,Sinusitis,"Dr. Ananya Reddy",Male,13,Cardiology,2026-03-19,Completed,145760,Card,Metformin,7,"Urine Test",Abnormal
+100065,"Sneha Bose",Female,44,Nalgonda,2026-03-02,2026-03-08,Discharged,Sinusitis,"Dr. Ananya Reddy",Male,13,Cardiology,2026-03-19,Completed,145760,Card,Metformin,7,MRI,Abnormal
+100065,"Sneha Bose",Female,44,Nalgonda,2026-03-02,2026-03-08,Discharged,Sinusitis,"Dr. Ananya Reddy",Male,13,Cardiology,2026-03-15,Cancelled,145760,Card,Metformin,10,"Urine Test",Abnormal
+100065,"Sneha Bose",Female,44,Nalgonda,2026-03-02,2026-03-08,Discharged,Sinusitis,"Dr. Ananya Reddy",Male,13,Cardiology,2026-03-15,Cancelled,145760,Card,Metformin,10,MRI,Abnormal
+100065,"Sneha Bose",Female,44,Nalgonda,2026-03-02,2026-03-08,Discharged,Sinusitis,"Dr. Ananya Reddy",Male,13,Cardiology,2026-03-15,Cancelled,145760,Card,Metformin,7,"Urine Test",Abnormal
+100065,"Sneha Bose",Female,44,Nalgonda,2026-03-02,2026-03-08,Discharged,Sinusitis,"Dr. Ananya Reddy",Male,13,Cardiology,2026-03-15,Cancelled,145760,Card,Metformin,7,MRI,Abnormal
+100065,"Sneha Bose",Female,44,Nalgonda,2026-03-02,2026-03-08,Discharged,Sinusitis,"Dr. Ananya Reddy",Male,13,Cardiology,2026-03-15,Cancelled,145760,Card,Metformin,10,"Urine Test",Abnormal
+100065,"Sneha Bose",Female,44,Nalgonda,2026-03-02,2026-03-08,Discharged,Sinusitis,"Dr. Ananya Reddy",Male,13,Cardiology,2026-03-15,Cancelled,145760,Card,Metformin,10,MRI,Abnormal
+100065,"Sneha Bose",Female,44,Nalgonda,2026-03-02,2026-03-08,Discharged,Sinusitis,"Dr. Ananya Reddy",Male,13,Cardiology,2026-03-15,Cancelled,145760,Card,Metformin,7,"Urine Test",Abnormal
+100065,"Sneha Bose",Female,44,Nalgonda,2026-03-02,2026-03-08,Discharged,Sinusitis,"Dr. Ananya Reddy",Male,13,Cardiology,2026-03-15,Cancelled,145760,Card,Metformin,7,MRI,Abnormal
+100066,"Kiran Das",Female,17,Mahbubnagar,2026-05-20,2026-05-26,Recovered,Pneumonia,"Dr. Neha Nair",Female,20,"General Medicine",2026-06-06,Scheduled,23457,Cash,Metformin,4,"Blood Test",Normal
+100066,"Kiran Das",Female,17,Mahbubnagar,2026-05-20,2026-05-26,Recovered,Pneumonia,"Dr. Neha Nair",Female,20,"General Medicine",2026-06-06,Scheduled,23457,Cash,Paracetamol,9,"Blood Test",Normal
+100066,"Kiran Das",Female,17,Mahbubnagar,2026-05-20,2026-05-26,Recovered,Pneumonia,"Dr. Neha Nair",Female,20,"General Medicine",2026-06-17,Cancelled,23457,Cash,Metformin,4,"Blood Test",Normal
+100066,"Kiran Das",Female,17,Mahbubnagar,2026-05-20,2026-05-26,Recovered,Pneumonia,"Dr. Neha Nair",Female,20,"General Medicine",2026-06-17,Cancelled,23457,Cash,Paracetamol,9,"Blood Test",Normal
+100066,"Kiran Das",Female,17,Mahbubnagar,2026-05-20,2026-05-26,Recovered,Pneumonia,"Dr. Neha Nair",Female,20,"General Medicine",2026-06-12,Scheduled,23457,Cash,Metformin,4,"Blood Test",Normal
+100066,"Kiran Das",Female,17,Mahbubnagar,2026-05-20,2026-05-26,Recovered,Pneumonia,"Dr. Neha Nair",Female,20,"General Medicine",2026-06-12,Scheduled,23457,Cash,Paracetamol,9,"Blood Test",Normal
+100067,"Aisha Yadav",Male,81,Mahbubnagar,2025-03-03,2025-03-12,Recovered,Pneumonia,"Dr. Arjun Das",Female,17,Oncology,2025-03-17,Scheduled,22258,Card,Insulin,5,"CT Scan",Normal
+100067,"Aisha Yadav",Male,81,Mahbubnagar,2025-03-03,2025-03-12,Recovered,Pneumonia,"Dr. Arjun Das",Female,17,Oncology,2025-03-17,Scheduled,22258,Card,Amoxicillin,4,"CT Scan",Normal
+100067,"Aisha Yadav",Male,81,Mahbubnagar,2025-03-03,2025-03-12,Recovered,Pneumonia,"Dr. Arjun Das",Female,17,Oncology,2025-03-24,Scheduled,22258,Card,Insulin,5,"CT Scan",Normal
+100067,"Aisha Yadav",Male,81,Mahbubnagar,2025-03-03,2025-03-12,Recovered,Pneumonia,"Dr. Arjun Das",Female,17,Oncology,2025-03-24,Scheduled,22258,Card,Amoxicillin,4,"CT Scan",Normal
+100068,"Divya Gupta",Female,39,Karimnagar,2026-01-13,2026-01-16,Recovered,Fever,"Dr. Sneha Patel",Female,8,Urology,2026-02-02,Scheduled,9476,UPI,Cetirizine,11,"Blood Test",Abnormal
+100068,"Divya Gupta",Female,39,Karimnagar,2026-01-13,2026-01-16,Recovered,Fever,"Dr. Sneha Patel",Female,8,Urology,2026-02-02,Scheduled,9476,UPI,Paracetamol,10,"Blood Test",Abnormal
+100068,"Divya Gupta",Female,39,Karimnagar,2026-01-13,2026-01-16,Recovered,Fever,"Dr. Sneha Patel",Female,8,Urology,2026-01-26,Scheduled,9476,UPI,Cetirizine,11,"Blood Test",Abnormal
+100068,"Divya Gupta",Female,39,Karimnagar,2026-01-13,2026-01-16,Recovered,Fever,"Dr. Sneha Patel",Female,8,Urology,2026-01-26,Scheduled,9476,UPI,Paracetamol,10,"Blood Test",Abnormal
+100069,"Aditya Nair",Male,61,Khammam,2026-02-19,2026-02-20,Discharged,Sinusitis,"Dr. Arjun Patel",Female,16,Emergency,2026-03-04,Completed,27250,Cash,Insulin,4,X-Ray,Normal
+100069,"Aditya Nair",Male,61,Khammam,2026-02-19,2026-02-20,Discharged,Sinusitis,"Dr. Arjun Patel",Female,16,Emergency,2026-03-04,Completed,27250,Cash,Paracetamol,13,X-Ray,Normal
+100069,"Aditya Nair",Male,61,Khammam,2026-02-19,2026-02-20,Discharged,Sinusitis,"Dr. Arjun Patel",Female,16,Emergency,2026-03-11,Completed,27250,Cash,Insulin,4,X-Ray,Normal
+100069,"Aditya Nair",Male,61,Khammam,2026-02-19,2026-02-20,Discharged,Sinusitis,"Dr. Arjun Patel",Female,16,Emergency,2026-03-11,Completed,27250,Cash,Paracetamol,13,X-Ray,Normal
+100069,"Aditya Nair",Male,61,Khammam,2026-02-19,2026-02-20,Discharged,Sinusitis,"Dr. Arjun Patel",Female,16,Emergency,2026-03-19,Completed,27250,Cash,Insulin,4,X-Ray,Normal
+100069,"Aditya Nair",Male,61,Khammam,2026-02-19,2026-02-20,Discharged,Sinusitis,"Dr. Arjun Patel",Female,16,Emergency,2026-03-19,Completed,27250,Cash,Paracetamol,13,X-Ray,Normal
+100069,"Aditya Nair",Male,61,Khammam,2026-02-19,2026-02-20,Discharged,Sinusitis,"Dr. Arjun Patel",Female,16,Emergency,2026-03-06,Completed,27250,Cash,Insulin,4,X-Ray,Normal
+100069,"Aditya Nair",Male,61,Khammam,2026-02-19,2026-02-20,Discharged,Sinusitis,"Dr. Arjun Patel",Female,16,Emergency,2026-03-06,Completed,27250,Cash,Paracetamol,13,X-Ray,Normal
+100070,"Varun Patel",Female,24,Hyderabad,2025-01-19,,Admitted,Asthma,"Dr. Divya Patel",Male,24,Orthopedics,2025-02-02,Scheduled,38458,Cash,Insulin,3,"Blood Test",Normal
+100070,"Varun Patel",Female,24,Hyderabad,2025-01-19,,Admitted,Asthma,"Dr. Divya Patel",Male,24,Orthopedics,2025-02-02,Scheduled,38458,Cash,Metformin,3,"Blood Test",Normal
+100070,"Varun Patel",Female,24,Hyderabad,2025-01-19,,Admitted,Asthma,"Dr. Divya Patel",Male,24,Orthopedics,2025-02-10,Cancelled,38458,Cash,Insulin,3,"Blood Test",Normal
+100070,"Varun Patel",Female,24,Hyderabad,2025-01-19,,Admitted,Asthma,"Dr. Divya Patel",Male,24,Orthopedics,2025-02-10,Cancelled,38458,Cash,Metformin,3,"Blood Test",Normal
+100070,"Varun Patel",Female,24,Hyderabad,2025-01-19,,Admitted,Asthma,"Dr. Divya Patel",Male,24,Orthopedics,2025-02-08,Scheduled,38458,Cash,Insulin,3,"Blood Test",Normal
+100070,"Varun Patel",Female,24,Hyderabad,2025-01-19,,Admitted,Asthma,"Dr. Divya Patel",Male,24,Orthopedics,2025-02-08,Scheduled,38458,Cash,Metformin,3,"Blood Test",Normal
+100071,"Aisha Verma",Female,78,Hyderabad,2025-03-23,2025-03-28,Discharged,Asthma,"Dr. Kiran Joshi",Male,15,Urology,2025-04-03,Scheduled,96855,Insurance,Ibuprofen,10,"Urine Test",Abnormal
+100071,"Aisha Verma",Female,78,Hyderabad,2025-03-23,2025-03-28,Discharged,Asthma,"Dr. Kiran Joshi",Male,15,Urology,2025-04-03,Scheduled,96855,Insurance,Ibuprofen,10,"CT Scan",Abnormal
+100071,"Aisha Verma",Female,78,Hyderabad,2025-03-23,2025-03-28,Discharged,Asthma,"Dr. Kiran Joshi",Male,15,Urology,2025-04-03,Scheduled,96855,Insurance,Amoxicillin,13,"Urine Test",Abnormal
+100071,"Aisha Verma",Female,78,Hyderabad,2025-03-23,2025-03-28,Discharged,Asthma,"Dr. Kiran Joshi",Male,15,Urology,2025-04-03,Scheduled,96855,Insurance,Amoxicillin,13,"CT Scan",Abnormal
+100071,"Aisha Verma",Female,78,Hyderabad,2025-03-23,2025-03-28,Discharged,Asthma,"Dr. Kiran Joshi",Male,15,Urology,2025-03-27,Completed,96855,Insurance,Ibuprofen,10,"Urine Test",Abnormal
+100071,"Aisha Verma",Female,78,Hyderabad,2025-03-23,2025-03-28,Discharged,Asthma,"Dr. Kiran Joshi",Male,15,Urology,2025-03-27,Completed,96855,Insurance,Ibuprofen,10,"CT Scan",Abnormal
+100071,"Aisha Verma",Female,78,Hyderabad,2025-03-23,2025-03-28,Discharged,Asthma,"Dr. Kiran Joshi",Male,15,Urology,2025-03-27,Completed,96855,Insurance,Amoxicillin,13,"Urine Test",Abnormal
+100071,"Aisha Verma",Female,78,Hyderabad,2025-03-23,2025-03-28,Discharged,Asthma,"Dr. Kiran Joshi",Male,15,Urology,2025-03-27,Completed,96855,Insurance,Amoxicillin,13,"CT Scan",Abnormal
+100071,"Aisha Verma",Female,78,Hyderabad,2025-03-23,2025-03-28,Discharged,Asthma,"Dr. Kiran Joshi",Male,15,Urology,2025-04-13,Completed,96855,Insurance,Ibuprofen,10,"Urine Test",Abnormal
+100071,"Aisha Verma",Female,78,Hyderabad,2025-03-23,2025-03-28,Discharged,Asthma,"Dr. Kiran Joshi",Male,15,Urology,2025-04-13,Completed,96855,Insurance,Ibuprofen,10,"CT Scan",Abnormal
+100071,"Aisha Verma",Female,78,Hyderabad,2025-03-23,2025-03-28,Discharged,Asthma,"Dr. Kiran Joshi",Male,15,Urology,2025-04-13,Completed,96855,Insurance,Amoxicillin,13,"Urine Test",Abnormal
+100071,"Aisha Verma",Female,78,Hyderabad,2025-03-23,2025-03-28,Discharged,Asthma,"Dr. Kiran Joshi",Male,15,Urology,2025-04-13,Completed,96855,Insurance,Amoxicillin,13,"CT Scan",Abnormal
+100072,"Rohan Bose",Male,20,Mahbubnagar,2025-03-04,2025-03-14,Discharged,Cancer,"Dr. Aditya Iyer",Female,2,Dermatology,2025-03-25,Cancelled,153767,Insurance,Amoxicillin,15,MRI,Abnormal
+100072,"Rohan Bose",Male,20,Mahbubnagar,2025-03-04,2025-03-14,Discharged,Cancer,"Dr. Aditya Iyer",Female,2,Dermatology,2025-03-25,Cancelled,153767,Insurance,Amoxicillin,15,MRI,Normal
+100072,"Rohan Bose",Male,20,Mahbubnagar,2025-03-04,2025-03-14,Discharged,Cancer,"Dr. Aditya Iyer",Female,2,Dermatology,2025-03-25,Cancelled,153767,Insurance,Cetirizine,15,MRI,Abnormal
+100072,"Rohan Bose",Male,20,Mahbubnagar,2025-03-04,2025-03-14,Discharged,Cancer,"Dr. Aditya Iyer",Female,2,Dermatology,2025-03-25,Cancelled,153767,Insurance,Cetirizine,15,MRI,Normal
+100072,"Rohan Bose",Male,20,Mahbubnagar,2025-03-04,2025-03-14,Discharged,Cancer,"Dr. Aditya Iyer",Female,2,Dermatology,2025-03-16,Cancelled,153767,Insurance,Amoxicillin,15,MRI,Abnormal
+100072,"Rohan Bose",Male,20,Mahbubnagar,2025-03-04,2025-03-14,Discharged,Cancer,"Dr. Aditya Iyer",Female,2,Dermatology,2025-03-16,Cancelled,153767,Insurance,Amoxicillin,15,MRI,Normal
+100072,"Rohan Bose",Male,20,Mahbubnagar,2025-03-04,2025-03-14,Discharged,Cancer,"Dr. Aditya Iyer",Female,2,Dermatology,2025-03-16,Cancelled,153767,Insurance,Cetirizine,15,MRI,Abnormal
+100072,"Rohan Bose",Male,20,Mahbubnagar,2025-03-04,2025-03-14,Discharged,Cancer,"Dr. Aditya Iyer",Female,2,Dermatology,2025-03-16,Cancelled,153767,Insurance,Cetirizine,15,MRI,Normal
+100073,"Divya Bose",Male,74,Karimnagar,2025-06-11,2025-06-12,Discharged,Cancer,"Dr. Sai Das",Male,21,Dermatology,2025-06-26,Cancelled,144115,Insurance,Insulin,6,ECG,Abnormal
+100073,"Divya Bose",Male,74,Karimnagar,2025-06-11,2025-06-12,Discharged,Cancer,"Dr. Sai Das",Male,21,Dermatology,2025-06-26,Cancelled,144115,Insurance,Insulin,6,"Urine Test",Normal
+100073,"Divya Bose",Male,74,Karimnagar,2025-06-11,2025-06-12,Discharged,Cancer,"Dr. Sai Das",Male,21,Dermatology,2025-06-26,Cancelled,144115,Insurance,Amoxicillin,15,ECG,Abnormal
+100073,"Divya Bose",Male,74,Karimnagar,2025-06-11,2025-06-12,Discharged,Cancer,"Dr. Sai Das",Male,21,Dermatology,2025-06-26,Cancelled,144115,Insurance,Amoxicillin,15,"Urine Test",Normal
+100073,"Divya Bose",Male,74,Karimnagar,2025-06-11,2025-06-12,Discharged,Cancer,"Dr. Sai Das",Male,21,Dermatology,2025-06-28,Scheduled,144115,Insurance,Insulin,6,ECG,Abnormal
+100073,"Divya Bose",Male,74,Karimnagar,2025-06-11,2025-06-12,Discharged,Cancer,"Dr. Sai Das",Male,21,Dermatology,2025-06-28,Scheduled,144115,Insurance,Insulin,6,"Urine Test",Normal
+100073,"Divya Bose",Male,74,Karimnagar,2025-06-11,2025-06-12,Discharged,Cancer,"Dr. Sai Das",Male,21,Dermatology,2025-06-28,Scheduled,144115,Insurance,Amoxicillin,15,ECG,Abnormal
+100073,"Divya Bose",Male,74,Karimnagar,2025-06-11,2025-06-12,Discharged,Cancer,"Dr. Sai Das",Male,21,Dermatology,2025-06-28,Scheduled,144115,Insurance,Amoxicillin,15,"Urine Test",Normal
+100073,"Divya Bose",Male,74,Karimnagar,2025-06-11,2025-06-12,Discharged,Cancer,"Dr. Sai Das",Male,21,Dermatology,2025-06-28,Completed,144115,Insurance,Insulin,6,ECG,Abnormal
+100073,"Divya Bose",Male,74,Karimnagar,2025-06-11,2025-06-12,Discharged,Cancer,"Dr. Sai Das",Male,21,Dermatology,2025-06-28,Completed,144115,Insurance,Insulin,6,"Urine Test",Normal
+100073,"Divya Bose",Male,74,Karimnagar,2025-06-11,2025-06-12,Discharged,Cancer,"Dr. Sai Das",Male,21,Dermatology,2025-06-28,Completed,144115,Insurance,Amoxicillin,15,ECG,Abnormal
+100073,"Divya Bose",Male,74,Karimnagar,2025-06-11,2025-06-12,Discharged,Cancer,"Dr. Sai Das",Male,21,Dermatology,2025-06-28,Completed,144115,Insurance,Amoxicillin,15,"Urine Test",Normal
+100074,"Aarav Ali",Female,59,Adilabad,2025-07-31,2025-08-10,Recovered,Hypertension,"Dr. Sneha Reddy",Female,16,Oncology,2025-08-18,Scheduled,141049,UPI,Metformin,10,X-Ray,Normal
+100074,"Aarav Ali",Female,59,Adilabad,2025-07-31,2025-08-10,Recovered,Hypertension,"Dr. Sneha Reddy",Female,16,Oncology,2025-08-18,Scheduled,141049,UPI,Metformin,11,X-Ray,Normal
+100074,"Aarav Ali",Female,59,Adilabad,2025-07-31,2025-08-10,Recovered,Hypertension,"Dr. Sneha Reddy",Female,16,Oncology,2025-08-07,Cancelled,141049,UPI,Metformin,10,X-Ray,Normal
+100074,"Aarav Ali",Female,59,Adilabad,2025-07-31,2025-08-10,Recovered,Hypertension,"Dr. Sneha Reddy",Female,16,Oncology,2025-08-07,Cancelled,141049,UPI,Metformin,11,X-Ray,Normal
+100075,"Neha Nair",Female,52,Adilabad,2025-07-05,2025-07-10,Recovered,Fracture,"Dr. Sai Naidu",Male,5,"General Medicine",2025-07-19,Completed,65067,Cash,Cetirizine,3,"Blood Test",Normal
+100075,"Neha Nair",Female,52,Adilabad,2025-07-05,2025-07-10,Recovered,Fracture,"Dr. Sai Naidu",Male,5,"General Medicine",2025-07-19,Completed,65067,Cash,Cetirizine,3,MRI,Normal
+100075,"Neha Nair",Female,52,Adilabad,2025-07-05,2025-07-10,Recovered,Fracture,"Dr. Sai Naidu",Male,5,"General Medicine",2025-07-19,Completed,65067,Cash,Amoxicillin,8,"Blood Test",Normal
+100075,"Neha Nair",Female,52,Adilabad,2025-07-05,2025-07-10,Recovered,Fracture,"Dr. Sai Naidu",Male,5,"General Medicine",2025-07-19,Completed,65067,Cash,Amoxicillin,8,MRI,Normal
+100075,"Neha Nair",Female,52,Adilabad,2025-07-05,2025-07-10,Recovered,Fracture,"Dr. Sai Naidu",Male,5,"General Medicine",2025-07-16,Scheduled,65067,Cash,Cetirizine,3,"Blood Test",Normal
+100075,"Neha Nair",Female,52,Adilabad,2025-07-05,2025-07-10,Recovered,Fracture,"Dr. Sai Naidu",Male,5,"General Medicine",2025-07-16,Scheduled,65067,Cash,Cetirizine,3,MRI,Normal
+100075,"Neha Nair",Female,52,Adilabad,2025-07-05,2025-07-10,Recovered,Fracture,"Dr. Sai Naidu",Male,5,"General Medicine",2025-07-16,Scheduled,65067,Cash,Amoxicillin,8,"Blood Test",Normal
+100075,"Neha Nair",Female,52,Adilabad,2025-07-05,2025-07-10,Recovered,Fracture,"Dr. Sai Naidu",Male,5,"General Medicine",2025-07-16,Scheduled,65067,Cash,Amoxicillin,8,MRI,Normal
+100075,"Neha Nair",Female,52,Adilabad,2025-07-05,2025-07-10,Recovered,Fracture,"Dr. Sai Naidu",Male,5,"General Medicine",2025-07-16,Completed,65067,Cash,Cetirizine,3,"Blood Test",Normal
+100075,"Neha Nair",Female,52,Adilabad,2025-07-05,2025-07-10,Recovered,Fracture,"Dr. Sai Naidu",Male,5,"General Medicine",2025-07-16,Completed,65067,Cash,Cetirizine,3,MRI,Normal
+100075,"Neha Nair",Female,52,Adilabad,2025-07-05,2025-07-10,Recovered,Fracture,"Dr. Sai Naidu",Male,5,"General Medicine",2025-07-16,Completed,65067,Cash,Amoxicillin,8,"Blood Test",Normal
+100075,"Neha Nair",Female,52,Adilabad,2025-07-05,2025-07-10,Recovered,Fracture,"Dr. Sai Naidu",Male,5,"General Medicine",2025-07-16,Completed,65067,Cash,Amoxicillin,8,MRI,Normal
+100076,"Arjun Iyer",Female,55,Warangal,2026-05-13,2026-05-17,Discharged,Allergy,"Dr. Sai Reddy",Male,10,"General Medicine",2026-05-18,Cancelled,155982,Card,Paracetamol,3,"CT Scan",Normal
+100076,"Arjun Iyer",Female,55,Warangal,2026-05-13,2026-05-17,Discharged,Allergy,"Dr. Sai Reddy",Male,10,"General Medicine",2026-05-18,Cancelled,155982,Card,Paracetamol,3,ECG,Abnormal
+100076,"Arjun Iyer",Female,55,Warangal,2026-05-13,2026-05-17,Discharged,Allergy,"Dr. Sai Reddy",Male,10,"General Medicine",2026-05-18,Cancelled,155982,Card,Paracetamol,3,"CT Scan",Normal
+100076,"Arjun Iyer",Female,55,Warangal,2026-05-13,2026-05-17,Discharged,Allergy,"Dr. Sai Reddy",Male,10,"General Medicine",2026-05-18,Cancelled,155982,Card,Paracetamol,3,ECG,Abnormal
+100076,"Arjun Iyer",Female,55,Warangal,2026-05-13,2026-05-17,Discharged,Allergy,"Dr. Sai Reddy",Male,10,"General Medicine",2026-05-23,Completed,155982,Card,Paracetamol,3,"CT Scan",Normal
+100076,"Arjun Iyer",Female,55,Warangal,2026-05-13,2026-05-17,Discharged,Allergy,"Dr. Sai Reddy",Male,10,"General Medicine",2026-05-23,Completed,155982,Card,Paracetamol,3,ECG,Abnormal
+100076,"Arjun Iyer",Female,55,Warangal,2026-05-13,2026-05-17,Discharged,Allergy,"Dr. Sai Reddy",Male,10,"General Medicine",2026-05-23,Completed,155982,Card,Paracetamol,3,"CT Scan",Normal
+100076,"Arjun Iyer",Female,55,Warangal,2026-05-13,2026-05-17,Discharged,Allergy,"Dr. Sai Reddy",Male,10,"General Medicine",2026-05-23,Completed,155982,Card,Paracetamol,3,ECG,Abnormal
+100076,"Arjun Iyer",Female,55,Warangal,2026-05-13,2026-05-17,Discharged,Allergy,"Dr. Sai Reddy",Male,10,"General Medicine",2026-06-08,Completed,155982,Card,Paracetamol,3,"CT Scan",Normal
+100076,"Arjun Iyer",Female,55,Warangal,2026-05-13,2026-05-17,Discharged,Allergy,"Dr. Sai Reddy",Male,10,"General Medicine",2026-06-08,Completed,155982,Card,Paracetamol,3,ECG,Abnormal
+100076,"Arjun Iyer",Female,55,Warangal,2026-05-13,2026-05-17,Discharged,Allergy,"Dr. Sai Reddy",Male,10,"General Medicine",2026-06-08,Completed,155982,Card,Paracetamol,3,"CT Scan",Normal
+100076,"Arjun Iyer",Female,55,Warangal,2026-05-13,2026-05-17,Discharged,Allergy,"Dr. Sai Reddy",Male,10,"General Medicine",2026-06-08,Completed,155982,Card,Paracetamol,3,ECG,Abnormal
+100077,"Arjun Das",Male,83,Warangal,2026-02-11,2026-02-13,Recovered,Pneumonia,"Dr. Arjun Patel",Female,16,Emergency,2026-02-22,Completed,133276,Insurance,Amoxicillin,3,"Urine Test",Normal
+100077,"Arjun Das",Male,83,Warangal,2026-02-11,2026-02-13,Recovered,Pneumonia,"Dr. Arjun Patel",Female,16,Emergency,2026-02-22,Completed,133276,Insurance,Amoxicillin,3,MRI,Normal
+100077,"Arjun Das",Male,83,Warangal,2026-02-11,2026-02-13,Recovered,Pneumonia,"Dr. Arjun Patel",Female,16,Emergency,2026-02-22,Completed,133276,Insurance,Insulin,6,"Urine Test",Normal
+100077,"Arjun Das",Male,83,Warangal,2026-02-11,2026-02-13,Recovered,Pneumonia,"Dr. Arjun Patel",Female,16,Emergency,2026-02-22,Completed,133276,Insurance,Insulin,6,MRI,Normal
+100077,"Arjun Das",Male,83,Warangal,2026-02-11,2026-02-13,Recovered,Pneumonia,"Dr. Arjun Patel",Female,16,Emergency,2026-02-25,Completed,133276,Insurance,Amoxicillin,3,"Urine Test",Normal
+100077,"Arjun Das",Male,83,Warangal,2026-02-11,2026-02-13,Recovered,Pneumonia,"Dr. Arjun Patel",Female,16,Emergency,2026-02-25,Completed,133276,Insurance,Amoxicillin,3,MRI,Normal
+100077,"Arjun Das",Male,83,Warangal,2026-02-11,2026-02-13,Recovered,Pneumonia,"Dr. Arjun Patel",Female,16,Emergency,2026-02-25,Completed,133276,Insurance,Insulin,6,"Urine Test",Normal
+100077,"Arjun Das",Male,83,Warangal,2026-02-11,2026-02-13,Recovered,Pneumonia,"Dr. Arjun Patel",Female,16,Emergency,2026-02-25,Completed,133276,Insurance,Insulin,6,MRI,Normal
+100078,"Ananya Reddy",Male,41,Hyderabad,2026-06-10,2026-06-18,Recovered,Migraine,"Dr. Varun Sharma",Male,3,Cardiology,2026-06-20,Cancelled,177942,UPI,Paracetamol,8,"CT Scan",Normal
+100078,"Ananya Reddy",Male,41,Hyderabad,2026-06-10,2026-06-18,Recovered,Migraine,"Dr. Varun Sharma",Male,3,Cardiology,2026-06-20,Cancelled,177942,UPI,Paracetamol,8,"CT Scan",Normal
+100078,"Ananya Reddy",Male,41,Hyderabad,2026-06-10,2026-06-18,Recovered,Migraine,"Dr. Varun Sharma",Male,3,Cardiology,2026-06-20,Cancelled,177942,UPI,Metformin,9,"CT Scan",Normal
+100078,"Ananya Reddy",Male,41,Hyderabad,2026-06-10,2026-06-18,Recovered,Migraine,"Dr. Varun Sharma",Male,3,Cardiology,2026-06-20,Cancelled,177942,UPI,Metformin,9,"CT Scan",Normal
+100078,"Ananya Reddy",Male,41,Hyderabad,2026-06-10,2026-06-18,Recovered,Migraine,"Dr. Varun Sharma",Male,3,Cardiology,2026-06-13,Cancelled,177942,UPI,Paracetamol,8,"CT Scan",Normal
+100078,"Ananya Reddy",Male,41,Hyderabad,2026-06-10,2026-06-18,Recovered,Migraine,"Dr. Varun Sharma",Male,3,Cardiology,2026-06-13,Cancelled,177942,UPI,Paracetamol,8,"CT Scan",Normal
+100078,"Ananya Reddy",Male,41,Hyderabad,2026-06-10,2026-06-18,Recovered,Migraine,"Dr. Varun Sharma",Male,3,Cardiology,2026-06-13,Cancelled,177942,UPI,Metformin,9,"CT Scan",Normal
+100078,"Ananya Reddy",Male,41,Hyderabad,2026-06-10,2026-06-18,Recovered,Migraine,"Dr. Varun Sharma",Male,3,Cardiology,2026-06-13,Cancelled,177942,UPI,Metformin,9,"CT Scan",Normal
+100078,"Ananya Reddy",Male,41,Hyderabad,2026-06-10,2026-06-18,Recovered,Migraine,"Dr. Varun Sharma",Male,3,Cardiology,2026-07-04,Scheduled,177942,UPI,Paracetamol,8,"CT Scan",Normal
+100078,"Ananya Reddy",Male,41,Hyderabad,2026-06-10,2026-06-18,Recovered,Migraine,"Dr. Varun Sharma",Male,3,Cardiology,2026-07-04,Scheduled,177942,UPI,Paracetamol,8,"CT Scan",Normal
+100078,"Ananya Reddy",Male,41,Hyderabad,2026-06-10,2026-06-18,Recovered,Migraine,"Dr. Varun Sharma",Male,3,Cardiology,2026-07-04,Scheduled,177942,UPI,Metformin,9,"CT Scan",Normal
+100078,"Ananya Reddy",Male,41,Hyderabad,2026-06-10,2026-06-18,Recovered,Migraine,"Dr. Varun Sharma",Male,3,Cardiology,2026-07-04,Scheduled,177942,UPI,Metformin,9,"CT Scan",Normal
+100078,"Ananya Reddy",Male,41,Hyderabad,2026-06-10,2026-06-18,Recovered,Migraine,"Dr. Varun Sharma",Male,3,Cardiology,2026-06-28,Cancelled,177942,UPI,Paracetamol,8,"CT Scan",Normal
+100078,"Ananya Reddy",Male,41,Hyderabad,2026-06-10,2026-06-18,Recovered,Migraine,"Dr. Varun Sharma",Male,3,Cardiology,2026-06-28,Cancelled,177942,UPI,Paracetamol,8,"CT Scan",Normal
+100078,"Ananya Reddy",Male,41,Hyderabad,2026-06-10,2026-06-18,Recovered,Migraine,"Dr. Varun Sharma",Male,3,Cardiology,2026-06-28,Cancelled,177942,UPI,Metformin,9,"CT Scan",Normal
+100078,"Ananya Reddy",Male,41,Hyderabad,2026-06-10,2026-06-18,Recovered,Migraine,"Dr. Varun Sharma",Male,3,Cardiology,2026-06-28,Cancelled,177942,UPI,Metformin,9,"CT Scan",Normal
+100079,"Ananya Verma",Male,10,Mahbubnagar,2025-01-13,2025-01-17,Discharged,Asthma,"Dr. Nisha Iyer",Female,25,Orthopedics,2025-02-08,Completed,37137,Insurance,Ibuprofen,8,"Blood Test",Abnormal
+100079,"Ananya Verma",Male,10,Mahbubnagar,2025-01-13,2025-01-17,Discharged,Asthma,"Dr. Nisha Iyer",Female,25,Orthopedics,2025-02-08,Completed,37137,Insurance,Ibuprofen,8,X-Ray,Abnormal
+100079,"Ananya Verma",Male,10,Mahbubnagar,2025-01-13,2025-01-17,Discharged,Asthma,"Dr. Nisha Iyer",Female,25,Orthopedics,2025-02-08,Completed,37137,Insurance,Insulin,4,"Blood Test",Abnormal
+100079,"Ananya Verma",Male,10,Mahbubnagar,2025-01-13,2025-01-17,Discharged,Asthma,"Dr. Nisha Iyer",Female,25,Orthopedics,2025-02-08,Completed,37137,Insurance,Insulin,4,X-Ray,Abnormal
+100079,"Ananya Verma",Male,10,Mahbubnagar,2025-01-13,2025-01-17,Discharged,Asthma,"Dr. Nisha Iyer",Female,25,Orthopedics,2025-02-11,Cancelled,37137,Insurance,Ibuprofen,8,"Blood Test",Abnormal
+100079,"Ananya Verma",Male,10,Mahbubnagar,2025-01-13,2025-01-17,Discharged,Asthma,"Dr. Nisha Iyer",Female,25,Orthopedics,2025-02-11,Cancelled,37137,Insurance,Ibuprofen,8,X-Ray,Abnormal
+100079,"Ananya Verma",Male,10,Mahbubnagar,2025-01-13,2025-01-17,Discharged,Asthma,"Dr. Nisha Iyer",Female,25,Orthopedics,2025-02-11,Cancelled,37137,Insurance,Insulin,4,"Blood Test",Abnormal
+100079,"Ananya Verma",Male,10,Mahbubnagar,2025-01-13,2025-01-17,Discharged,Asthma,"Dr. Nisha Iyer",Female,25,Orthopedics,2025-02-11,Cancelled,37137,Insurance,Insulin,4,X-Ray,Abnormal
+100080,"Sai Gupta",Male,57,Karimnagar,2025-08-15,2025-08-18,Recovered,Cancer,"Dr. Varun Iyer",Female,13,Orthopedics,2025-08-23,Scheduled,110145,Insurance,Amoxicillin,7,"CT Scan",Abnormal
+100080,"Sai Gupta",Male,57,Karimnagar,2025-08-15,2025-08-18,Recovered,Cancer,"Dr. Varun Iyer",Female,13,Orthopedics,2025-08-23,Scheduled,110145,Insurance,Amoxicillin,7,"Blood Test",Abnormal
+100080,"Sai Gupta",Male,57,Karimnagar,2025-08-15,2025-08-18,Recovered,Cancer,"Dr. Varun Iyer",Female,13,Orthopedics,2025-08-23,Scheduled,110145,Insurance,Metformin,8,"CT Scan",Abnormal
+100080,"Sai Gupta",Male,57,Karimnagar,2025-08-15,2025-08-18,Recovered,Cancer,"Dr. Varun Iyer",Female,13,Orthopedics,2025-08-23,Scheduled,110145,Insurance,Metformin,8,"Blood Test",Abnormal
+100080,"Sai Gupta",Male,57,Karimnagar,2025-08-15,2025-08-18,Recovered,Cancer,"Dr. Varun Iyer",Female,13,Orthopedics,2025-08-19,Completed,110145,Insurance,Amoxicillin,7,"CT Scan",Abnormal
+100080,"Sai Gupta",Male,57,Karimnagar,2025-08-15,2025-08-18,Recovered,Cancer,"Dr. Varun Iyer",Female,13,Orthopedics,2025-08-19,Completed,110145,Insurance,Amoxicillin,7,"Blood Test",Abnormal
+100080,"Sai Gupta",Male,57,Karimnagar,2025-08-15,2025-08-18,Recovered,Cancer,"Dr. Varun Iyer",Female,13,Orthopedics,2025-08-19,Completed,110145,Insurance,Metformin,8,"CT Scan",Abnormal
+100080,"Sai Gupta",Male,57,Karimnagar,2025-08-15,2025-08-18,Recovered,Cancer,"Dr. Varun Iyer",Female,13,Orthopedics,2025-08-19,Completed,110145,Insurance,Metformin,8,"Blood Test",Abnormal
+100081,"Kiran Gupta",Female,37,Warangal,2026-06-10,,Admitted,Cancer,"Dr. Meera Sharma",Male,11,Neurology,2026-06-13,Cancelled,53353,UPI,Amoxicillin,3,"CT Scan",Abnormal
+100081,"Kiran Gupta",Female,37,Warangal,2026-06-10,,Admitted,Cancer,"Dr. Meera Sharma",Male,11,Neurology,2026-06-13,Cancelled,53353,UPI,Amoxicillin,3,X-Ray,Normal
+100081,"Kiran Gupta",Female,37,Warangal,2026-06-10,,Admitted,Cancer,"Dr. Meera Sharma",Male,11,Neurology,2026-06-13,Cancelled,53353,UPI,Metformin,9,"CT Scan",Abnormal
+100081,"Kiran Gupta",Female,37,Warangal,2026-06-10,,Admitted,Cancer,"Dr. Meera Sharma",Male,11,Neurology,2026-06-13,Cancelled,53353,UPI,Metformin,9,X-Ray,Normal
+100081,"Kiran Gupta",Female,37,Warangal,2026-06-10,,Admitted,Cancer,"Dr. Meera Sharma",Male,11,Neurology,2026-07-09,Completed,53353,UPI,Amoxicillin,3,"CT Scan",Abnormal
+100081,"Kiran Gupta",Female,37,Warangal,2026-06-10,,Admitted,Cancer,"Dr. Meera Sharma",Male,11,Neurology,2026-07-09,Completed,53353,UPI,Amoxicillin,3,X-Ray,Normal
+100081,"Kiran Gupta",Female,37,Warangal,2026-06-10,,Admitted,Cancer,"Dr. Meera Sharma",Male,11,Neurology,2026-07-09,Completed,53353,UPI,Metformin,9,"CT Scan",Abnormal
+100081,"Kiran Gupta",Female,37,Warangal,2026-06-10,,Admitted,Cancer,"Dr. Meera Sharma",Male,11,Neurology,2026-07-09,Completed,53353,UPI,Metformin,9,X-Ray,Normal
+100081,"Kiran Gupta",Female,37,Warangal,2026-06-10,,Admitted,Cancer,"Dr. Meera Sharma",Male,11,Neurology,2026-06-18,Completed,53353,UPI,Amoxicillin,3,"CT Scan",Abnormal
+100081,"Kiran Gupta",Female,37,Warangal,2026-06-10,,Admitted,Cancer,"Dr. Meera Sharma",Male,11,Neurology,2026-06-18,Completed,53353,UPI,Amoxicillin,3,X-Ray,Normal
+100081,"Kiran Gupta",Female,37,Warangal,2026-06-10,,Admitted,Cancer,"Dr. Meera Sharma",Male,11,Neurology,2026-06-18,Completed,53353,UPI,Metformin,9,"CT Scan",Abnormal
+100081,"Kiran Gupta",Female,37,Warangal,2026-06-10,,Admitted,Cancer,"Dr. Meera Sharma",Male,11,Neurology,2026-06-18,Completed,53353,UPI,Metformin,9,X-Ray,Normal
+100082,"Ishaan Naidu",Male,47,Khammam,2026-03-30,,Admitted,Diabetes,"Dr. Arjun Joshi",Male,18,Pediatrics,2026-04-15,Completed,107701,Card,Amoxicillin,12,"Blood Test",Abnormal
+100082,"Ishaan Naidu",Male,47,Khammam,2026-03-30,,Admitted,Diabetes,"Dr. Arjun Joshi",Male,18,Pediatrics,2026-04-15,Completed,107701,Card,Insulin,5,"Blood Test",Abnormal
+100082,"Ishaan Naidu",Male,47,Khammam,2026-03-30,,Admitted,Diabetes,"Dr. Arjun Joshi",Male,18,Pediatrics,2026-04-03,Completed,107701,Card,Amoxicillin,12,"Blood Test",Abnormal
+100082,"Ishaan Naidu",Male,47,Khammam,2026-03-30,,Admitted,Diabetes,"Dr. Arjun Joshi",Male,18,Pediatrics,2026-04-03,Completed,107701,Card,Insulin,5,"Blood Test",Abnormal
+100082,"Ishaan Naidu",Male,47,Khammam,2026-03-30,,Admitted,Diabetes,"Dr. Arjun Joshi",Male,18,Pediatrics,2026-04-17,Completed,107701,Card,Amoxicillin,12,"Blood Test",Abnormal
+100082,"Ishaan Naidu",Male,47,Khammam,2026-03-30,,Admitted,Diabetes,"Dr. Arjun Joshi",Male,18,Pediatrics,2026-04-17,Completed,107701,Card,Insulin,5,"Blood Test",Abnormal
+100083,"Kiran Nair",Female,26,Hyderabad,2025-07-30,,Admitted,Hypertension,"Dr. Divya Kumar",Female,11,Dermatology,2025-08-25,Scheduled,136700,Insurance,Paracetamol,9,X-Ray,Normal
+100083,"Kiran Nair",Female,26,Hyderabad,2025-07-30,,Admitted,Hypertension,"Dr. Divya Kumar",Female,11,Dermatology,2025-08-25,Scheduled,136700,Insurance,Paracetamol,9,X-Ray,Abnormal
+100083,"Kiran Nair",Female,26,Hyderabad,2025-07-30,,Admitted,Hypertension,"Dr. Divya Kumar",Female,11,Dermatology,2025-08-25,Scheduled,136700,Insurance,Ibuprofen,4,X-Ray,Normal
+100083,"Kiran Nair",Female,26,Hyderabad,2025-07-30,,Admitted,Hypertension,"Dr. Divya Kumar",Female,11,Dermatology,2025-08-25,Scheduled,136700,Insurance,Ibuprofen,4,X-Ray,Abnormal
+100083,"Kiran Nair",Female,26,Hyderabad,2025-07-30,,Admitted,Hypertension,"Dr. Divya Kumar",Female,11,Dermatology,2025-08-09,Cancelled,136700,Insurance,Paracetamol,9,X-Ray,Normal
+100083,"Kiran Nair",Female,26,Hyderabad,2025-07-30,,Admitted,Hypertension,"Dr. Divya Kumar",Female,11,Dermatology,2025-08-09,Cancelled,136700,Insurance,Paracetamol,9,X-Ray,Abnormal
+100083,"Kiran Nair",Female,26,Hyderabad,2025-07-30,,Admitted,Hypertension,"Dr. Divya Kumar",Female,11,Dermatology,2025-08-09,Cancelled,136700,Insurance,Ibuprofen,4,X-Ray,Normal
+100083,"Kiran Nair",Female,26,Hyderabad,2025-07-30,,Admitted,Hypertension,"Dr. Divya Kumar",Female,11,Dermatology,2025-08-09,Cancelled,136700,Insurance,Ibuprofen,4,X-Ray,Abnormal
+100083,"Kiran Nair",Female,26,Hyderabad,2025-07-30,,Admitted,Hypertension,"Dr. Divya Kumar",Female,11,Dermatology,2025-08-15,Cancelled,136700,Insurance,Paracetamol,9,X-Ray,Normal
+100083,"Kiran Nair",Female,26,Hyderabad,2025-07-30,,Admitted,Hypertension,"Dr. Divya Kumar",Female,11,Dermatology,2025-08-15,Cancelled,136700,Insurance,Paracetamol,9,X-Ray,Abnormal
+100083,"Kiran Nair",Female,26,Hyderabad,2025-07-30,,Admitted,Hypertension,"Dr. Divya Kumar",Female,11,Dermatology,2025-08-15,Cancelled,136700,Insurance,Ibuprofen,4,X-Ray,Normal
+100083,"Kiran Nair",Female,26,Hyderabad,2025-07-30,,Admitted,Hypertension,"Dr. Divya Kumar",Female,11,Dermatology,2025-08-15,Cancelled,136700,Insurance,Ibuprofen,4,X-Ray,Abnormal
+100083,"Kiran Nair",Female,26,Hyderabad,2025-07-30,,Admitted,Hypertension,"Dr. Divya Kumar",Female,11,Dermatology,2025-08-28,Completed,136700,Insurance,Paracetamol,9,X-Ray,Normal
+100083,"Kiran Nair",Female,26,Hyderabad,2025-07-30,,Admitted,Hypertension,"Dr. Divya Kumar",Female,11,Dermatology,2025-08-28,Completed,136700,Insurance,Paracetamol,9,X-Ray,Abnormal
+100083,"Kiran Nair",Female,26,Hyderabad,2025-07-30,,Admitted,Hypertension,"Dr. Divya Kumar",Female,11,Dermatology,2025-08-28,Completed,136700,Insurance,Ibuprofen,4,X-Ray,Normal
+100083,"Kiran Nair",Female,26,Hyderabad,2025-07-30,,Admitted,Hypertension,"Dr. Divya Kumar",Female,11,Dermatology,2025-08-28,Completed,136700,Insurance,Ibuprofen,4,X-Ray,Abnormal
+100084,"Neha Nair",Male,46,Adilabad,2026-01-11,,Admitted,Allergy,"Dr. Neha Das",Male,9,Emergency,2026-01-18,Cancelled,135668,Cash,Cetirizine,15,MRI,Normal
+100084,"Neha Nair",Male,46,Adilabad,2026-01-11,,Admitted,Allergy,"Dr. Neha Das",Male,9,Emergency,2026-01-18,Cancelled,135668,Cash,Insulin,9,MRI,Normal
+100084,"Neha Nair",Male,46,Adilabad,2026-01-11,,Admitted,Allergy,"Dr. Neha Das",Male,9,Emergency,2026-01-22,Scheduled,135668,Cash,Cetirizine,15,MRI,Normal
+100084,"Neha Nair",Male,46,Adilabad,2026-01-11,,Admitted,Allergy,"Dr. Neha Das",Male,9,Emergency,2026-01-22,Scheduled,135668,Cash,Insulin,9,MRI,Normal
+100085,"Kavya Verma",Male,32,Warangal,2026-04-03,2026-04-12,Discharged,Migraine,"Dr. Vikram Nair",Female,23,Pulmonology,2026-04-11,Scheduled,162787,Card,Paracetamol,14,MRI,Normal
+100085,"Kavya Verma",Male,32,Warangal,2026-04-03,2026-04-12,Discharged,Migraine,"Dr. Vikram Nair",Female,23,Pulmonology,2026-04-11,Scheduled,162787,Card,Paracetamol,3,MRI,Normal
+100085,"Kavya Verma",Male,32,Warangal,2026-04-03,2026-04-12,Discharged,Migraine,"Dr. Vikram Nair",Female,23,Pulmonology,2026-04-06,Cancelled,162787,Card,Paracetamol,14,MRI,Normal
+100085,"Kavya Verma",Male,32,Warangal,2026-04-03,2026-04-12,Discharged,Migraine,"Dr. Vikram Nair",Female,23,Pulmonology,2026-04-06,Cancelled,162787,Card,Paracetamol,3,MRI,Normal
+100086,"Sneha Das",Male,23,Hyderabad,2026-04-21,2026-04-29,Discharged,Cancer,"Dr. Arjun Patel",Female,16,Emergency,2026-04-24,Completed,32756,Insurance,Amoxicillin,11,X-Ray,Normal
+100086,"Sneha Das",Male,23,Hyderabad,2026-04-21,2026-04-29,Discharged,Cancer,"Dr. Arjun Patel",Female,16,Emergency,2026-04-24,Completed,32756,Insurance,Paracetamol,9,X-Ray,Normal
+100086,"Sneha Das",Male,23,Hyderabad,2026-04-21,2026-04-29,Discharged,Cancer,"Dr. Arjun Patel",Female,16,Emergency,2026-05-15,Cancelled,32756,Insurance,Amoxicillin,11,X-Ray,Normal
+100086,"Sneha Das",Male,23,Hyderabad,2026-04-21,2026-04-29,Discharged,Cancer,"Dr. Arjun Patel",Female,16,Emergency,2026-05-15,Cancelled,32756,Insurance,Paracetamol,9,X-Ray,Normal
+100086,"Sneha Das",Male,23,Hyderabad,2026-04-21,2026-04-29,Discharged,Cancer,"Dr. Arjun Patel",Female,16,Emergency,2026-05-09,Scheduled,32756,Insurance,Amoxicillin,11,X-Ray,Normal
+100086,"Sneha Das",Male,23,Hyderabad,2026-04-21,2026-04-29,Discharged,Cancer,"Dr. Arjun Patel",Female,16,Emergency,2026-05-09,Scheduled,32756,Insurance,Paracetamol,9,X-Ray,Normal
+100087,"Aarav Kumar",Female,89,Khammam,2026-04-19,2026-04-22,Recovered,"Heart Disease","Dr. Sneha Iyer",Female,27,Urology,2026-04-29,Cancelled,158517,Cash,Insulin,9,MRI,Normal
+100087,"Aarav Kumar",Female,89,Khammam,2026-04-19,2026-04-22,Recovered,"Heart Disease","Dr. Sneha Iyer",Female,27,Urology,2026-04-29,Cancelled,158517,Cash,Insulin,9,"CT Scan",Normal
+100087,"Aarav Kumar",Female,89,Khammam,2026-04-19,2026-04-22,Recovered,"Heart Disease","Dr. Sneha Iyer",Female,27,Urology,2026-04-29,Cancelled,158517,Cash,Amoxicillin,8,MRI,Normal
+100087,"Aarav Kumar",Female,89,Khammam,2026-04-19,2026-04-22,Recovered,"Heart Disease","Dr. Sneha Iyer",Female,27,Urology,2026-04-29,Cancelled,158517,Cash,Amoxicillin,8,"CT Scan",Normal
+100087,"Aarav Kumar",Female,89,Khammam,2026-04-19,2026-04-22,Recovered,"Heart Disease","Dr. Sneha Iyer",Female,27,Urology,2026-05-13,Cancelled,158517,Cash,Insulin,9,MRI,Normal
+100087,"Aarav Kumar",Female,89,Khammam,2026-04-19,2026-04-22,Recovered,"Heart Disease","Dr. Sneha Iyer",Female,27,Urology,2026-05-13,Cancelled,158517,Cash,Insulin,9,"CT Scan",Normal
+100087,"Aarav Kumar",Female,89,Khammam,2026-04-19,2026-04-22,Recovered,"Heart Disease","Dr. Sneha Iyer",Female,27,Urology,2026-05-13,Cancelled,158517,Cash,Amoxicillin,8,MRI,Normal
+100087,"Aarav Kumar",Female,89,Khammam,2026-04-19,2026-04-22,Recovered,"Heart Disease","Dr. Sneha Iyer",Female,27,Urology,2026-05-13,Cancelled,158517,Cash,Amoxicillin,8,"CT Scan",Normal
+100087,"Aarav Kumar",Female,89,Khammam,2026-04-19,2026-04-22,Recovered,"Heart Disease","Dr. Sneha Iyer",Female,27,Urology,2026-05-19,Completed,158517,Cash,Insulin,9,MRI,Normal
+100087,"Aarav Kumar",Female,89,Khammam,2026-04-19,2026-04-22,Recovered,"Heart Disease","Dr. Sneha Iyer",Female,27,Urology,2026-05-19,Completed,158517,Cash,Insulin,9,"CT Scan",Normal
+100087,"Aarav Kumar",Female,89,Khammam,2026-04-19,2026-04-22,Recovered,"Heart Disease","Dr. Sneha Iyer",Female,27,Urology,2026-05-19,Completed,158517,Cash,Amoxicillin,8,MRI,Normal
+100087,"Aarav Kumar",Female,89,Khammam,2026-04-19,2026-04-22,Recovered,"Heart Disease","Dr. Sneha Iyer",Female,27,Urology,2026-05-19,Completed,158517,Cash,Amoxicillin,8,"CT Scan",Normal
+100088,"Neha Reddy",Male,9,Sangareddy,2025-09-13,2025-09-14,Recovered,Fever,"Dr. Aisha Bose",Male,17,Urology,2025-09-25,Cancelled,53134,Cash,Paracetamol,3,ECG,Normal
+100088,"Neha Reddy",Male,9,Sangareddy,2025-09-13,2025-09-14,Recovered,Fever,"Dr. Aisha Bose",Male,17,Urology,2025-09-25,Cancelled,53134,Cash,Paracetamol,3,ECG,Abnormal
+100088,"Neha Reddy",Male,9,Sangareddy,2025-09-13,2025-09-14,Recovered,Fever,"Dr. Aisha Bose",Male,17,Urology,2025-09-25,Cancelled,53134,Cash,Insulin,3,ECG,Normal
+100088,"Neha Reddy",Male,9,Sangareddy,2025-09-13,2025-09-14,Recovered,Fever,"Dr. Aisha Bose",Male,17,Urology,2025-09-25,Cancelled,53134,Cash,Insulin,3,ECG,Abnormal
+100088,"Neha Reddy",Male,9,Sangareddy,2025-09-13,2025-09-14,Recovered,Fever,"Dr. Aisha Bose",Male,17,Urology,2025-09-17,Cancelled,53134,Cash,Paracetamol,3,ECG,Normal
+100088,"Neha Reddy",Male,9,Sangareddy,2025-09-13,2025-09-14,Recovered,Fever,"Dr. Aisha Bose",Male,17,Urology,2025-09-17,Cancelled,53134,Cash,Paracetamol,3,ECG,Abnormal
+100088,"Neha Reddy",Male,9,Sangareddy,2025-09-13,2025-09-14,Recovered,Fever,"Dr. Aisha Bose",Male,17,Urology,2025-09-17,Cancelled,53134,Cash,Insulin,3,ECG,Normal
+100088,"Neha Reddy",Male,9,Sangareddy,2025-09-13,2025-09-14,Recovered,Fever,"Dr. Aisha Bose",Male,17,Urology,2025-09-17,Cancelled,53134,Cash,Insulin,3,ECG,Abnormal
+100089,"Aarav Yadav",Male,6,Medak,2025-09-14,,Admitted,Hypertension,"Dr. Kavya Ali",Female,22,Emergency,2025-10-12,Cancelled,80561,UPI,Cetirizine,11,"CT Scan",Normal
+100089,"Aarav Yadav",Male,6,Medak,2025-09-14,,Admitted,Hypertension,"Dr. Kavya Ali",Female,22,Emergency,2025-10-12,Cancelled,80561,UPI,Paracetamol,10,"CT Scan",Normal
+100089,"Aarav Yadav",Male,6,Medak,2025-09-14,,Admitted,Hypertension,"Dr. Kavya Ali",Female,22,Emergency,2025-10-14,Scheduled,80561,UPI,Cetirizine,11,"CT Scan",Normal
+100089,"Aarav Yadav",Male,6,Medak,2025-09-14,,Admitted,Hypertension,"Dr. Kavya Ali",Female,22,Emergency,2025-10-14,Scheduled,80561,UPI,Paracetamol,10,"CT Scan",Normal
+100089,"Aarav Yadav",Male,6,Medak,2025-09-14,,Admitted,Hypertension,"Dr. Kavya Ali",Female,22,Emergency,2025-09-15,Scheduled,80561,UPI,Cetirizine,11,"CT Scan",Normal
+100089,"Aarav Yadav",Male,6,Medak,2025-09-14,,Admitted,Hypertension,"Dr. Kavya Ali",Female,22,Emergency,2025-09-15,Scheduled,80561,UPI,Paracetamol,10,"CT Scan",Normal
+100089,"Aarav Yadav",Male,6,Medak,2025-09-14,,Admitted,Hypertension,"Dr. Kavya Ali",Female,22,Emergency,2025-09-19,Completed,80561,UPI,Cetirizine,11,"CT Scan",Normal
+100089,"Aarav Yadav",Male,6,Medak,2025-09-14,,Admitted,Hypertension,"Dr. Kavya Ali",Female,22,Emergency,2025-09-19,Completed,80561,UPI,Paracetamol,10,"CT Scan",Normal
+100090,"Divya Naidu",Male,12,Adilabad,2025-10-28,2025-11-07,Recovered,Cancer,"Dr. Arjun Joshi",Male,18,Pediatrics,2025-11-25,Scheduled,119550,Card,Ibuprofen,10,MRI,Normal
+100090,"Divya Naidu",Male,12,Adilabad,2025-10-28,2025-11-07,Recovered,Cancer,"Dr. Arjun Joshi",Male,18,Pediatrics,2025-11-25,Scheduled,119550,Card,Ibuprofen,10,"Blood Test",Normal
+100090,"Divya Naidu",Male,12,Adilabad,2025-10-28,2025-11-07,Recovered,Cancer,"Dr. Arjun Joshi",Male,18,Pediatrics,2025-11-25,Scheduled,119550,Card,Metformin,12,MRI,Normal
+100090,"Divya Naidu",Male,12,Adilabad,2025-10-28,2025-11-07,Recovered,Cancer,"Dr. Arjun Joshi",Male,18,Pediatrics,2025-11-25,Scheduled,119550,Card,Metformin,12,"Blood Test",Normal
+100090,"Divya Naidu",Male,12,Adilabad,2025-10-28,2025-11-07,Recovered,Cancer,"Dr. Arjun Joshi",Male,18,Pediatrics,2025-11-08,Cancelled,119550,Card,Ibuprofen,10,MRI,Normal
+100090,"Divya Naidu",Male,12,Adilabad,2025-10-28,2025-11-07,Recovered,Cancer,"Dr. Arjun Joshi",Male,18,Pediatrics,2025-11-08,Cancelled,119550,Card,Ibuprofen,10,"Blood Test",Normal
+100090,"Divya Naidu",Male,12,Adilabad,2025-10-28,2025-11-07,Recovered,Cancer,"Dr. Arjun Joshi",Male,18,Pediatrics,2025-11-08,Cancelled,119550,Card,Metformin,12,MRI,Normal
+100090,"Divya Naidu",Male,12,Adilabad,2025-10-28,2025-11-07,Recovered,Cancer,"Dr. Arjun Joshi",Male,18,Pediatrics,2025-11-08,Cancelled,119550,Card,Metformin,12,"Blood Test",Normal
+100090,"Divya Naidu",Male,12,Adilabad,2025-10-28,2025-11-07,Recovered,Cancer,"Dr. Arjun Joshi",Male,18,Pediatrics,2025-11-14,Scheduled,119550,Card,Ibuprofen,10,MRI,Normal
+100090,"Divya Naidu",Male,12,Adilabad,2025-10-28,2025-11-07,Recovered,Cancer,"Dr. Arjun Joshi",Male,18,Pediatrics,2025-11-14,Scheduled,119550,Card,Ibuprofen,10,"Blood Test",Normal
+100090,"Divya Naidu",Male,12,Adilabad,2025-10-28,2025-11-07,Recovered,Cancer,"Dr. Arjun Joshi",Male,18,Pediatrics,2025-11-14,Scheduled,119550,Card,Metformin,12,MRI,Normal
+100090,"Divya Naidu",Male,12,Adilabad,2025-10-28,2025-11-07,Recovered,Cancer,"Dr. Arjun Joshi",Male,18,Pediatrics,2025-11-14,Scheduled,119550,Card,Metformin,12,"Blood Test",Normal
+100090,"Divya Naidu",Male,12,Adilabad,2025-10-28,2025-11-07,Recovered,Cancer,"Dr. Arjun Joshi",Male,18,Pediatrics,2025-11-09,Completed,119550,Card,Ibuprofen,10,MRI,Normal
+100090,"Divya Naidu",Male,12,Adilabad,2025-10-28,2025-11-07,Recovered,Cancer,"Dr. Arjun Joshi",Male,18,Pediatrics,2025-11-09,Completed,119550,Card,Ibuprofen,10,"Blood Test",Normal
+100090,"Divya Naidu",Male,12,Adilabad,2025-10-28,2025-11-07,Recovered,Cancer,"Dr. Arjun Joshi",Male,18,Pediatrics,2025-11-09,Completed,119550,Card,Metformin,12,MRI,Normal
+100090,"Divya Naidu",Male,12,Adilabad,2025-10-28,2025-11-07,Recovered,Cancer,"Dr. Arjun Joshi",Male,18,Pediatrics,2025-11-09,Completed,119550,Card,Metformin,12,"Blood Test",Normal
+100091,"Aarav Iyer",Female,21,Nizamabad,2026-01-28,2026-02-04,Recovered,Asthma,"Dr. Kavya Nair",Female,12,"General Medicine",2026-02-06,Completed,146423,UPI,Cetirizine,4,"Urine Test",Abnormal
+100091,"Aarav Iyer",Female,21,Nizamabad,2026-01-28,2026-02-04,Recovered,Asthma,"Dr. Kavya Nair",Female,12,"General Medicine",2026-02-06,Completed,146423,UPI,Cetirizine,4,"CT Scan",Normal
+100091,"Aarav Iyer",Female,21,Nizamabad,2026-01-28,2026-02-04,Recovered,Asthma,"Dr. Kavya Nair",Female,12,"General Medicine",2026-02-06,Completed,146423,UPI,Paracetamol,5,"Urine Test",Abnormal
+100091,"Aarav Iyer",Female,21,Nizamabad,2026-01-28,2026-02-04,Recovered,Asthma,"Dr. Kavya Nair",Female,12,"General Medicine",2026-02-06,Completed,146423,UPI,Paracetamol,5,"CT Scan",Normal
+100091,"Aarav Iyer",Female,21,Nizamabad,2026-01-28,2026-02-04,Recovered,Asthma,"Dr. Kavya Nair",Female,12,"General Medicine",2026-02-25,Completed,146423,UPI,Cetirizine,4,"Urine Test",Abnormal
+100091,"Aarav Iyer",Female,21,Nizamabad,2026-01-28,2026-02-04,Recovered,Asthma,"Dr. Kavya Nair",Female,12,"General Medicine",2026-02-25,Completed,146423,UPI,Cetirizine,4,"CT Scan",Normal
+100091,"Aarav Iyer",Female,21,Nizamabad,2026-01-28,2026-02-04,Recovered,Asthma,"Dr. Kavya Nair",Female,12,"General Medicine",2026-02-25,Completed,146423,UPI,Paracetamol,5,"Urine Test",Abnormal
+100091,"Aarav Iyer",Female,21,Nizamabad,2026-01-28,2026-02-04,Recovered,Asthma,"Dr. Kavya Nair",Female,12,"General Medicine",2026-02-25,Completed,146423,UPI,Paracetamol,5,"CT Scan",Normal
+100091,"Aarav Iyer",Female,21,Nizamabad,2026-01-28,2026-02-04,Recovered,Asthma,"Dr. Kavya Nair",Female,12,"General Medicine",2026-02-05,Cancelled,146423,UPI,Cetirizine,4,"Urine Test",Abnormal
+100091,"Aarav Iyer",Female,21,Nizamabad,2026-01-28,2026-02-04,Recovered,Asthma,"Dr. Kavya Nair",Female,12,"General Medicine",2026-02-05,Cancelled,146423,UPI,Cetirizine,4,"CT Scan",Normal
+100091,"Aarav Iyer",Female,21,Nizamabad,2026-01-28,2026-02-04,Recovered,Asthma,"Dr. Kavya Nair",Female,12,"General Medicine",2026-02-05,Cancelled,146423,UPI,Paracetamol,5,"Urine Test",Abnormal
+100091,"Aarav Iyer",Female,21,Nizamabad,2026-01-28,2026-02-04,Recovered,Asthma,"Dr. Kavya Nair",Female,12,"General Medicine",2026-02-05,Cancelled,146423,UPI,Paracetamol,5,"CT Scan",Normal
+100092,"Pooja Das",Female,18,Nizamabad,2025-04-22,2025-04-25,Discharged,"Heart Disease","Dr. Sneha Das",Male,4,Oncology,2025-04-30,Scheduled,160606,UPI,Insulin,5,"CT Scan",Normal
+100092,"Pooja Das",Female,18,Nizamabad,2025-04-22,2025-04-25,Discharged,"Heart Disease","Dr. Sneha Das",Male,4,Oncology,2025-04-30,Scheduled,160606,UPI,Insulin,5,"Blood Test",Normal
+100092,"Pooja Das",Female,18,Nizamabad,2025-04-22,2025-04-25,Discharged,"Heart Disease","Dr. Sneha Das",Male,4,Oncology,2025-04-30,Scheduled,160606,UPI,Insulin,13,"CT Scan",Normal
+100092,"Pooja Das",Female,18,Nizamabad,2025-04-22,2025-04-25,Discharged,"Heart Disease","Dr. Sneha Das",Male,4,Oncology,2025-04-30,Scheduled,160606,UPI,Insulin,13,"Blood Test",Normal
+100092,"Pooja Das",Female,18,Nizamabad,2025-04-22,2025-04-25,Discharged,"Heart Disease","Dr. Sneha Das",Male,4,Oncology,2025-05-21,Cancelled,160606,UPI,Insulin,5,"CT Scan",Normal
+100092,"Pooja Das",Female,18,Nizamabad,2025-04-22,2025-04-25,Discharged,"Heart Disease","Dr. Sneha Das",Male,4,Oncology,2025-05-21,Cancelled,160606,UPI,Insulin,5,"Blood Test",Normal
+100092,"Pooja Das",Female,18,Nizamabad,2025-04-22,2025-04-25,Discharged,"Heart Disease","Dr. Sneha Das",Male,4,Oncology,2025-05-21,Cancelled,160606,UPI,Insulin,13,"CT Scan",Normal
+100092,"Pooja Das",Female,18,Nizamabad,2025-04-22,2025-04-25,Discharged,"Heart Disease","Dr. Sneha Das",Male,4,Oncology,2025-05-21,Cancelled,160606,UPI,Insulin,13,"Blood Test",Normal
+100092,"Pooja Das",Female,18,Nizamabad,2025-04-22,2025-04-25,Discharged,"Heart Disease","Dr. Sneha Das",Male,4,Oncology,2025-05-19,Scheduled,160606,UPI,Insulin,5,"CT Scan",Normal
+100092,"Pooja Das",Female,18,Nizamabad,2025-04-22,2025-04-25,Discharged,"Heart Disease","Dr. Sneha Das",Male,4,Oncology,2025-05-19,Scheduled,160606,UPI,Insulin,5,"Blood Test",Normal
+100092,"Pooja Das",Female,18,Nizamabad,2025-04-22,2025-04-25,Discharged,"Heart Disease","Dr. Sneha Das",Male,4,Oncology,2025-05-19,Scheduled,160606,UPI,Insulin,13,"CT Scan",Normal
+100092,"Pooja Das",Female,18,Nizamabad,2025-04-22,2025-04-25,Discharged,"Heart Disease","Dr. Sneha Das",Male,4,Oncology,2025-05-19,Scheduled,160606,UPI,Insulin,13,"Blood Test",Normal
+100092,"Pooja Das",Female,18,Nizamabad,2025-04-22,2025-04-25,Discharged,"Heart Disease","Dr. Sneha Das",Male,4,Oncology,2025-04-25,Scheduled,160606,UPI,Insulin,5,"CT Scan",Normal
+100092,"Pooja Das",Female,18,Nizamabad,2025-04-22,2025-04-25,Discharged,"Heart Disease","Dr. Sneha Das",Male,4,Oncology,2025-04-25,Scheduled,160606,UPI,Insulin,5,"Blood Test",Normal
+100092,"Pooja Das",Female,18,Nizamabad,2025-04-22,2025-04-25,Discharged,"Heart Disease","Dr. Sneha Das",Male,4,Oncology,2025-04-25,Scheduled,160606,UPI,Insulin,13,"CT Scan",Normal
+100092,"Pooja Das",Female,18,Nizamabad,2025-04-22,2025-04-25,Discharged,"Heart Disease","Dr. Sneha Das",Male,4,Oncology,2025-04-25,Scheduled,160606,UPI,Insulin,13,"Blood Test",Normal
+100093,"Aisha Nair",Male,49,Nalgonda,2025-06-03,2025-06-08,Discharged,"Kidney Stone","Dr. Kiran Nair",Female,6,Oncology,2025-06-22,Cancelled,120536,UPI,Paracetamol,15,MRI,Normal
+100093,"Aisha Nair",Male,49,Nalgonda,2025-06-03,2025-06-08,Discharged,"Kidney Stone","Dr. Kiran Nair",Female,6,Oncology,2025-06-22,Cancelled,120536,UPI,Paracetamol,15,"CT Scan",Abnormal
+100093,"Aisha Nair",Male,49,Nalgonda,2025-06-03,2025-06-08,Discharged,"Kidney Stone","Dr. Kiran Nair",Female,6,Oncology,2025-06-22,Cancelled,120536,UPI,Insulin,8,MRI,Normal
+100093,"Aisha Nair",Male,49,Nalgonda,2025-06-03,2025-06-08,Discharged,"Kidney Stone","Dr. Kiran Nair",Female,6,Oncology,2025-06-22,Cancelled,120536,UPI,Insulin,8,"CT Scan",Abnormal
+100093,"Aisha Nair",Male,49,Nalgonda,2025-06-03,2025-06-08,Discharged,"Kidney Stone","Dr. Kiran Nair",Female,6,Oncology,2025-06-19,Scheduled,120536,UPI,Paracetamol,15,MRI,Normal
+100093,"Aisha Nair",Male,49,Nalgonda,2025-06-03,2025-06-08,Discharged,"Kidney Stone","Dr. Kiran Nair",Female,6,Oncology,2025-06-19,Scheduled,120536,UPI,Paracetamol,15,"CT Scan",Abnormal
+100093,"Aisha Nair",Male,49,Nalgonda,2025-06-03,2025-06-08,Discharged,"Kidney Stone","Dr. Kiran Nair",Female,6,Oncology,2025-06-19,Scheduled,120536,UPI,Insulin,8,MRI,Normal
+100093,"Aisha Nair",Male,49,Nalgonda,2025-06-03,2025-06-08,Discharged,"Kidney Stone","Dr. Kiran Nair",Female,6,Oncology,2025-06-19,Scheduled,120536,UPI,Insulin,8,"CT Scan",Abnormal
+100093,"Aisha Nair",Male,49,Nalgonda,2025-06-03,2025-06-08,Discharged,"Kidney Stone","Dr. Kiran Nair",Female,6,Oncology,2025-06-14,Cancelled,120536,UPI,Paracetamol,15,MRI,Normal
+100093,"Aisha Nair",Male,49,Nalgonda,2025-06-03,2025-06-08,Discharged,"Kidney Stone","Dr. Kiran Nair",Female,6,Oncology,2025-06-14,Cancelled,120536,UPI,Paracetamol,15,"CT Scan",Abnormal
+100093,"Aisha Nair",Male,49,Nalgonda,2025-06-03,2025-06-08,Discharged,"Kidney Stone","Dr. Kiran Nair",Female,6,Oncology,2025-06-14,Cancelled,120536,UPI,Insulin,8,MRI,Normal
+100093,"Aisha Nair",Male,49,Nalgonda,2025-06-03,2025-06-08,Discharged,"Kidney Stone","Dr. Kiran Nair",Female,6,Oncology,2025-06-14,Cancelled,120536,UPI,Insulin,8,"CT Scan",Abnormal
+100093,"Aisha Nair",Male,49,Nalgonda,2025-06-03,2025-06-08,Discharged,"Kidney Stone","Dr. Kiran Nair",Female,6,Oncology,2025-06-14,Cancelled,120536,UPI,Paracetamol,15,MRI,Normal
+100093,"Aisha Nair",Male,49,Nalgonda,2025-06-03,2025-06-08,Discharged,"Kidney Stone","Dr. Kiran Nair",Female,6,Oncology,2025-06-14,Cancelled,120536,UPI,Paracetamol,15,"CT Scan",Abnormal
+100093,"Aisha Nair",Male,49,Nalgonda,2025-06-03,2025-06-08,Discharged,"Kidney Stone","Dr. Kiran Nair",Female,6,Oncology,2025-06-14,Cancelled,120536,UPI,Insulin,8,MRI,Normal
+100093,"Aisha Nair",Male,49,Nalgonda,2025-06-03,2025-06-08,Discharged,"Kidney Stone","Dr. Kiran Nair",Female,6,Oncology,2025-06-14,Cancelled,120536,UPI,Insulin,8,"CT Scan",Abnormal
+100094,"Varun Patel",Male,43,Sangareddy,2025-05-29,2025-06-05,Discharged,"Heart Disease","Dr. Aarav Patel",Female,6,Pediatrics,2025-05-29,Completed,64109,UPI,Ibuprofen,7,"Urine Test",Abnormal
+100094,"Varun Patel",Male,43,Sangareddy,2025-05-29,2025-06-05,Discharged,"Heart Disease","Dr. Aarav Patel",Female,6,Pediatrics,2025-05-29,Completed,64109,UPI,Ibuprofen,7,"Urine Test",Abnormal
+100094,"Varun Patel",Male,43,Sangareddy,2025-05-29,2025-06-05,Discharged,"Heart Disease","Dr. Aarav Patel",Female,6,Pediatrics,2025-05-29,Completed,64109,UPI,Metformin,12,"Urine Test",Abnormal
+100094,"Varun Patel",Male,43,Sangareddy,2025-05-29,2025-06-05,Discharged,"Heart Disease","Dr. Aarav Patel",Female,6,Pediatrics,2025-05-29,Completed,64109,UPI,Metformin,12,"Urine Test",Abnormal
+100094,"Varun Patel",Male,43,Sangareddy,2025-05-29,2025-06-05,Discharged,"Heart Disease","Dr. Aarav Patel",Female,6,Pediatrics,2025-06-11,Completed,64109,UPI,Ibuprofen,7,"Urine Test",Abnormal
+100094,"Varun Patel",Male,43,Sangareddy,2025-05-29,2025-06-05,Discharged,"Heart Disease","Dr. Aarav Patel",Female,6,Pediatrics,2025-06-11,Completed,64109,UPI,Ibuprofen,7,"Urine Test",Abnormal
+100094,"Varun Patel",Male,43,Sangareddy,2025-05-29,2025-06-05,Discharged,"Heart Disease","Dr. Aarav Patel",Female,6,Pediatrics,2025-06-11,Completed,64109,UPI,Metformin,12,"Urine Test",Abnormal
+100094,"Varun Patel",Male,43,Sangareddy,2025-05-29,2025-06-05,Discharged,"Heart Disease","Dr. Aarav Patel",Female,6,Pediatrics,2025-06-11,Completed,64109,UPI,Metformin,12,"Urine Test",Abnormal
+100095,"Neha Joshi",Male,87,Warangal,2026-01-02,,Admitted,Sinusitis,"Dr. Kavya Yadav",Female,14,Gynecology,2026-01-19,Scheduled,60602,Cash,Ibuprofen,10,ECG,Normal
+100095,"Neha Joshi",Male,87,Warangal,2026-01-02,,Admitted,Sinusitis,"Dr. Kavya Yadav",Female,14,Gynecology,2026-01-19,Scheduled,60602,Cash,Ibuprofen,10,"CT Scan",Abnormal
+100095,"Neha Joshi",Male,87,Warangal,2026-01-02,,Admitted,Sinusitis,"Dr. Kavya Yadav",Female,14,Gynecology,2026-01-19,Scheduled,60602,Cash,Amoxicillin,6,ECG,Normal
+100095,"Neha Joshi",Male,87,Warangal,2026-01-02,,Admitted,Sinusitis,"Dr. Kavya Yadav",Female,14,Gynecology,2026-01-19,Scheduled,60602,Cash,Amoxicillin,6,"CT Scan",Abnormal
+100095,"Neha Joshi",Male,87,Warangal,2026-01-02,,Admitted,Sinusitis,"Dr. Kavya Yadav",Female,14,Gynecology,2026-01-14,Scheduled,60602,Cash,Ibuprofen,10,ECG,Normal
+100095,"Neha Joshi",Male,87,Warangal,2026-01-02,,Admitted,Sinusitis,"Dr. Kavya Yadav",Female,14,Gynecology,2026-01-14,Scheduled,60602,Cash,Ibuprofen,10,"CT Scan",Abnormal
+100095,"Neha Joshi",Male,87,Warangal,2026-01-02,,Admitted,Sinusitis,"Dr. Kavya Yadav",Female,14,Gynecology,2026-01-14,Scheduled,60602,Cash,Amoxicillin,6,ECG,Normal
+100095,"Neha Joshi",Male,87,Warangal,2026-01-02,,Admitted,Sinusitis,"Dr. Kavya Yadav",Female,14,Gynecology,2026-01-14,Scheduled,60602,Cash,Amoxicillin,6,"CT Scan",Abnormal
+100095,"Neha Joshi",Male,87,Warangal,2026-01-02,,Admitted,Sinusitis,"Dr. Kavya Yadav",Female,14,Gynecology,2026-01-13,Scheduled,60602,Cash,Ibuprofen,10,ECG,Normal
+100095,"Neha Joshi",Male,87,Warangal,2026-01-02,,Admitted,Sinusitis,"Dr. Kavya Yadav",Female,14,Gynecology,2026-01-13,Scheduled,60602,Cash,Ibuprofen,10,"CT Scan",Abnormal
+100095,"Neha Joshi",Male,87,Warangal,2026-01-02,,Admitted,Sinusitis,"Dr. Kavya Yadav",Female,14,Gynecology,2026-01-13,Scheduled,60602,Cash,Amoxicillin,6,ECG,Normal
+100095,"Neha Joshi",Male,87,Warangal,2026-01-02,,Admitted,Sinusitis,"Dr. Kavya Yadav",Female,14,Gynecology,2026-01-13,Scheduled,60602,Cash,Amoxicillin,6,"CT Scan",Abnormal
+100096,"Divya Gupta",Male,15,Medak,2025-11-22,2025-11-24,Discharged,"Kidney Stone","Dr. Varun Iyer",Female,13,Orthopedics,2025-12-20,Completed,90508,Insurance,Paracetamol,13,MRI,Normal
+100096,"Divya Gupta",Male,15,Medak,2025-11-22,2025-11-24,Discharged,"Kidney Stone","Dr. Varun Iyer",Female,13,Orthopedics,2025-12-20,Completed,90508,Insurance,Ibuprofen,5,MRI,Normal
+100096,"Divya Gupta",Male,15,Medak,2025-11-22,2025-11-24,Discharged,"Kidney Stone","Dr. Varun Iyer",Female,13,Orthopedics,2025-11-28,Scheduled,90508,Insurance,Paracetamol,13,MRI,Normal
+100096,"Divya Gupta",Male,15,Medak,2025-11-22,2025-11-24,Discharged,"Kidney Stone","Dr. Varun Iyer",Female,13,Orthopedics,2025-11-28,Scheduled,90508,Insurance,Ibuprofen,5,MRI,Normal
+100096,"Divya Gupta",Male,15,Medak,2025-11-22,2025-11-24,Discharged,"Kidney Stone","Dr. Varun Iyer",Female,13,Orthopedics,2025-12-01,Scheduled,90508,Insurance,Paracetamol,13,MRI,Normal
+100096,"Divya Gupta",Male,15,Medak,2025-11-22,2025-11-24,Discharged,"Kidney Stone","Dr. Varun Iyer",Female,13,Orthopedics,2025-12-01,Scheduled,90508,Insurance,Ibuprofen,5,MRI,Normal
+100096,"Divya Gupta",Male,15,Medak,2025-11-22,2025-11-24,Discharged,"Kidney Stone","Dr. Varun Iyer",Female,13,Orthopedics,2025-11-27,Scheduled,90508,Insurance,Paracetamol,13,MRI,Normal
+100096,"Divya Gupta",Male,15,Medak,2025-11-22,2025-11-24,Discharged,"Kidney Stone","Dr. Varun Iyer",Female,13,Orthopedics,2025-11-27,Scheduled,90508,Insurance,Ibuprofen,5,MRI,Normal
+100097,"Kavya Sharma",Female,51,Warangal,2025-01-11,2025-01-16,Recovered,"Heart Disease","Dr. Vikram Nair",Female,23,Pulmonology,2025-02-04,Scheduled,4547,Cash,Insulin,11,"Urine Test",Normal
+100097,"Kavya Sharma",Female,51,Warangal,2025-01-11,2025-01-16,Recovered,"Heart Disease","Dr. Vikram Nair",Female,23,Pulmonology,2025-02-04,Scheduled,4547,Cash,Cetirizine,7,"Urine Test",Normal
+100097,"Kavya Sharma",Female,51,Warangal,2025-01-11,2025-01-16,Recovered,"Heart Disease","Dr. Vikram Nair",Female,23,Pulmonology,2025-01-16,Cancelled,4547,Cash,Insulin,11,"Urine Test",Normal
+100097,"Kavya Sharma",Female,51,Warangal,2025-01-11,2025-01-16,Recovered,"Heart Disease","Dr. Vikram Nair",Female,23,Pulmonology,2025-01-16,Cancelled,4547,Cash,Cetirizine,7,"Urine Test",Normal
+100098,"Ishaan Ali",Male,4,Warangal,2025-05-05,,Admitted,Hypertension,"Dr. Aditya Reddy",Female,22,Gynecology,2025-05-25,Completed,45204,Insurance,Cetirizine,8,ECG,Normal
+100098,"Ishaan Ali",Male,4,Warangal,2025-05-05,,Admitted,Hypertension,"Dr. Aditya Reddy",Female,22,Gynecology,2025-05-25,Completed,45204,Insurance,Insulin,15,ECG,Normal
+100098,"Ishaan Ali",Male,4,Warangal,2025-05-05,,Admitted,Hypertension,"Dr. Aditya Reddy",Female,22,Gynecology,2025-05-30,Completed,45204,Insurance,Cetirizine,8,ECG,Normal
+100098,"Ishaan Ali",Male,4,Warangal,2025-05-05,,Admitted,Hypertension,"Dr. Aditya Reddy",Female,22,Gynecology,2025-05-30,Completed,45204,Insurance,Insulin,15,ECG,Normal
+100098,"Ishaan Ali",Male,4,Warangal,2025-05-05,,Admitted,Hypertension,"Dr. Aditya Reddy",Female,22,Gynecology,2025-05-24,Cancelled,45204,Insurance,Cetirizine,8,ECG,Normal
+100098,"Ishaan Ali",Male,4,Warangal,2025-05-05,,Admitted,Hypertension,"Dr. Aditya Reddy",Female,22,Gynecology,2025-05-24,Cancelled,45204,Insurance,Insulin,15,ECG,Normal
+100099,"Sneha Bose",Male,45,Nizamabad,2025-06-23,,Admitted,Allergy,"Dr. Pooja Bose",Female,24,ENT,2025-07-21,Cancelled,164078,Insurance,Paracetamol,10,"Urine Test",Normal
+100099,"Sneha Bose",Male,45,Nizamabad,2025-06-23,,Admitted,Allergy,"Dr. Pooja Bose",Female,24,ENT,2025-07-21,Cancelled,164078,Insurance,Cetirizine,15,"Urine Test",Normal
+100099,"Sneha Bose",Male,45,Nizamabad,2025-06-23,,Admitted,Allergy,"Dr. Pooja Bose",Female,24,ENT,2025-06-24,Completed,164078,Insurance,Paracetamol,10,"Urine Test",Normal
+100099,"Sneha Bose",Male,45,Nizamabad,2025-06-23,,Admitted,Allergy,"Dr. Pooja Bose",Female,24,ENT,2025-06-24,Completed,164078,Insurance,Cetirizine,15,"Urine Test",Normal
+100100,"Varun Bose",Male,41,Hyderabad,2025-02-15,,Admitted,Allergy,"Dr. Ishaan Yadav",Male,26,"General Medicine",2025-02-27,Scheduled,80106,Insurance,Amoxicillin,9,"Blood Test",Normal
+100100,"Varun Bose",Male,41,Hyderabad,2025-02-15,,Admitted,Allergy,"Dr. Ishaan Yadav",Male,26,"General Medicine",2025-02-27,Scheduled,80106,Insurance,Amoxicillin,9,"CT Scan",Abnormal
+100100,"Varun Bose",Male,41,Hyderabad,2025-02-15,,Admitted,Allergy,"Dr. Ishaan Yadav",Male,26,"General Medicine",2025-02-27,Scheduled,80106,Insurance,Insulin,12,"Blood Test",Normal
+100100,"Varun Bose",Male,41,Hyderabad,2025-02-15,,Admitted,Allergy,"Dr. Ishaan Yadav",Male,26,"General Medicine",2025-02-27,Scheduled,80106,Insurance,Insulin,12,"CT Scan",Abnormal
+100100,"Varun Bose",Male,41,Hyderabad,2025-02-15,,Admitted,Allergy,"Dr. Ishaan Yadav",Male,26,"General Medicine",2025-02-22,Scheduled,80106,Insurance,Amoxicillin,9,"Blood Test",Normal
+100100,"Varun Bose",Male,41,Hyderabad,2025-02-15,,Admitted,Allergy,"Dr. Ishaan Yadav",Male,26,"General Medicine",2025-02-22,Scheduled,80106,Insurance,Amoxicillin,9,"CT Scan",Abnormal
+100100,"Varun Bose",Male,41,Hyderabad,2025-02-15,,Admitted,Allergy,"Dr. Ishaan Yadav",Male,26,"General Medicine",2025-02-22,Scheduled,80106,Insurance,Insulin,12,"Blood Test",Normal
+100100,"Varun Bose",Male,41,Hyderabad,2025-02-15,,Admitted,Allergy,"Dr. Ishaan Yadav",Male,26,"General Medicine",2025-02-22,Scheduled,80106,Insurance,Insulin,12,"CT Scan",Abnormal
+100100,"Varun Bose",Male,41,Hyderabad,2025-02-15,,Admitted,Allergy,"Dr. Ishaan Yadav",Male,26,"General Medicine",2025-03-17,Completed,80106,Insurance,Amoxicillin,9,"Blood Test",Normal
+100100,"Varun Bose",Male,41,Hyderabad,2025-02-15,,Admitted,Allergy,"Dr. Ishaan Yadav",Male,26,"General Medicine",2025-03-17,Completed,80106,Insurance,Amoxicillin,9,"CT Scan",Abnormal
+100100,"Varun Bose",Male,41,Hyderabad,2025-02-15,,Admitted,Allergy,"Dr. Ishaan Yadav",Male,26,"General Medicine",2025-03-17,Completed,80106,Insurance,Insulin,12,"Blood Test",Normal
+100100,"Varun Bose",Male,41,Hyderabad,2025-02-15,,Admitted,Allergy,"Dr. Ishaan Yadav",Male,26,"General Medicine",2025-03-17,Completed,80106,Insurance,Insulin,12,"CT Scan",Abnormal
+100100,"Varun Bose",Male,41,Hyderabad,2025-02-15,,Admitted,Allergy,"Dr. Ishaan Yadav",Male,26,"General Medicine",2025-02-23,Cancelled,80106,Insurance,Amoxicillin,9,"Blood Test",Normal
+100100,"Varun Bose",Male,41,Hyderabad,2025-02-15,,Admitted,Allergy,"Dr. Ishaan Yadav",Male,26,"General Medicine",2025-02-23,Cancelled,80106,Insurance,Amoxicillin,9,"CT Scan",Abnormal
+100100,"Varun Bose",Male,41,Hyderabad,2025-02-15,,Admitted,Allergy,"Dr. Ishaan Yadav",Male,26,"General Medicine",2025-02-23,Cancelled,80106,Insurance,Insulin,12,"Blood Test",Normal
+100100,"Varun Bose",Male,41,Hyderabad,2025-02-15,,Admitted,Allergy,"Dr. Ishaan Yadav",Male,26,"General Medicine",2025-02-23,Cancelled,80106,Insurance,Insulin,12,"CT Scan",Abnormal
+100101,"Aarav Iyer",Female,51,Adilabad,2025-06-24,2025-06-27,Discharged,Asthma,"Dr. Meera Sharma",Male,11,Neurology,2025-07-24,Completed,30616,UPI,Cetirizine,6,MRI,Abnormal
+100101,"Aarav Iyer",Female,51,Adilabad,2025-06-24,2025-06-27,Discharged,Asthma,"Dr. Meera Sharma",Male,11,Neurology,2025-07-24,Completed,30616,UPI,Cetirizine,6,X-Ray,Abnormal
+100101,"Aarav Iyer",Female,51,Adilabad,2025-06-24,2025-06-27,Discharged,Asthma,"Dr. Meera Sharma",Male,11,Neurology,2025-07-24,Completed,30616,UPI,Ibuprofen,8,MRI,Abnormal
+100101,"Aarav Iyer",Female,51,Adilabad,2025-06-24,2025-06-27,Discharged,Asthma,"Dr. Meera Sharma",Male,11,Neurology,2025-07-24,Completed,30616,UPI,Ibuprofen,8,X-Ray,Abnormal
+100101,"Aarav Iyer",Female,51,Adilabad,2025-06-24,2025-06-27,Discharged,Asthma,"Dr. Meera Sharma",Male,11,Neurology,2025-07-14,Completed,30616,UPI,Cetirizine,6,MRI,Abnormal
+100101,"Aarav Iyer",Female,51,Adilabad,2025-06-24,2025-06-27,Discharged,Asthma,"Dr. Meera Sharma",Male,11,Neurology,2025-07-14,Completed,30616,UPI,Cetirizine,6,X-Ray,Abnormal
+100101,"Aarav Iyer",Female,51,Adilabad,2025-06-24,2025-06-27,Discharged,Asthma,"Dr. Meera Sharma",Male,11,Neurology,2025-07-14,Completed,30616,UPI,Ibuprofen,8,MRI,Abnormal
+100101,"Aarav Iyer",Female,51,Adilabad,2025-06-24,2025-06-27,Discharged,Asthma,"Dr. Meera Sharma",Male,11,Neurology,2025-07-14,Completed,30616,UPI,Ibuprofen,8,X-Ray,Abnormal
+100101,"Aarav Iyer",Female,51,Adilabad,2025-06-24,2025-06-27,Discharged,Asthma,"Dr. Meera Sharma",Male,11,Neurology,2025-07-04,Cancelled,30616,UPI,Cetirizine,6,MRI,Abnormal
+100101,"Aarav Iyer",Female,51,Adilabad,2025-06-24,2025-06-27,Discharged,Asthma,"Dr. Meera Sharma",Male,11,Neurology,2025-07-04,Cancelled,30616,UPI,Cetirizine,6,X-Ray,Abnormal
+100101,"Aarav Iyer",Female,51,Adilabad,2025-06-24,2025-06-27,Discharged,Asthma,"Dr. Meera Sharma",Male,11,Neurology,2025-07-04,Cancelled,30616,UPI,Ibuprofen,8,MRI,Abnormal
+100101,"Aarav Iyer",Female,51,Adilabad,2025-06-24,2025-06-27,Discharged,Asthma,"Dr. Meera Sharma",Male,11,Neurology,2025-07-04,Cancelled,30616,UPI,Ibuprofen,8,X-Ray,Abnormal
+100101,"Aarav Iyer",Female,51,Adilabad,2025-06-24,2025-06-27,Discharged,Asthma,"Dr. Meera Sharma",Male,11,Neurology,2025-07-21,Cancelled,30616,UPI,Cetirizine,6,MRI,Abnormal
+100101,"Aarav Iyer",Female,51,Adilabad,2025-06-24,2025-06-27,Discharged,Asthma,"Dr. Meera Sharma",Male,11,Neurology,2025-07-21,Cancelled,30616,UPI,Cetirizine,6,X-Ray,Abnormal
+100101,"Aarav Iyer",Female,51,Adilabad,2025-06-24,2025-06-27,Discharged,Asthma,"Dr. Meera Sharma",Male,11,Neurology,2025-07-21,Cancelled,30616,UPI,Ibuprofen,8,MRI,Abnormal
+100101,"Aarav Iyer",Female,51,Adilabad,2025-06-24,2025-06-27,Discharged,Asthma,"Dr. Meera Sharma",Male,11,Neurology,2025-07-21,Cancelled,30616,UPI,Ibuprofen,8,X-Ray,Abnormal
+100102,"Aarav Das",Male,31,Karimnagar,2025-02-05,,Admitted,Hypertension,"Dr. Ananya Kumar",Male,26,"General Medicine",2025-02-10,Cancelled,51957,UPI,Insulin,9,MRI,Abnormal
+100102,"Aarav Das",Male,31,Karimnagar,2025-02-05,,Admitted,Hypertension,"Dr. Ananya Kumar",Male,26,"General Medicine",2025-02-10,Cancelled,51957,UPI,Insulin,9,ECG,Normal
+100102,"Aarav Das",Male,31,Karimnagar,2025-02-05,,Admitted,Hypertension,"Dr. Ananya Kumar",Male,26,"General Medicine",2025-02-10,Cancelled,51957,UPI,Metformin,6,MRI,Abnormal
+100102,"Aarav Das",Male,31,Karimnagar,2025-02-05,,Admitted,Hypertension,"Dr. Ananya Kumar",Male,26,"General Medicine",2025-02-10,Cancelled,51957,UPI,Metformin,6,ECG,Normal
+100102,"Aarav Das",Male,31,Karimnagar,2025-02-05,,Admitted,Hypertension,"Dr. Ananya Kumar",Male,26,"General Medicine",2025-02-19,Completed,51957,UPI,Insulin,9,MRI,Abnormal
+100102,"Aarav Das",Male,31,Karimnagar,2025-02-05,,Admitted,Hypertension,"Dr. Ananya Kumar",Male,26,"General Medicine",2025-02-19,Completed,51957,UPI,Insulin,9,ECG,Normal
+100102,"Aarav Das",Male,31,Karimnagar,2025-02-05,,Admitted,Hypertension,"Dr. Ananya Kumar",Male,26,"General Medicine",2025-02-19,Completed,51957,UPI,Metformin,6,MRI,Abnormal
+100102,"Aarav Das",Male,31,Karimnagar,2025-02-05,,Admitted,Hypertension,"Dr. Ananya Kumar",Male,26,"General Medicine",2025-02-19,Completed,51957,UPI,Metformin,6,ECG,Normal
+100102,"Aarav Das",Male,31,Karimnagar,2025-02-05,,Admitted,Hypertension,"Dr. Ananya Kumar",Male,26,"General Medicine",2025-02-22,Cancelled,51957,UPI,Insulin,9,MRI,Abnormal
+100102,"Aarav Das",Male,31,Karimnagar,2025-02-05,,Admitted,Hypertension,"Dr. Ananya Kumar",Male,26,"General Medicine",2025-02-22,Cancelled,51957,UPI,Insulin,9,ECG,Normal
+100102,"Aarav Das",Male,31,Karimnagar,2025-02-05,,Admitted,Hypertension,"Dr. Ananya Kumar",Male,26,"General Medicine",2025-02-22,Cancelled,51957,UPI,Metformin,6,MRI,Abnormal
+100102,"Aarav Das",Male,31,Karimnagar,2025-02-05,,Admitted,Hypertension,"Dr. Ananya Kumar",Male,26,"General Medicine",2025-02-22,Cancelled,51957,UPI,Metformin,6,ECG,Normal
+100102,"Aarav Das",Male,31,Karimnagar,2025-02-05,,Admitted,Hypertension,"Dr. Ananya Kumar",Male,26,"General Medicine",2025-03-03,Completed,51957,UPI,Insulin,9,MRI,Abnormal
+100102,"Aarav Das",Male,31,Karimnagar,2025-02-05,,Admitted,Hypertension,"Dr. Ananya Kumar",Male,26,"General Medicine",2025-03-03,Completed,51957,UPI,Insulin,9,ECG,Normal
+100102,"Aarav Das",Male,31,Karimnagar,2025-02-05,,Admitted,Hypertension,"Dr. Ananya Kumar",Male,26,"General Medicine",2025-03-03,Completed,51957,UPI,Metformin,6,MRI,Abnormal
+100102,"Aarav Das",Male,31,Karimnagar,2025-02-05,,Admitted,Hypertension,"Dr. Ananya Kumar",Male,26,"General Medicine",2025-03-03,Completed,51957,UPI,Metformin,6,ECG,Normal
+100103,"Arjun Nair",Female,76,Sangareddy,2025-08-21,2025-08-24,Recovered,Sinusitis,"Dr. Arjun Joshi",Male,18,Pediatrics,2025-08-23,Scheduled,65053,Insurance,Ibuprofen,3,MRI,Normal
+100103,"Arjun Nair",Female,76,Sangareddy,2025-08-21,2025-08-24,Recovered,Sinusitis,"Dr. Arjun Joshi",Male,18,Pediatrics,2025-08-23,Scheduled,65053,Insurance,Metformin,14,MRI,Normal
+100103,"Arjun Nair",Female,76,Sangareddy,2025-08-21,2025-08-24,Recovered,Sinusitis,"Dr. Arjun Joshi",Male,18,Pediatrics,2025-09-11,Scheduled,65053,Insurance,Ibuprofen,3,MRI,Normal
+100103,"Arjun Nair",Female,76,Sangareddy,2025-08-21,2025-08-24,Recovered,Sinusitis,"Dr. Arjun Joshi",Male,18,Pediatrics,2025-09-11,Scheduled,65053,Insurance,Metformin,14,MRI,Normal
+100103,"Arjun Nair",Female,76,Sangareddy,2025-08-21,2025-08-24,Recovered,Sinusitis,"Dr. Arjun Joshi",Male,18,Pediatrics,2025-08-25,Completed,65053,Insurance,Ibuprofen,3,MRI,Normal
+100103,"Arjun Nair",Female,76,Sangareddy,2025-08-21,2025-08-24,Recovered,Sinusitis,"Dr. Arjun Joshi",Male,18,Pediatrics,2025-08-25,Completed,65053,Insurance,Metformin,14,MRI,Normal
+100103,"Arjun Nair",Female,76,Sangareddy,2025-08-21,2025-08-24,Recovered,Sinusitis,"Dr. Arjun Joshi",Male,18,Pediatrics,2025-09-06,Completed,65053,Insurance,Ibuprofen,3,MRI,Normal
+100103,"Arjun Nair",Female,76,Sangareddy,2025-08-21,2025-08-24,Recovered,Sinusitis,"Dr. Arjun Joshi",Male,18,Pediatrics,2025-09-06,Completed,65053,Insurance,Metformin,14,MRI,Normal
+100104,"Rohan Patel",Male,9,Adilabad,2025-03-30,2025-04-03,Discharged,Asthma,"Dr. Aditya Sharma",Male,4,Gynecology,2025-04-08,Completed,131667,UPI,Amoxicillin,14,"CT Scan",Abnormal
+100104,"Rohan Patel",Male,9,Adilabad,2025-03-30,2025-04-03,Discharged,Asthma,"Dr. Aditya Sharma",Male,4,Gynecology,2025-04-08,Completed,131667,UPI,Amoxicillin,14,MRI,Abnormal
+100104,"Rohan Patel",Male,9,Adilabad,2025-03-30,2025-04-03,Discharged,Asthma,"Dr. Aditya Sharma",Male,4,Gynecology,2025-04-08,Completed,131667,UPI,Amoxicillin,7,"CT Scan",Abnormal
+100104,"Rohan Patel",Male,9,Adilabad,2025-03-30,2025-04-03,Discharged,Asthma,"Dr. Aditya Sharma",Male,4,Gynecology,2025-04-08,Completed,131667,UPI,Amoxicillin,7,MRI,Abnormal
+100104,"Rohan Patel",Male,9,Adilabad,2025-03-30,2025-04-03,Discharged,Asthma,"Dr. Aditya Sharma",Male,4,Gynecology,2025-04-01,Scheduled,131667,UPI,Amoxicillin,14,"CT Scan",Abnormal
+100104,"Rohan Patel",Male,9,Adilabad,2025-03-30,2025-04-03,Discharged,Asthma,"Dr. Aditya Sharma",Male,4,Gynecology,2025-04-01,Scheduled,131667,UPI,Amoxicillin,14,MRI,Abnormal
+100104,"Rohan Patel",Male,9,Adilabad,2025-03-30,2025-04-03,Discharged,Asthma,"Dr. Aditya Sharma",Male,4,Gynecology,2025-04-01,Scheduled,131667,UPI,Amoxicillin,7,"CT Scan",Abnormal
+100104,"Rohan Patel",Male,9,Adilabad,2025-03-30,2025-04-03,Discharged,Asthma,"Dr. Aditya Sharma",Male,4,Gynecology,2025-04-01,Scheduled,131667,UPI,Amoxicillin,7,MRI,Abnormal
+100105,"Aarav Das",Female,53,Hyderabad,2025-05-16,2025-05-19,Recovered,Pneumonia,"Dr. Kiran Joshi",Male,15,Urology,2025-05-25,Completed,121763,Card,Insulin,6,"CT Scan",Normal
+100105,"Aarav Das",Female,53,Hyderabad,2025-05-16,2025-05-19,Recovered,Pneumonia,"Dr. Kiran Joshi",Male,15,Urology,2025-05-25,Completed,121763,Card,Metformin,12,"CT Scan",Normal
+100105,"Aarav Das",Female,53,Hyderabad,2025-05-16,2025-05-19,Recovered,Pneumonia,"Dr. Kiran Joshi",Male,15,Urology,2025-05-19,Completed,121763,Card,Insulin,6,"CT Scan",Normal
+100105,"Aarav Das",Female,53,Hyderabad,2025-05-16,2025-05-19,Recovered,Pneumonia,"Dr. Kiran Joshi",Male,15,Urology,2025-05-19,Completed,121763,Card,Metformin,12,"CT Scan",Normal
+100105,"Aarav Das",Female,53,Hyderabad,2025-05-16,2025-05-19,Recovered,Pneumonia,"Dr. Kiran Joshi",Male,15,Urology,2025-05-27,Scheduled,121763,Card,Insulin,6,"CT Scan",Normal
+100105,"Aarav Das",Female,53,Hyderabad,2025-05-16,2025-05-19,Recovered,Pneumonia,"Dr. Kiran Joshi",Male,15,Urology,2025-05-27,Scheduled,121763,Card,Metformin,12,"CT Scan",Normal
+100106,"Divya Verma",Female,6,Adilabad,2026-03-18,,Admitted,Cancer,"Dr. Meera Nair",Male,27,Emergency,2026-03-26,Cancelled,165508,Card,Cetirizine,8,"Blood Test",Abnormal
+100106,"Divya Verma",Female,6,Adilabad,2026-03-18,,Admitted,Cancer,"Dr. Meera Nair",Male,27,Emergency,2026-03-26,Cancelled,165508,Card,Insulin,13,"Blood Test",Abnormal
+100106,"Divya Verma",Female,6,Adilabad,2026-03-18,,Admitted,Cancer,"Dr. Meera Nair",Male,27,Emergency,2026-04-09,Scheduled,165508,Card,Cetirizine,8,"Blood Test",Abnormal
+100106,"Divya Verma",Female,6,Adilabad,2026-03-18,,Admitted,Cancer,"Dr. Meera Nair",Male,27,Emergency,2026-04-09,Scheduled,165508,Card,Insulin,13,"Blood Test",Abnormal
+100106,"Divya Verma",Female,6,Adilabad,2026-03-18,,Admitted,Cancer,"Dr. Meera Nair",Male,27,Emergency,2026-04-05,Cancelled,165508,Card,Cetirizine,8,"Blood Test",Abnormal
+100106,"Divya Verma",Female,6,Adilabad,2026-03-18,,Admitted,Cancer,"Dr. Meera Nair",Male,27,Emergency,2026-04-05,Cancelled,165508,Card,Insulin,13,"Blood Test",Abnormal
+100106,"Divya Verma",Female,6,Adilabad,2026-03-18,,Admitted,Cancer,"Dr. Meera Nair",Male,27,Emergency,2026-04-13,Completed,165508,Card,Cetirizine,8,"Blood Test",Abnormal
+100106,"Divya Verma",Female,6,Adilabad,2026-03-18,,Admitted,Cancer,"Dr. Meera Nair",Male,27,Emergency,2026-04-13,Completed,165508,Card,Insulin,13,"Blood Test",Abnormal
+100107,"Ananya Ali",Female,27,Sangareddy,2025-02-18,2025-02-20,Recovered,"Kidney Stone","Dr. Meera Reddy",Female,3,Cardiology,2025-02-26,Scheduled,23080,Insurance,Ibuprofen,10,"Urine Test",Normal
+100107,"Ananya Ali",Female,27,Sangareddy,2025-02-18,2025-02-20,Recovered,"Kidney Stone","Dr. Meera Reddy",Female,3,Cardiology,2025-02-26,Scheduled,23080,Insurance,Ibuprofen,10,ECG,Abnormal
+100107,"Ananya Ali",Female,27,Sangareddy,2025-02-18,2025-02-20,Recovered,"Kidney Stone","Dr. Meera Reddy",Female,3,Cardiology,2025-02-26,Scheduled,23080,Insurance,Paracetamol,8,"Urine Test",Normal
+100107,"Ananya Ali",Female,27,Sangareddy,2025-02-18,2025-02-20,Recovered,"Kidney Stone","Dr. Meera Reddy",Female,3,Cardiology,2025-02-26,Scheduled,23080,Insurance,Paracetamol,8,ECG,Abnormal
+100107,"Ananya Ali",Female,27,Sangareddy,2025-02-18,2025-02-20,Recovered,"Kidney Stone","Dr. Meera Reddy",Female,3,Cardiology,2025-03-16,Completed,23080,Insurance,Ibuprofen,10,"Urine Test",Normal
+100107,"Ananya Ali",Female,27,Sangareddy,2025-02-18,2025-02-20,Recovered,"Kidney Stone","Dr. Meera Reddy",Female,3,Cardiology,2025-03-16,Completed,23080,Insurance,Ibuprofen,10,ECG,Abnormal
+100107,"Ananya Ali",Female,27,Sangareddy,2025-02-18,2025-02-20,Recovered,"Kidney Stone","Dr. Meera Reddy",Female,3,Cardiology,2025-03-16,Completed,23080,Insurance,Paracetamol,8,"Urine Test",Normal
+100107,"Ananya Ali",Female,27,Sangareddy,2025-02-18,2025-02-20,Recovered,"Kidney Stone","Dr. Meera Reddy",Female,3,Cardiology,2025-03-16,Completed,23080,Insurance,Paracetamol,8,ECG,Abnormal
+100107,"Ananya Ali",Female,27,Sangareddy,2025-02-18,2025-02-20,Recovered,"Kidney Stone","Dr. Meera Reddy",Female,3,Cardiology,2025-03-13,Scheduled,23080,Insurance,Ibuprofen,10,"Urine Test",Normal
+100107,"Ananya Ali",Female,27,Sangareddy,2025-02-18,2025-02-20,Recovered,"Kidney Stone","Dr. Meera Reddy",Female,3,Cardiology,2025-03-13,Scheduled,23080,Insurance,Ibuprofen,10,ECG,Abnormal
+100107,"Ananya Ali",Female,27,Sangareddy,2025-02-18,2025-02-20,Recovered,"Kidney Stone","Dr. Meera Reddy",Female,3,Cardiology,2025-03-13,Scheduled,23080,Insurance,Paracetamol,8,"Urine Test",Normal
+100107,"Ananya Ali",Female,27,Sangareddy,2025-02-18,2025-02-20,Recovered,"Kidney Stone","Dr. Meera Reddy",Female,3,Cardiology,2025-03-13,Scheduled,23080,Insurance,Paracetamol,8,ECG,Abnormal
+100107,"Ananya Ali",Female,27,Sangareddy,2025-02-18,2025-02-20,Recovered,"Kidney Stone","Dr. Meera Reddy",Female,3,Cardiology,2025-03-13,Cancelled,23080,Insurance,Ibuprofen,10,"Urine Test",Normal
+100107,"Ananya Ali",Female,27,Sangareddy,2025-02-18,2025-02-20,Recovered,"Kidney Stone","Dr. Meera Reddy",Female,3,Cardiology,2025-03-13,Cancelled,23080,Insurance,Ibuprofen,10,ECG,Abnormal
+100107,"Ananya Ali",Female,27,Sangareddy,2025-02-18,2025-02-20,Recovered,"Kidney Stone","Dr. Meera Reddy",Female,3,Cardiology,2025-03-13,Cancelled,23080,Insurance,Paracetamol,8,"Urine Test",Normal
+100107,"Ananya Ali",Female,27,Sangareddy,2025-02-18,2025-02-20,Recovered,"Kidney Stone","Dr. Meera Reddy",Female,3,Cardiology,2025-03-13,Cancelled,23080,Insurance,Paracetamol,8,ECG,Abnormal
+100108,"Vikram Joshi",Male,6,Adilabad,2025-07-30,2025-08-08,Discharged,Cancer,"Dr. Kiran Joshi",Male,15,Urology,2025-08-04,Cancelled,46252,Card,Paracetamol,6,ECG,Abnormal
+100108,"Vikram Joshi",Male,6,Adilabad,2025-07-30,2025-08-08,Discharged,Cancer,"Dr. Kiran Joshi",Male,15,Urology,2025-08-04,Cancelled,46252,Card,Paracetamol,6,X-Ray,Normal
+100108,"Vikram Joshi",Male,6,Adilabad,2025-07-30,2025-08-08,Discharged,Cancer,"Dr. Kiran Joshi",Male,15,Urology,2025-08-04,Cancelled,46252,Card,Metformin,9,ECG,Abnormal
+100108,"Vikram Joshi",Male,6,Adilabad,2025-07-30,2025-08-08,Discharged,Cancer,"Dr. Kiran Joshi",Male,15,Urology,2025-08-04,Cancelled,46252,Card,Metformin,9,X-Ray,Normal
+100108,"Vikram Joshi",Male,6,Adilabad,2025-07-30,2025-08-08,Discharged,Cancer,"Dr. Kiran Joshi",Male,15,Urology,2025-08-29,Completed,46252,Card,Paracetamol,6,ECG,Abnormal
+100108,"Vikram Joshi",Male,6,Adilabad,2025-07-30,2025-08-08,Discharged,Cancer,"Dr. Kiran Joshi",Male,15,Urology,2025-08-29,Completed,46252,Card,Paracetamol,6,X-Ray,Normal
+100108,"Vikram Joshi",Male,6,Adilabad,2025-07-30,2025-08-08,Discharged,Cancer,"Dr. Kiran Joshi",Male,15,Urology,2025-08-29,Completed,46252,Card,Metformin,9,ECG,Abnormal
+100108,"Vikram Joshi",Male,6,Adilabad,2025-07-30,2025-08-08,Discharged,Cancer,"Dr. Kiran Joshi",Male,15,Urology,2025-08-29,Completed,46252,Card,Metformin,9,X-Ray,Normal
+100108,"Vikram Joshi",Male,6,Adilabad,2025-07-30,2025-08-08,Discharged,Cancer,"Dr. Kiran Joshi",Male,15,Urology,2025-08-07,Completed,46252,Card,Paracetamol,6,ECG,Abnormal
+100108,"Vikram Joshi",Male,6,Adilabad,2025-07-30,2025-08-08,Discharged,Cancer,"Dr. Kiran Joshi",Male,15,Urology,2025-08-07,Completed,46252,Card,Paracetamol,6,X-Ray,Normal
+100108,"Vikram Joshi",Male,6,Adilabad,2025-07-30,2025-08-08,Discharged,Cancer,"Dr. Kiran Joshi",Male,15,Urology,2025-08-07,Completed,46252,Card,Metformin,9,ECG,Abnormal
+100108,"Vikram Joshi",Male,6,Adilabad,2025-07-30,2025-08-08,Discharged,Cancer,"Dr. Kiran Joshi",Male,15,Urology,2025-08-07,Completed,46252,Card,Metformin,9,X-Ray,Normal
+100108,"Vikram Joshi",Male,6,Adilabad,2025-07-30,2025-08-08,Discharged,Cancer,"Dr. Kiran Joshi",Male,15,Urology,2025-08-06,Scheduled,46252,Card,Paracetamol,6,ECG,Abnormal
+100108,"Vikram Joshi",Male,6,Adilabad,2025-07-30,2025-08-08,Discharged,Cancer,"Dr. Kiran Joshi",Male,15,Urology,2025-08-06,Scheduled,46252,Card,Paracetamol,6,X-Ray,Normal
+100108,"Vikram Joshi",Male,6,Adilabad,2025-07-30,2025-08-08,Discharged,Cancer,"Dr. Kiran Joshi",Male,15,Urology,2025-08-06,Scheduled,46252,Card,Metformin,9,ECG,Abnormal
+100108,"Vikram Joshi",Male,6,Adilabad,2025-07-30,2025-08-08,Discharged,Cancer,"Dr. Kiran Joshi",Male,15,Urology,2025-08-06,Scheduled,46252,Card,Metformin,9,X-Ray,Normal
+100109,"Ishaan Singh",Female,18,Sangareddy,2025-09-01,2025-09-02,Recovered,"Kidney Stone","Dr. Neha Ali",Male,28,Urology,2025-09-27,Completed,78978,Card,Amoxicillin,13,"Urine Test",Abnormal
+100109,"Ishaan Singh",Female,18,Sangareddy,2025-09-01,2025-09-02,Recovered,"Kidney Stone","Dr. Neha Ali",Male,28,Urology,2025-09-27,Completed,78978,Card,Cetirizine,9,"Urine Test",Abnormal
+100109,"Ishaan Singh",Female,18,Sangareddy,2025-09-01,2025-09-02,Recovered,"Kidney Stone","Dr. Neha Ali",Male,28,Urology,2025-09-11,Scheduled,78978,Card,Amoxicillin,13,"Urine Test",Abnormal
+100109,"Ishaan Singh",Female,18,Sangareddy,2025-09-01,2025-09-02,Recovered,"Kidney Stone","Dr. Neha Ali",Male,28,Urology,2025-09-11,Scheduled,78978,Card,Cetirizine,9,"Urine Test",Abnormal
+100109,"Ishaan Singh",Female,18,Sangareddy,2025-09-01,2025-09-02,Recovered,"Kidney Stone","Dr. Neha Ali",Male,28,Urology,2025-09-19,Completed,78978,Card,Amoxicillin,13,"Urine Test",Abnormal
+100109,"Ishaan Singh",Female,18,Sangareddy,2025-09-01,2025-09-02,Recovered,"Kidney Stone","Dr. Neha Ali",Male,28,Urology,2025-09-19,Completed,78978,Card,Cetirizine,9,"Urine Test",Abnormal
+100109,"Ishaan Singh",Female,18,Sangareddy,2025-09-01,2025-09-02,Recovered,"Kidney Stone","Dr. Neha Ali",Male,28,Urology,2025-09-05,Scheduled,78978,Card,Amoxicillin,13,"Urine Test",Abnormal
+100109,"Ishaan Singh",Female,18,Sangareddy,2025-09-01,2025-09-02,Recovered,"Kidney Stone","Dr. Neha Ali",Male,28,Urology,2025-09-05,Scheduled,78978,Card,Cetirizine,9,"Urine Test",Abnormal
+100110,"Divya Sharma",Female,63,Nizamabad,2025-07-31,,Admitted,Diabetes,"Dr. Kiran Joshi",Male,5,Gynecology,2025-08-14,Completed,16315,UPI,Ibuprofen,10,"Urine Test",Normal
+100110,"Divya Sharma",Female,63,Nizamabad,2025-07-31,,Admitted,Diabetes,"Dr. Kiran Joshi",Male,5,Gynecology,2025-08-14,Completed,16315,UPI,Ibuprofen,10,MRI,Normal
+100110,"Divya Sharma",Female,63,Nizamabad,2025-07-31,,Admitted,Diabetes,"Dr. Kiran Joshi",Male,5,Gynecology,2025-08-14,Completed,16315,UPI,Amoxicillin,8,"Urine Test",Normal
+100110,"Divya Sharma",Female,63,Nizamabad,2025-07-31,,Admitted,Diabetes,"Dr. Kiran Joshi",Male,5,Gynecology,2025-08-14,Completed,16315,UPI,Amoxicillin,8,MRI,Normal
+100110,"Divya Sharma",Female,63,Nizamabad,2025-07-31,,Admitted,Diabetes,"Dr. Kiran Joshi",Male,5,Gynecology,2025-08-22,Cancelled,16315,UPI,Ibuprofen,10,"Urine Test",Normal
+100110,"Divya Sharma",Female,63,Nizamabad,2025-07-31,,Admitted,Diabetes,"Dr. Kiran Joshi",Male,5,Gynecology,2025-08-22,Cancelled,16315,UPI,Ibuprofen,10,MRI,Normal
+100110,"Divya Sharma",Female,63,Nizamabad,2025-07-31,,Admitted,Diabetes,"Dr. Kiran Joshi",Male,5,Gynecology,2025-08-22,Cancelled,16315,UPI,Amoxicillin,8,"Urine Test",Normal
+100110,"Divya Sharma",Female,63,Nizamabad,2025-07-31,,Admitted,Diabetes,"Dr. Kiran Joshi",Male,5,Gynecology,2025-08-22,Cancelled,16315,UPI,Amoxicillin,8,MRI,Normal
+100110,"Divya Sharma",Female,63,Nizamabad,2025-07-31,,Admitted,Diabetes,"Dr. Kiran Joshi",Male,5,Gynecology,2025-08-06,Completed,16315,UPI,Ibuprofen,10,"Urine Test",Normal
+100110,"Divya Sharma",Female,63,Nizamabad,2025-07-31,,Admitted,Diabetes,"Dr. Kiran Joshi",Male,5,Gynecology,2025-08-06,Completed,16315,UPI,Ibuprofen,10,MRI,Normal
+100110,"Divya Sharma",Female,63,Nizamabad,2025-07-31,,Admitted,Diabetes,"Dr. Kiran Joshi",Male,5,Gynecology,2025-08-06,Completed,16315,UPI,Amoxicillin,8,"Urine Test",Normal
+100110,"Divya Sharma",Female,63,Nizamabad,2025-07-31,,Admitted,Diabetes,"Dr. Kiran Joshi",Male,5,Gynecology,2025-08-06,Completed,16315,UPI,Amoxicillin,8,MRI,Normal
+100111,"Rahul Singh",Female,73,Medak,2026-04-25,2026-05-03,Recovered,Hypertension,"Dr. Rohan Verma",Female,22,Cardiology,2026-05-05,Completed,169611,Insurance,Insulin,7,"Blood Test",Normal
+100111,"Rahul Singh",Female,73,Medak,2026-04-25,2026-05-03,Recovered,Hypertension,"Dr. Rohan Verma",Female,22,Cardiology,2026-05-05,Completed,169611,Insurance,Insulin,7,ECG,Normal
+100111,"Rahul Singh",Female,73,Medak,2026-04-25,2026-05-03,Recovered,Hypertension,"Dr. Rohan Verma",Female,22,Cardiology,2026-05-05,Completed,169611,Insurance,Metformin,4,"Blood Test",Normal
+100111,"Rahul Singh",Female,73,Medak,2026-04-25,2026-05-03,Recovered,Hypertension,"Dr. Rohan Verma",Female,22,Cardiology,2026-05-05,Completed,169611,Insurance,Metformin,4,ECG,Normal
+100111,"Rahul Singh",Female,73,Medak,2026-04-25,2026-05-03,Recovered,Hypertension,"Dr. Rohan Verma",Female,22,Cardiology,2026-05-20,Scheduled,169611,Insurance,Insulin,7,"Blood Test",Normal
+100111,"Rahul Singh",Female,73,Medak,2026-04-25,2026-05-03,Recovered,Hypertension,"Dr. Rohan Verma",Female,22,Cardiology,2026-05-20,Scheduled,169611,Insurance,Insulin,7,ECG,Normal
+100111,"Rahul Singh",Female,73,Medak,2026-04-25,2026-05-03,Recovered,Hypertension,"Dr. Rohan Verma",Female,22,Cardiology,2026-05-20,Scheduled,169611,Insurance,Metformin,4,"Blood Test",Normal
+100111,"Rahul Singh",Female,73,Medak,2026-04-25,2026-05-03,Recovered,Hypertension,"Dr. Rohan Verma",Female,22,Cardiology,2026-05-20,Scheduled,169611,Insurance,Metformin,4,ECG,Normal
+100111,"Rahul Singh",Female,73,Medak,2026-04-25,2026-05-03,Recovered,Hypertension,"Dr. Rohan Verma",Female,22,Cardiology,2026-05-10,Completed,169611,Insurance,Insulin,7,"Blood Test",Normal
+100111,"Rahul Singh",Female,73,Medak,2026-04-25,2026-05-03,Recovered,Hypertension,"Dr. Rohan Verma",Female,22,Cardiology,2026-05-10,Completed,169611,Insurance,Insulin,7,ECG,Normal
+100111,"Rahul Singh",Female,73,Medak,2026-04-25,2026-05-03,Recovered,Hypertension,"Dr. Rohan Verma",Female,22,Cardiology,2026-05-10,Completed,169611,Insurance,Metformin,4,"Blood Test",Normal
+100111,"Rahul Singh",Female,73,Medak,2026-04-25,2026-05-03,Recovered,Hypertension,"Dr. Rohan Verma",Female,22,Cardiology,2026-05-10,Completed,169611,Insurance,Metformin,4,ECG,Normal
+100112,"Divya Das",Male,82,Adilabad,2025-01-26,2025-01-29,Recovered,Pneumonia,"Dr. Aditya Singh",Male,25,Pulmonology,2025-01-31,Scheduled,44660,Cash,Amoxicillin,8,"Urine Test",Abnormal
+100112,"Divya Das",Male,82,Adilabad,2025-01-26,2025-01-29,Recovered,Pneumonia,"Dr. Aditya Singh",Male,25,Pulmonology,2025-01-31,Scheduled,44660,Cash,Metformin,8,"Urine Test",Abnormal
+100112,"Divya Das",Male,82,Adilabad,2025-01-26,2025-01-29,Recovered,Pneumonia,"Dr. Aditya Singh",Male,25,Pulmonology,2025-02-05,Cancelled,44660,Cash,Amoxicillin,8,"Urine Test",Abnormal
+100112,"Divya Das",Male,82,Adilabad,2025-01-26,2025-01-29,Recovered,Pneumonia,"Dr. Aditya Singh",Male,25,Pulmonology,2025-02-05,Cancelled,44660,Cash,Metformin,8,"Urine Test",Abnormal
+100112,"Divya Das",Male,82,Adilabad,2025-01-26,2025-01-29,Recovered,Pneumonia,"Dr. Aditya Singh",Male,25,Pulmonology,2025-02-18,Scheduled,44660,Cash,Amoxicillin,8,"Urine Test",Abnormal
+100112,"Divya Das",Male,82,Adilabad,2025-01-26,2025-01-29,Recovered,Pneumonia,"Dr. Aditya Singh",Male,25,Pulmonology,2025-02-18,Scheduled,44660,Cash,Metformin,8,"Urine Test",Abnormal
+100112,"Divya Das",Male,82,Adilabad,2025-01-26,2025-01-29,Recovered,Pneumonia,"Dr. Aditya Singh",Male,25,Pulmonology,2025-02-21,Cancelled,44660,Cash,Amoxicillin,8,"Urine Test",Abnormal
+100112,"Divya Das",Male,82,Adilabad,2025-01-26,2025-01-29,Recovered,Pneumonia,"Dr. Aditya Singh",Male,25,Pulmonology,2025-02-21,Cancelled,44660,Cash,Metformin,8,"Urine Test",Abnormal
+100113,"Varun Ali",Female,7,Nizamabad,2025-03-01,,Admitted,Allergy,"Dr. Divya Kumar",Female,11,Dermatology,2025-03-05,Scheduled,111381,Insurance,Amoxicillin,10,"CT Scan",Abnormal
+100113,"Varun Ali",Female,7,Nizamabad,2025-03-01,,Admitted,Allergy,"Dr. Divya Kumar",Female,11,Dermatology,2025-03-05,Scheduled,111381,Insurance,Amoxicillin,10,"Blood Test",Normal
